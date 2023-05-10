@@ -1,0 +1,1523 @@
+col:taxonID	col:sourceID	col:areaID	col:area	col:gazetteer	col:status	col:referenceID	col:remarks
+ZOBO00031840			MAR	text	native		
+ZOBO00031841			MAR	text	native		
+ZOBO00031846			ESP PRT	text	native		
+ZOBO00031851			ISR MAR	text	native		
+ZOBO00031853			MAR	text	native		
+ZOBO00010068			AUT CHE ESP FRA GRC HRV ITA TUR	text	native		
+ZOBO00149523			IRN	text	native		
+ZOBO00031782			TUN	text	native		
+ZOBO00031787			ESP	text	native		
+ZOBO00031772			SYR	text	native		
+ZOBO00031773			GRC TUR	text	native		
+ZOBO00031775			CYP ISR JOR MAR TUN	text	native		
+ZOBO00031779			TUR	text	native		
+ZOBO00031766			LBY MAR	text	native		
+ZOBO00031812			ARE	text	native		
+ZOBO00031804			CYP SYR TUR	text	native		
+ZOBO00031806			TUR	text	native		
+ZOBO00031799			TUN	text	native		
+ZOBO00037142			GRC	text	native		
+ZOBO00037380			ISR	text	native		
+ZOBO00031930			MAR	text	native		
+ZOBO00031936			ARE TUN	text	native		
+ZOBO00031949			TUR	text	native		
+ZOBO00031954			ISR MAR	text	native		
+ZOBO00031953			ISR	text	native		
+ZOBO00031919			MAR TUN	text	native		
+ZOBO00031955			ISR TUN	text	native		
+ZOBO00031918			MAR	text	native		
+ZOBO00144297			HRV	text	native		
+ZOBO00031740			ZAF	text	native		
+ZOBO00031742			ZAF	text	native		
+ZOBO00031817			MAR	text	native		
+ZOBO00031816			ESP GRC LBN	text	native		
+ZOBO00031819			TUR	text	native		
+ZOBO00031826			MAR	text	native		
+ZOBO00031825			ESP	text	native		
+ZOBO00031827			MAR	text	native		
+ZOBO00031821			TUR	text	native		
+ZOBO00031823			MAR	text	native		
+ZOBO00031830			FRA	text	native		
+ZOBO00043912			CHL	text	native		
+ZOBO00031863			ISR JOR	text	native		
+ZOBO00037186			USA	text	native		
+ZOBO00037185			USA	text	native		
+ZOBO00039779			USA	text	native		
+ZOBO00010069			AUT TUR	text	native		
+ZOBO00031897			MEX USA	text	native		
+ZOBO00031900			USA	text	native		
+ZOBO00031905			USA	text	native		
+ZOBO00031906			USA	text	native		
+ZOBO00031908			AUT	text	native		
+ZOBO00031833			CHL	text	native		
+ZOBO00031834			CHL	text	native		
+ZOBO00149784			CHL	text	native		
+ZOBO00033405			ARG	text	native		
+ZOBO00033401			CHL	text	native		
+ZOBO00033400			CHL COD	text	native		
+ZOBO00033393			CHL	text	native		
+ZOBO00033432			CHL	text	native		
+ZOBO00033430			CHL COD	text	native		
+ZOBO00033416			ARG CHL	text	native		
+ZOBO00035051			ISR	text	native		
+ZOBO00035055			KAZ KGZ	text	native		
+ZOBO00035050			TUN	text	native		
+ZOBO00035049			MAR	text	native		
+ZOBO00032012			AUS	text	native		
+ZOBO00037196			KAZ	text	native		
+ZOBO00034877			GRC TUR	text	native		
+ZOBO00034876			TUR	text	native		
+ZOBO00034875			ISR MAR TUN	text	native		
+ZOBO00034881			TUN	text	native		
+ZOBO00033782			USA	text	native		
+ZOBO00034852			MAR	text	native		
+ZOBO00034853			ISR	text	native		
+ZOBO00037068			USA	text	native		
+ZOBO00031724			BGR DEU ESP FRA GRC ITA JOR MAR TUR	text	native		
+ZOBO00031729			EGY ESP FRA ISR ITA JOR MAR MLT TUN	text	native		
+ZOBO00033282			EGY	text	native		
+ZOBO00018094			AUT CHE CHN CZE DEU ESP FRA GBR GRC ITA RUS TUR	text	native		
+ZOBO00033244			AUT CHE RUS TUR	text	native		
+ZOBO00037193			RUS TUR	text	native		
+ZOBO00023969			AUT BGR FRA GRC ISR ITA SYR TUR	text	native		
+ZOBO00033159			CYP	text	native		
+ZOBO00033160			IRN TKM	text	native		
+ZOBO00010044			AUT BGR CHE CZE DEU IRN ITA KAZ RUS TUR	text	native		
+ZOBO00010043			AUT BGR ESP FRA GR GRC ITA JOR MAR TUR	text	native		
+ZOBO00010042			AUT AZE BGR CHN ESP FRA GRC HRV ITA JOR KAZ KGZ MAR MLT SYR TUN TUR	text	native		
+ZOBO00125537			GRC	text	native		
+ZOBO00033284			GRC JOR	text	native		
+ZOBO00033191			USA	text	native		
+ZOBO00033181			USA	text	native		
+ZOBO00033182			USA	text	native		
+ZOBO00033187			USA	text	native		
+ZOBO00033180			CHN FRA GRC ISR ITA KAZ MAR TUR	text	native		
+ZOBO00033173			USA	text	native		
+ZOBO00033162			EGY JOR	text	native		
+ZOBO00033207			CAN USA	text	native		
+ZOBO00033199			THA	text	native		
+ZOBO00033194			USA	text	native		
+ZOBO00033195			USA	text	native		
+ZOBO00033193			ESP GRC SYR TUR	text	native		
+ZOBO00033128			USA	text	native		
+ZOBO00033115			MEX USA	text	native		
+ZOBO00033118			USA	text	native		
+ZOBO00033119			USA	text	native		
+ZOBO00033121			USA	text	native		
+ZOBO00033124			USA	text	native		
+ZOBO00033123			USA	text	native		
+ZOBO00033122			USA	text	native		
+ZOBO00033110			MEX USA	text	native		
+ZOBO00033147			USA	text	native		
+ZOBO00033145			MEX	text	native		
+ZOBO00033140			USA	text	native		
+ZOBO00033138			KAZ	text	native		
+ZOBO00033129			MAR TUN	text	native		
+ZOBO00033133			USA	text	native		
+ZOBO00033132			ESP MAR	text	native		
+ZOBO00033279			HKG MUS	text	native		
+ZOBO00125540			ESP	text	native		
+ZOBO00033251			EGY	text	native		
+ZOBO00033249			AZE KAZ SYR	text	native		
+ZOBO00033246			E ESP	text	native		
+ZOBO00033241			KAZ	text	native		
+ZOBO00033256			ISR	text	native		
+ZOBO00033257			ARE IRN KAZ TKM TUR	text	native		
+ZOBO00033258			GRC	text	native		
+ZOBO00033223			SDN	text	native		
+ZOBO00033215			USA	text	native		
+ZOBO00033238			USA	text	native		
+ZOBO00033226			CHN JPN	text	native		
+ZOBO00033229			CHN	text	native		
+ZOBO00033227			TWN	text	native		
+ZOBO00037073			CHN TWN	text	native		
+ZOBO00037070			CRI GTM MEX	text	native		
+ZOBO00037071			PAK	text	native		
+ZOBO00037055			COL ECU GUF PAN	text	native		
+ZOBO00037057			ECU	text	native		
+ZOBO00036568			BRA GUF	text	native		
+ZOBO00036565			IDN NPL THA	text	native		
+ZOBO00036566			THA	text	native		
+ZOBO00036575			CMR TUN	text	native		
+ZOBO00036570			IDN TWN	text	native		
+ZOBO00036544			GTM MEX	text	native		
+ZOBO00036549			IDN IND KHM LAO MDV NPL PAK THA UZB	text	native		
+ZOBO00037054			PHL	text	native		
+ZOBO00036559			IND NPL	text	native		
+ZOBO00036558			PNG	text	native		
+ZOBO00036590			CMR	text	native		
+ZOBO00036585			GUF PER	text	native		
+ZOBO00036578			PNG	text	native		
+ZOBO00036601			PER	text	native		
+ZOBO00036594			ARG BRA ECU PER TTO VEN	text	native		
+ZOBO00036597			ARE IRN IRQ JOR MRT NPL OMN PAK	text	native		
+ZOBO00036599			PHL PRI	text	native		
+ZOBO00036493			CUB	text	native		
+ZOBO00036521			IDN THA	text	native		
+ZOBO00036519			PER	text	native		
+ZOBO00036501			IDN NPL	text	native		
+ZOBO00036504			TWN	text	native		
+ZOBO00031717			CHN	text	native		
+ZOBO00036510			THA	text	native		
+ZOBO00036502			NPL PAK	text	native		
+ZOBO00036503			IDN	text	native		
+ZOBO00036500			DEU	text	native		
+ZOBO00036531			TWN	text	native		
+ZOBO00036526			AUT MDG	text	native		
+ZOBO00036542			CHN	text	native		
+ZOBO00036538			GIN ZAF ZMB	text	native		
+ZOBO00036534			ARG BRA	text	native		
+ZOBO00036344			BRA GUF	text	native		
+ZOBO00036345			BRA	text	native		
+ZOBO00036346			ARG CHL	text	native		
+ZOBO00036351			BOL CHL	text	native		
+ZOBO00036336			USA	text	native		
+ZOBO00036324			NPL	text	native		
+ZOBO00036312			NPL	text	native		
+ZOBO00036313			MDG	text	native		
+ZOBO00036315			MDG	text	native		
+ZOBO00036317			USA	text	native		
+ZOBO00036318			USA	text	native		
+ZOBO00036399			CIV COD MWI SEN TGO YEM ZAF ZMB	text	native		
+ZOBO00036397			BHS MEX USA	text	native		
+ZOBO00036396			COL CRI PER	text	native		
+ZOBO00036381			GIN KEN TZA ZAF ZMB	text	native		
+ZOBO00036380			BRA GUF PER	text	native		
+ZOBO00036388			GTM JAM MEX USA	text	native		
+ZOBO00036389			USA	text	native		
+ZOBO00036384			CHN KOR RUS	text	native		
+ZOBO00036370			USA	text	native		
+ZOBO00036371			MEX USA	text	native		
+ZOBO00036368			CZE	text	native		
+ZOBO00036377			CUB	text	native		
+ZOBO00036374			DOM JAM	text	native		
+ZOBO00036375			PRI	text	native		
+ZOBO00036376			GLP	text	native		
+ZOBO00036359			BLZ GTM MEX PAN PER PRY	text	native		
+ZOBO00036361			GUF	text	native		
+ZOBO00036353			BRA COL CRI GTM GUF MEX VEN	text	native		
+ZOBO00036364			ARG	text	native		
+ZOBO00036365			CHN	text	native		
+ZOBO00036366			CHN NZL RUS	text	native		
+ZOBO00036362			USA	text	native		
+ZOBO00036363			ARG BOL PRY	text	native		
+ZOBO00036434			THA	text	native		
+ZOBO00036436			TZA	text	native		
+ZOBO00036426			BOL BRA PER	text	native		
+ZOBO00036428			VEN	text	native		
+ZOBO00036419			CUB	text	native		
+ZOBO00036409			CHN TWN	text	native		
+ZOBO00036410			PER	text	native		
+ZOBO00036405			CAN MEX USA	text	native		
+ZOBO00039735			USA	text	native		
+ZOBO00036406			USA	text	native		
+ZOBO00036400			ARG	text	native		
+ZOBO00036402			USA	text	native		
+ZOBO00036486			PER	text	native		
+ZOBO00036484			USA	text	native		
+ZOBO00036483			BRA MEX	text	native		
+ZOBO00036481			BUR IND MDG MDV MRT MUS NCL NPL SYC THA VNM	text	native		
+ZOBO00036479			BRA GUF PER	text	native		
+ZOBO00036472			IDN	text	native		
+ZOBO00036467			VEN	text	native		
+ZOBO00036464			USA	text	native		
+ZOBO00036461			ARG	text	native		
+ZOBO00036452			BDI CMR COD GIN KEN MLI MOZ MWI SEN TGO TZA YEM ZAF ZMB	text	native		
+ZOBO00043898			GIN	text	native		
+ZOBO00036450			CHN TWN	text	native		
+ZOBO00036451			PER	text	native		
+ZOBO00036444			CRI CUB JAM MEX USA	text	native		
+ZOBO00036448			PER VEN	text	native		
+ZOBO00036446			USA	text	native		
+ZOBO00036449			RUS	text	native		
+ZOBO00036310			BRA	text	native		
+ZOBO00149742			NPL	text	native		
+ZOBO00010018			AUT GRC IRN ITA SVN TUR	text	native		
+ZOBO00010014			AUT BGR FRA GRC HRV HUN IRN ITA JOR KAZ TUR	text	native		
+ZOBO00010015			AUT AZE CHE CYP EGY ESP FRA GRC HRV IRN ITA JOR KAZ KGZ MAR MLT PAK PRT SYR TUN TUR	text	native		
+ZOBO00010016			AUT CZE DEU FRA GRC HRV HUN ITA KAZ	text	native		
+ZOBO00010017			AUT GRC IRN ITA	text	native		
+ZOBO00036341			PER	text	native		
+ZOBO00036367			ARG BRA	text	native		
+ZOBO00036328			ECU	text	native		
+ZOBO00063631			ARG BRA	text	native		
+ZOBO00063492			GUF PER	text	native		
+ZOBO00023966			Aut AUT DEU ESP FRA GRC HRV HUN ITA KAZ KGZ PRT RUS TUR	text	native		
+ZOBO00018082			AUT AZE CHE CZE DEU FRA GRC ITA LIE SVK	text	native		
+ZOBO00036342			IRN KAZ	text	native		
+ZOBO00018083			AUT ESP FRA ITA MAR PRT	text	native		
+ZOBO00037409			CHN TWN	text	native		
+ZOBO00040695			ESP	text	native		
+ZOBO00043934			THA	text	native		
+ZOBO00039726			TUR	text	native		
+ZOBO00039731			KEN	text	native		
+ZOBO00039732			SDN	text	native		
+ZOBO00039733			ZAF	text	native		
+ZOBO00039776			TGO	text	native		
+ZOBO00037354			KEN	text	native		
+ZOBO00031730			ESP	text	native		
+ZOBO00018091			AUT BGR CYP ESP FRA GRC HRV HUN ITA KAZ MAR MLT PRT TUN TUR	text	native		
+ZOBO00010038			AUT DEU ESP FRA GRC HUN ITA TUR	text	native		
+ZOBO00032434			TUR	text	native		
+ZOBO00032437			IND	text	native		
+ZOBO00032439			TZA ZMB	text	native		
+ZOBO00032425			CMR	text	native		
+ZOBO00032426			COD TZA	text	native		
+ZOBO00032428			CHL CIV CMR COD ETH KEN NGA SEN TGO UGA ZAF ZMB	text	native		
+ZOBO00032429			KEN	text	native		
+ZOBO00032430			CMR	text	native		
+ZOBO00032414			COD ETH KEN MWI NAM TZA ZAF ZMB	text	native		
+ZOBO00032418			TUR	text	native		
+ZOBO00032417			YEM	text	native		
+ZOBO00032420			PHL	text	native		
+ZOBO00032421			ZAF	text	native		
+ZOBO00032403			MDG	text	native		
+ZOBO00032404			GRC TUR	text	native		
+ZOBO00032406			GRC	text	native		
+ZOBO00032411			AGO CIV CMR COD ETH GIN KEN NER NGA SEN UGA ZAF	text	native		
+ZOBO00032412			TZA	text	native		
+ZOBO00032387			NPL	text	native		
+ZOBO00032388			IND NPL	text	native		
+ZOBO00032384			ESP	text	native		
+ZOBO00032391			CHL CMR KEN MLI SEN TGO TZA	text	native		
+ZOBO00032390			ZAF	text	native		
+ZOBO00032381			KEN	text	native		
+ZOBO00032380			CMR	text	native		
+ZOBO00032371			MAR TUN	text	native		
+ZOBO00032370			IND THA UZB	text	native		
+ZOBO00032368			GRC	text	native		
+ZOBO00032375			SEN	text	native		
+ZOBO00032374			KEN ZMB	text	native		
+ZOBO00032372			EGY	text	native		
+ZOBO00032361			IDN	text	native		
+ZOBO00032363			IDN	text	native		
+ZOBO00032355			CHN IDN LAO MYS THA TWN	text	native		
+ZOBO00032357			IDN LAO MYS THA	text	native		
+ZOBO00032352			KAZ TKM	text	native		
+ZOBO00032346			COD	text	native		
+ZOBO00032347			CIV CMR	text	native		
+ZOBO00032349			ETH ZAF	text	native		
+ZOBO00032343			MAR TUN	text	native		
+ZOBO00032342			CMR	text	native		
+ZOBO00032344			CMR KEN MLI	text	native		
+ZOBO00032442			NAM	text	native		
+ZOBO00032443			ZAF ZWE	text	native		
+ZOBO00032448			NPL	text	native		
+ZOBO00032452			KEN	text	native		
+ZOBO00032453			ZAF	text	native		
+ZOBO00032484			KAZ	text	native		
+ZOBO00032483			KAZ	text	native		
+ZOBO00032485			ZAF	text	native		
+ZOBO00032479			COD ETH KEN MWI TZA UGA ZAF ZMB	text	native		
+ZOBO00032475			MLI	text	native		
+ZOBO00032477			TUR	text	native		
+ZOBO00032474			ZMB	text	native		
+ZOBO00032467			ETH KEN UGA ZAF	text	native		
+ZOBO00032469			ZAF	text	native		
+ZOBO00032470			ZAF	text	native		
+ZOBO00032465			NPL	text	native		
+ZOBO00032463			MDG	text	native		
+ZOBO00032464			THA	text	native		
+ZOBO00032461			NGA ZAF	text	native		
+ZOBO00032460			CIV COD ETH KEN NGA UGA	text	native		
+ZOBO00032456			MAR TUN	text	native		
+ZOBO00032457			IDN THA	text	native		
+ZOBO00032455			ZAF	text	native		
+ZOBO00033926			PER	text	native		
+ZOBO00033927			BRA	text	native		
+ZOBO00033932			PER	text	native		
+ZOBO00033891			ARG BRA	text	native		
+ZOBO00033900			ARG	text	native		
+ZOBO00033901			BRA	text	native		
+ZOBO00033898			BRA GUF PER	text	native		
+ZOBO00033912			GUF PER	text	native		
+ZOBO00033913			GUF PER	text	native		
+ZOBO00033908			BRA	text	native		
+ZOBO00033909			BRA	text	native		
+ZOBO00033920			ARG GUF	text	native		
+ZOBO00033921			PER	text	native		
+ZOBO00033885			USA	text	native		
+ZOBO00033889			ARG BRA COL GUF MEX PAN PER	text	native		
+ZOBO00033883			NAM PER ZAF	text	native		
+ZOBO00031718			IDN KHM MYS PNG THA	text	native		
+ZOBO00035011			GRC ITA MLT	text	native		
+ZOBO00031719			CYP GRC JOR TUR	text	native		
+ZOBO00035013			ARE IRN	text	native		
+ZOBO00035000			CIV CMR GIN GMB KEN MLI SDN TGO TZA	text	native		
+ZOBO00035002			BWA ETH KEN MOZ MWI NAM TZA ZMB	text	native		
+ZOBO00035005			IDN PNG	text	native		
+ZOBO00035007			IND	text	native		
+ZOBO00035008			IDN	text	native		
+ZOBO00034988			THA	text	native		
+ZOBO00034989			MRT YEM	text	native		
+ZOBO00034983			PHL	text	native		
+ZOBO00034982			PNG	text	native		
+ZOBO00034984			IDN PHL TWN	text	native		
+ZOBO00034985			PHL	text	native		
+ZOBO00035018			IND KHM NPL SYC THA	text	native		
+ZOBO00035017			CHN KOR TWN	text	native		
+ZOBO00036604			CRI	text	native		
+ZOBO00036605			COL GUF PRY	text	native		
+ZOBO00036611			BOL PER	text	native		
+ZOBO00036613			BRA GUF PER	text	native		
+ZOBO00036614			PER	text	native		
+ZOBO00036609			GUF PER	text	native		
+ZOBO00036658			BOL GUF PER	text	native		
+ZOBO00036661			BOL BRA CRI GUF MEX PAN PER TTO	text	native		
+ZOBO00036659			GTM MEX	text	native		
+ZOBO00036663			ARG PRY	text	native		
+ZOBO00036668			PER	text	native		
+ZOBO00036667			PER	text	native		
+ZOBO00036672			ARG BRA GUF PRY VEN	text	native		
+ZOBO00036671			ARG BRA PRY	text	native		
+ZOBO00036674			MEX	text	native		
+ZOBO00036675			AUT ECU PER	text	native		
+ZOBO00036678			PER	text	native		
+ZOBO00036677			BOL GUF PER	text	native		
+ZOBO00036656			PER	text	native		
+ZOBO00036644			ARG BOL BRA COL GUF PAN PER PRY VEN	text	native		
+ZOBO00036649			BOL PER VEN	text	native		
+ZOBO00036645			CRI MEX NIC PER	text	native		
+ZOBO00036646			GUF TTO	text	native		
+ZOBO00036648			GTM MEX PER	text	native		
+ZOBO00036639			GUF PER	text	native		
+ZOBO00036635			BRA GUF PER	text	native		
+ZOBO00036634			PER	text	native		
+ZOBO00036637			BRA COL GUF PER	text	native		
+ZOBO00036636			PER	text	native		
+ZOBO00036629			GTM PER	text	native		
+ZOBO00036632			PER	text	native		
+ZOBO00036633			ARG BOL BRA COL ECU PER VEN	text	native		
+ZOBO00036624			ARG BOL BRA ECU PER	text	native		
+ZOBO00036627			PER	text	native		
+ZOBO00036628			GUF	text	native		
+ZOBO00036619			BRA	text	native		
+ZOBO00036622			ECU PER	text	native		
+ZOBO00036615			BOL PER	text	native		
+ZOBO00036616			BOL BRA	text	native		
+ZOBO00036617			CRI ECU GTM HRV MEX PER SLV	text	native		
+ZOBO00036618			BRA GUF PER	text	native		
+ZOBO00036680			BOL PER	text	native		
+ZOBO00034794			BGR GRC TUR	text	native		
+ZOBO00033839			USA	text	native		
+ZOBO00033840			ITA	text	native		
+ZOBO00033834			ESP	text	native		
+ZOBO00033821			GRC	text	native		
+ZOBO00033820			USA	text	native		
+ZOBO00033811			ISR	text	native		
+ZOBO00033807			ESP MAR TUN	text	native		
+ZOBO00033809			BGR GR GRC	text	native		
+ZOBO00010028			AUT BGR CZE ESP FRA GRC HUN ITA	text	native		
+ZOBO00010027			AUT BGR DEU FRA GRC ITA	text	native		
+ZOBO00010030			AUT BGR DEU FRA GRC ITA TUR	text	native		
+ZOBO00010029			AUT BGR DEU HRV ITA TUR	text	native		
+ZOBO00033830			ITA	text	native		
+ZOBO00018087			AUT CZE DEU ESP FRA ITA TUN	text	native		
+ZOBO00031722			BGR TUR	text	native		
+ZOBO00037400			FRA	text	native		
+ZOBO00037401			ESP	text	native		
+ZOBO00037398			TUN	text	native		
+ZOBO00037399			SCG TUR UKR	text	native		
+ZOBO00037421			TUR	text	native		
+ZOBO00035977			PER	text	native		
+ZOBO00037447			PER	text	native		
+ZOBO00033851			ARG ECU PER	text	native		
+ZOBO00033878			PER	text	native		
+ZOBO00033876			USA	text	native		
+ZOBO00033872			MEX	text	native		
+ZOBO00033866			PER	text	native		
+ZOBO00035449			TZA	text	native		
+ZOBO00039763			COD	text	native		
+ZOBO00035404			YEM	text	native		
+ZOBO00035414			CMR GIN	text	native		
+ZOBO00035407			CMR GIN GMB SDN TGO YEM	text	native		
+ZOBO00035425			CHL CMR COD GIN SEN TCD TGO	text	native		
+ZOBO00035418			CMR GIN	text	native		
+ZOBO00035444			KEN	text	native		
+ZOBO00035390			CMR COD GIN GNB SDN TGO	text	native		
+ZOBO00035391			CMR	text	native		
+ZOBO00035386			COD KEN ZAF	text	native		
+ZOBO00035388			TZA ZMB	text	native		
+ZOBO00035389			COD ETH KEN MWI TGO TZA ZAF ZMB	text	native		
+ZOBO00035401			AGO TZA	text	native		
+ZOBO00035402			KEN	text	native		
+ZOBO00035396			CMR GIN	text	native		
+ZOBO00032522			KEN TZA	text	native		
+ZOBO00032535			BEN CMR GIN TGO ZAF ZMB	text	native		
+ZOBO00032490			KHM	text	native		
+ZOBO00032491			CMR UGA ZAF	text	native		
+ZOBO00032495			MWI NAM ZMB	text	native		
+ZOBO00032492			CMR SDN TGO	text	native		
+ZOBO00032518			TZA	text	native		
+ZOBO00032513			CHN JPN KOR	text	native		
+ZOBO00032498			CHN THA	text	native		
+ZOBO00032510			PHL	text	native		
+ZOBO00032502			CHN TWN	text	native		
+ZOBO00032500			THA	text	native		
+ZOBO00032496			IDN MYS	text	native		
+ZOBO00032524			MDG	text	native		
+ZOBO00032521			MWI TZA ZAF ZMB	text	native		
+ZOBO00032528			ZAF	text	native		
+ZOBO00032527			TGO	text	native		
+ZOBO00032526			PAK	text	native		
+ZOBO00032914			AUS PNG	text	native		
+ZOBO00032915			IDN	text	native		
+ZOBO00032912			MDG	text	native		
+ZOBO00032904			IDN	text	native		
+ZOBO00032658			IDN	text	native		
+ZOBO00032662			PHL	text	native		
+ZOBO00032660			CHN LAO	text	native		
+ZOBO00063725			CMR TGO	text	native		
+ZOBO00039737			TZA	text	native		
+ZOBO00039764			CMR ZAF	text	native		
+ZOBO00037462			TZA	text	native		
+ZOBO00037461			TZA	text	native		
+ZOBO00037456			KEN	text	native		
+ZOBO00037458			KEN	text	native		
+ZOBO00037457			KEN	text	native		
+ZOBO00037460			KEN	text	native		
+ZOBO00037459			ESP KEN	text	native		
+ZOBO00037423			KEN TZA	text	native		
+ZOBO00030390			CMR	text	native		
+ZOBO00033798			BWA TZA ZMB	text	native		
+ZOBO00033796			CMR COD SEN ZMB	text	native		
+ZOBO00033791			AUT CIV CMR GIN KEN TGO TZA ZAF ZMB	text	native		
+ZOBO00033790			CHL COD GIN KEN TZA ZMB	text	native		
+ZOBO00033806			KEN TZA	text	native		
+ZOBO00033805			CHL	text	native		
+ZOBO00033799			AND CHL CMR GHA TGO	text	native		
+ZOBO00033803			ZAF	text	native		
+ZOBO00062796			PHL	text	native		
+ZOBO00037416			HKG	text	native		
+ZOBO00032160			HKG JPN	text	native		
+ZOBO00032155			CHN IDN IND MYS NPL PAK SGP THA TWN	text	native		
+ZOBO00032169			THA	text	native		
+ZOBO00032166			MDV	text	native		
+ZOBO00032165			IDN	text	native		
+ZOBO00032523			MYS	text	native		
+ZOBO00035059			PHL	text	native		
+ZOBO00035069			MYS SGP THA	text	native		
+ZOBO00035070			IDN MYS THA	text	native		
+ZOBO00035072			IDN	text	native		
+ZOBO00035082			IND	text	native		
+ZOBO00154116			THA	text	native		
+ZOBO00037228			PHL	text	native		
+ZOBO00037507			MYS	text	native		
+ZOBO00037214			PHL	text	native		
+ZOBO00032252			IDN	text	native		
+ZOBO00035338			TWN	text	native		
+ZOBO00035334			THA	text	native		
+ZOBO00035335			IDN	text	native		
+ZOBO00035336			PHL	text	native		
+ZOBO00035339			ZAF	text	native		
+ZOBO00035344			IND MYS NPL SYC THA UZB	text	native		
+ZOBO00035343			CMR GIN TGO	text	native		
+ZOBO00033770			AUT PNG	text	native		
+ZOBO00037445			TZA	text	native		
+ZOBO00034175			KEN TZA	text	native		
+ZOBO00034170			CHL CMR GIN	text	native		
+ZOBO00034172			AGO BWA CMR COD ESP ETH KEN NAM TZA ZMB	text	native		
+ZOBO00034167			ZAF	text	native		
+ZOBO00034168			CIV	text	native		
+ZOBO00034169			ZAF	text	native		
+ZOBO00037302			IDN	text	native		
+ZOBO00032928			IND THA	text	native		
+ZOBO00032927			IDN	text	native		
+ZOBO00032924			PHL	text	native		
+ZOBO00037365			THA	text	native		
+ZOBO00033171			SYR TKM YEM	text	native		
+ZOBO00033163			MAR TUN	text	native		
+ZOBO00033109			MWI NAM TZA ZAF ZMB	text	native		
+ZOBO00033281			NAM ZAF	text	native		
+ZOBO00033268			ISR	text	native		
+ZOBO00033243			ETH MAR	text	native		
+ZOBO00033247			CMR KEN SDN SEN TUN	text	native		
+ZOBO00033248			EGY	text	native		
+ZOBO00154104			JOR	text	native		
+ZOBO00018099			AUT CHE DEU FRA	text	native		
+ZOBO00018098			AUT BGR CHE KAZ TUR	text	native		
+ZOBO00010057			AUT AZE BGR CHE CZE DEU ESP HUN ITA KAZ KGZ RUS	text	native		
+ZOBO00010056			AUT BGR CZE DEU FRA GRC ITA JOR LUX TUR	text	native		
+ZOBO00010059			AUT BGR CHE CZE DEU FRA ITA RUS SVK	text	native		
+ZOBO00010058			AUT DEU	text	native		
+ZOBO00010055			AUT ITA RUS	text	native		
+ZOBO00010054			AUT BGR CHE CZE DEU FRA ITA PAK SVK	text	native		
+ZOBO00010060			AUT GRC	text	native		
+ZOBO00035355			NPL	text	native		
+ZOBO00035351			USA	text	native		
+ZOBO00035369			TWN	text	native		
+ZOBO00035371			RUS	text	native		
+ZOBO00035365			RUS	text	native		
+ZOBO00035366			CHN	text	native		
+ZOBO00035363			CAN	text	native		
+ZOBO00035359			CAN USA	text	native		
+ZOBO00035380			KAZ	text	native		
+ZOBO00035382			IND	text	native		
+ZOBO00035383			NPL	text	native		
+ZOBO00035372			KAZ	text	native		
+ZOBO00035376			MAR	text	native		
+ZOBO00043943			KEN	text	native		
+ZOBO00035293			ZAF	text	native		
+ZOBO00035296			ZAF	text	native		
+ZOBO00035288			ZAF	text	native		
+ZOBO00035325			ZAF	text	native		
+ZOBO00035327			KEN	text	native		
+ZOBO00035305			NAM	text	native		
+ZOBO00039730			KEN	text	native		
+ZOBO00039740			KEN SDN	text	native		
+ZOBO00032777			ETH KEN	text	native		
+ZOBO00032775			IRN	text	native		
+ZOBO00032755			CMR TZA	text	native		
+ZOBO00032756			AUT ISR JOR	text	native		
+ZOBO00032752			ISR	text	native		
+ZOBO00032770			IND	text	native		
+ZOBO00032762			MAR TUN	text	native		
+ZOBO00153854			KEN	text	native		
+ZOBO00037450			NAM	text	native		
+ZOBO00037463			KEN	text	native		
+ZOBO00039739			CHL TGO	text	native		
+ZOBO00035500			ZAF	text	native		
+ZOBO00043935			IND	text	native		
+ZOBO00032609			PHL	text	native		
+ZOBO00032610			CHN TWN	text	native		
+ZOBO00037282			NPL	text	native		
+ZOBO00037281			CHN HKG	text	native		
+ZOBO00032614			HKG IDN LAO MYS THA UZB	text	native		
+ZOBO00032615			IDN	text	native		
+ZOBO00043911			ZMB	text	native		
+ZOBO00034671			IDN	text	native		
+ZOBO00039734			NAM	text	native		
+ZOBO00032713			KEN	text	native		
+ZOBO00039741			ETH YEM	text	native		
+ZOBO00034014			KEN	text	native		
+ZOBO00034016			KEN TZA ZAF ZMB	text	native		
+ZOBO00035918			ETH	text	native		
+ZOBO00035915			MDG	text	native		
+ZOBO00035922			CMR	text	native		
+ZOBO00035924			KEN	text	native		
+ZOBO00035927			MDG	text	native		
+ZOBO00035932			CMR	text	native		
+ZOBO00035906			NAM ZAF	text	native		
+ZOBO00035902			CAF CMR COD ETH GIN GMB TGO YEM	text	native		
+ZOBO00035896			MDG	text	native		
+ZOBO00035893			TZA	text	native		
+ZOBO00035877			CMR	text	native		
+ZOBO00035884			GIN MWI	text	native		
+ZOBO00035870			MDG	text	native		
+ZOBO00035861			YEM	text	native		
+ZOBO00035866			YEM	text	native		
+ZOBO00032181			PER	text	native		
+ZOBO00032178			BRA	text	native		
+ZOBO00032173			GUF TTO	text	native		
+ZOBO00032174			PHL	text	native		
+ZOBO00033521			ESP	text	native		
+ZOBO00039762			ISR	text	native		
+ZOBO00037108			AUT	text	native		
+ZOBO00032895			IDN	text	native		
+ZOBO00032897			TWN	text	native		
+ZOBO00032888			CMR	text	native		
+ZOBO00032887			IDN	text	native		
+ZOBO00037662			COD	text	native		
+ZOBO00037663			ZAF	text	native		
+ZOBO00035410			TZA	text	native		
+ZOBO00037467			ETH KEN TZA	text	native		
+ZOBO00031760			ZAF	text	native		
+ZOBO00032138			NAM	text	native		
+ZOBO00032136			BWA ZAF ZMB	text	native		
+ZOBO00031721			FRA ITA MAR	text	native		
+ZOBO00033286			CYP ESP GRC HUN IRN ITA JOR KGZ LBN PRT SYR TUR UKR	text	native		
+ZOBO00033287			ESP	text	native		
+ZOBO00033288			KAZ	text	native		
+ZOBO00033302			CHL COD SEN	text	native		
+ZOBO00033306			KAZ	text	native		
+ZOBO00033303			EGY	text	native		
+ZOBO00033291			CMR SEN	text	native		
+ZOBO00033296			SYR TUR	text	native		
+ZOBO00033297			TUR	text	native		
+ZOBO00033295			AZE SYR TUR	text	native		
+ZOBO00033294			EGY ISR MAR SYR	text	native		
+ZOBO00031728			ESP	text	native		
+ZOBO00010025			AUT KAZ TUR	text	native		
+ZOBO00033333			GRC ITA	text	native		
+ZOBO00033338			MAR	text	native		
+ZOBO00033337			TUN	text	native		
+ZOBO00033332			GRC JOR TUR	text	native		
+ZOBO00033335			JOR	text	native		
+ZOBO00037494			MLI	text	native		
+ZOBO00035384			AGO TZA ZMB	text	native		
+ZOBO00035385			NGA	text	native		
+ZOBO00034393			KEN TZA ZAF	text	native		
+ZOBO00034391			BWA CMR GIN KEN TGO ZMB	text	native		
+ZOBO00034528			CHN	text	native		
+ZOBO00034536			CHN	text	native		
+ZOBO00023970			AUT KAZ TUR	text	native		
+ZOBO00033477			ISR	text	native		
+ZOBO00033483			KAZ TKM	text	native		
+ZOBO00033481			EGY ISR	text	native		
+ZOBO00033475			KAZ	text	native		
+ZOBO00033474			IRN SCG	text	native		
+ZOBO00033472			AZE KAZ	text	native		
+ZOBO00033471			KAZ KGZ	text	native		
+ZOBO00035472			BGR ESP FRA GRC HUN ITA TUR	text	native		
+ZOBO00035474			MAR	text	native		
+ZOBO00035476			JOR	text	native		
+ZOBO00035480			MAR	text	native		
+ZOBO00018092			AUT BGR CHE COL DEU ESP FRA GRC ITA JPN RUS TUR	text	native		
+ZOBO00032143			ITA	text	native		
+ZOBO00018093			AUT CHE DEU FRA GRC HRV ITA JOR SVK TUR	text	native		
+ZOBO00010040			AUT ESP FRA GRC HRV HUN ITA TUR	text	native		
+ZOBO00032153			EGY ETH ISR	text	native		
+ZOBO00032149			CHN	text	native		
+ZOBO00032150			MAR MRT	text	native		
+ZOBO00032142			ESP MAR	text	native		
+ZOBO00032144			GRC KAZ	text	native		
+ZOBO00035484			SYR TUR	text	native		
+ZOBO00018103			AUT CHE CZE DEU ITA KAZ	text	native		
+ZOBO00031765			KAZ	text	native		
+ZOBO00010067			AUT BGR DEU ITA RUS SWE	text	native		
+ZOBO00032874			CHN	text	native		
+ZOBO00032933			IND	text	native		
+ZOBO00032934			IND	text	native		
+ZOBO00034539			TWN	text	native		
+ZOBO00037303			IDN	text	native		
+ZOBO00037328			IND	text	native		
+ZOBO00125528			ESP HRV ITA SVK	text	native		
+ZOBO00010039			AUT CHE ESP FRA GRC HRV IRN ITA KAZ LBN MAR MLT PRT SYR TUR	text	native		
+ZOBO00034606			ISR	text	native		
+ZOBO00037490			VEN	text	native		
+ZOBO00037415			ZMB	text	native		
+ZOBO00035585			GUF	text	native		
+ZOBO00035582			GUF	text	native		
+ZOBO00035597			GUF	text	native		
+ZOBO00035589			PER	text	native		
+ZOBO00035626			BRA	text	native		
+ZOBO00035627			ZAF ZMB	text	native		
+ZOBO00035601			IDN	text	native		
+ZOBO00035613			GUF	text	native		
+ZOBO00035609			ARG	text	native		
+ZOBO00035570			BRA	text	native		
+ZOBO00035560			KEN TZA	text	native		
+ZOBO00035775			USA	text	native		
+ZOBO00035772			ARG PER	text	native		
+ZOBO00035783			GUF	text	native		
+ZOBO00035786			GUF	text	native		
+ZOBO00035796			BWA NAM ZAF	text	native		
+ZOBO00035648			ETH KEN TZA	text	native		
+ZOBO00035641			ZMB	text	native		
+ZOBO00035638			GUF	text	native		
+ZOBO00035667			CRI	text	native		
+ZOBO00035666			BRA	text	native		
+ZOBO00035653			PER	text	native		
+ZOBO00035670			GUF	text	native		
+ZOBO00035671			BOL	text	native		
+ZOBO00035699			GLP	text	native		
+ZOBO00035701			COL	text	native		
+ZOBO00035698			MEX	text	native		
+ZOBO00035704			GUF PER	text	native		
+ZOBO00035705			ECU	text	native		
+ZOBO00035763			SEN	text	native		
+ZOBO00035771			USA	text	native		
+ZOBO00035742			ZAF	text	native		
+ZOBO00035749			ARG GUF PER	text	native		
+ZOBO00035747			NAM	text	native		
+ZOBO00035752			KEN	text	native		
+ZOBO00035734			CUB	text	native		
+ZOBO00039742			TZA	text	native		
+ZOBO00034861			IDN	text	native		
+ZOBO00033518			KAZ	text	native		
+ZOBO00020911			AUT BGR CYP FRA GRC HRV ITA MAR PAK PRT TUR YUG	text	native		
+ZOBO00032841			IRN KAZ	text	native		
+ZOBO00032844			GRC	text	native		
+ZOBO00032843			ESP	text	native		
+ZOBO00032846			PAK	text	native		
+ZOBO00032840			CMR COD GIN TZA	text	native		
+ZOBO00032838			CMR TGO	text	native		
+ZOBO00032836			MDG	text	native		
+ZOBO00032805			AGO CMR GIN KEN SEN TGO TZA YEM	text	native		
+ZOBO00032808			CHL CMR KEN MOZ MWI NAM TGO TZA ZAF	text	native		
+ZOBO00032813			CMR GIN ROU TGO	text	native		
+ZOBO00032809			ETH KEN MAR SEN TZA YEM	text	native		
+ZOBO00032810			ARE EGY ISR JOR YEM	text	native		
+ZOBO00032807			MDG	text	native		
+ZOBO00032815			AUS PNG	text	native		
+ZOBO00032818			AGO ARE ETH ISR JOR KEN MLI TZA YEM ZMB	text	native		
+ZOBO00032819			COD NAM ZAF	text	native		
+ZOBO00032822			BFA CMR	text	native		
+ZOBO00032825			MDG	text	native		
+ZOBO00032827			COD GIN KEN TGO TZA ZAF ZMB	text	native		
+ZOBO00032829			CHN IND KHM NPL PAK THA TWN	text	native		
+ZOBO00032830			IDN MYS THA	text	native		
+ZOBO00032831			IDN MYS	text	native		
+ZOBO00032834			PHL PRI	text	native		
+ZOBO00032832			IDN	text	native		
+ZOBO00154098			IND	text	native		
+ZOBO00032778			SYC	text	native		
+ZOBO00032779			KEN	text	native		
+ZOBO00032781			ETH KEN ZAF	text	native		
+ZOBO00032783			AUS	text	native		
+ZOBO00032786			CHN IDN KHM MYS NPL PHL THA	text	native		
+ZOBO00032787			GIN KEN TZA	text	native		
+ZOBO00032795			IND NPL THA	text	native		
+ZOBO00032797			AGO CHL COD GIN KEN MOZ MWI TZA ZAF ZMB	text	native		
+ZOBO00032798			AFG ARE EGY ETH IND IRN ISR JOR KAZ MAR MRT PAK TUN	text	native		
+ZOBO00032800			BFA CMR COD EGY ETH GIN KEN LBY MDG MLI MWI NAM NGA SEN TGO TZA YEM ZAF	text	native		
+ZOBO00032802			BFA IND IRN JOR NPL PAK THA UZB	text	native		
+ZOBO00032803			ARE BFA CMR EGY ESP KEN MLI SEN TGO TZA YEM	text	native		
+ZOBO00032804			TWN	text	native		
+ZOBO00010041			AUT CHE GRC ITA KAZ TUR USA	text	native		
+ZOBO00034724			GRC	text	native		
+ZOBO00033725			KGZ RUS	text	native		
+ZOBO00125113			FRA	text	native		
+ZOBO00034721			MAR	text	native		
+ZOBO00034720			GRC	text	native		
+ZOBO00034730			GRC TUR	text	native		
+ZOBO00034726			KAZ KGZ	text	native		
+ZOBO00034737			CYP FRA IRN ITA KAZ KGZ TJK TUR UZB	text	native		
+ZOBO00034735			ZAF	text	native		
+ZOBO00034740			TUR	text	native		
+ZOBO00034716			TUR	text	native		
+ZOBO00034750			FRA	text	native		
+ZOBO00034745			KAZ	text	native		
+ZOBO00034746			JOR	text	native		
+ZOBO00034757			ITA TUN	text	native		
+ZOBO00023967			AUT CHE CZE DEU ESP FRA GRC ITA SCG TUR	text	native		
+ZOBO00033330			DZA TUN	text	native		
+ZOBO00010066			AUT CHE ESP FRA ITA KAZ	text	native		
+ZOBO00033510			GRC SCG TUR	text	native		
+ZOBO00033516			GRC IRN TUR	text	native		
+ZOBO00033511			TKM	text	native		
+ZOBO00033499			MAR	text	native		
+ZOBO00033500			NAM ZAF	text	native		
+ZOBO00033492			AFG AZE BGR GRC SCG TUR UKR	text	native		
+ZOBO00033494			ISR	text	native		
+ZOBO00033496			ISR	text	native		
+ZOBO00033484			ITA MAR	text	native		
+ZOBO00033488			ISR JOR PAK	text	native		
+ZOBO00033489			CYP GRC TUR UKR	text	native		
+ZOBO00033491			IRQ UZB	text	native		
+ZOBO00145724			KGZ RUS	text	native		
+ZOBO00033466			TUR	text	native		
+ZOBO00033463			ISR JOR	text	native		
+ZOBO00033743			CMR MLI TZA ZAF ZMB	text	native		
+ZOBO00033744			ETH KEN	text	native		
+ZOBO00033746			ETH TZA	text	native		
+ZOBO00033748			MDG	text	native		
+ZOBO00033747			CMR GIN KEN MLI TGO ZMB	text	native		
+ZOBO00033749			BWA	text	native		
+ZOBO00125387			IDN	text	native		
+ZOBO00034572			YEM	text	native		
+ZOBO00034577			GRC HRV TUR	text	native		
+ZOBO00034588			IDN	text	native		
+ZOBO00034593			NAM	text	native		
+ZOBO00034595			CMR	text	native		
+ZOBO00034596			ZAF	text	native		
+ZOBO00034598			ZMB	text	native		
+ZOBO00034571			CHN	text	native		
+ZOBO00125320			MDG	text	native		
+ZOBO00033535			THA	text	native		
+ZOBO00033536			IND THA	text	native		
+ZOBO00033531			IND	text	native		
+ZOBO00033526			IDN IND MYS THA	text	native		
+ZOBO00033529			MYS	text	native		
+ZOBO00033528			IDN MYS THA	text	native		
+ZOBO00034218			MEX	text	native		
+ZOBO00034219			ARG BRA	text	native		
+ZOBO00034213			GUF PER	text	native		
+ZOBO00034230			BRA	text	native		
+ZOBO00034229			BRA	text	native		
+ZOBO00034226			BRA	text	native		
+ZOBO00034221			BOL PER	text	native		
+ZOBO00034222			GUF PER	text	native		
+ZOBO00034835			GIN	text	native		
+ZOBO00034832			CHL CMR	text	native		
+ZOBO00034831			CMR GIN TGO	text	native		
+ZOBO00034825			CMR MLI	text	native		
+ZOBO00034826			TZA	text	native		
+ZOBO00034821			GIN TGO	text	native		
+ZOBO00034841			NAM TGO ZMB	text	native		
+ZOBO00034842			ARE	text	native		
+ZOBO00034837			ZAF	text	native		
+ZOBO00034838			TZA ZAF	text	native		
+ZOBO00034809			COD ZAF ZMB	text	native		
+ZOBO00034806			THA	text	native		
+ZOBO00034799			EGY SDN	text	native		
+ZOBO00149730			BRA	text	native		
+ZOBO00034199			BRA PER PRY	text	native		
+ZOBO00034196			ARG BOL BRA COL CRI CUB ECU GLP GUF MEX MTQ PER SLB USA	text	native		
+ZOBO00034202			CUB	text	native		
+ZOBO00034191			MTQ	text	native		
+ZOBO00034190			PER	text	native		
+ZOBO00034184			CUB	text	native		
+ZOBO00037062			BHS	text	native		
+ZOBO00034187			USA	text	native		
+ZOBO00149658			SYR	text	native		
+ZOBO00037390			TUN	text	native		
+ZOBO00034904			TUN	text	native		
+ZOBO00034127			JOR	text	native		
+ZOBO00034117			GRC ITA	text	native		
+ZOBO00034118			JOR TUR	text	native		
+ZOBO00034125			ESP	text	native		
+ZOBO00034148			NPL	text	native		
+ZOBO00034150			TUN	text	native		
+ZOBO00034139			JOR	text	native		
+ZOBO00034143			MAR	text	native		
+ZOBO00034113			TKM	text	native		
+ZOBO00034115			JOR	text	native		
+ZOBO00032579			CMR KEN MLI MWI TZA	text	native		
+ZOBO00032581			COD NAM ZMB	text	native		
+ZOBO00032584			BWA TZA	text	native		
+ZOBO00032588			ETH KEN SAU ZAF	text	native		
+ZOBO00032589			KEN	text	native		
+ZOBO00032593			CMR TGO	text	native		
+ZOBO00032594			CHL CMR MLI NER SEN	text	native		
+ZOBO00032573			NPL	text	native		
+ZOBO00032576			KEN	text	native		
+ZOBO00032563			IND NPL	text	native		
+ZOBO00032568			ZAF	text	native		
+ZOBO00032565			COD TZA ZAF	text	native		
+ZOBO00032566			TZA	text	native		
+ZOBO00032548			CMR TGO	text	native		
+ZOBO00032558			CMR MLI TGO	text	native		
+ZOBO00032554			CMR GMB	text	native		
+ZOBO00032555			CMR GIN	text	native		
+ZOBO00032550			MLI TGO	text	native		
+ZOBO00033219			TZA	text	native		
+ZOBO00035488			CYP	text	native		
+ZOBO00035495			CYP GRC ITA SYR TUR	text	native		
+ZOBO00035496			KGZ	text	native		
+ZOBO00035497			EGY ISR MAR	text	native		
+ZOBO00010024			AUT ITA	text	native		
+ZOBO00034917			MEX	text	native		
+ZOBO00034891			ISR	text	native		
+ZOBO00034893			JOR TUN	text	native		
+ZOBO00034946			USA	text	native		
+ZOBO00034929			USA	text	native		
+ZOBO00034939			USA	text	native		
+ZOBO00034942			USA	text	native		
+ZOBO00034903			AUT	text	native		
+ZOBO00034907			USA	text	native		
+ZOBO00034902			USA	text	native		
+ZOBO00125163			GRC	text	native		
+ZOBO00037093			USA	text	native		
+ZOBO00034439			USA	text	native		
+ZOBO00034432			NPL	text	native		
+ZOBO00034427			USA	text	native		
+ZOBO00034428			USA	text	native		
+ZOBO00034415			USA	text	native		
+ZOBO00034482			MEX USA	text	native		
+ZOBO00034469			USA	text	native		
+ZOBO00034472			HKG PHL TWN	text	native		
+ZOBO00034460			USA	text	native		
+ZOBO00034458			CAN USA	text	native		
+ZOBO00034463			IDN	text	native		
+ZOBO00034465			USA	text	native		
+ZOBO00034456			USA	text	native		
+ZOBO00034398			IDN IND	text	native		
+ZOBO00037124			IDN	text	native		
+ZOBO00037201			TUN	text	native		
+ZOBO00031720			ESP FRA ITA MLT TUN	text	native		
+ZOBO00033665			ISR MAR TUN	text	native		
+ZOBO00018088			AUT BGR ESP FRA GR GRC ITA PRT TUR	text	native		
+ZOBO00033552			ESP FRA	text	native		
+ZOBO00018089			AUT CYP ESP FRA GRC HRV ITA MLT PRT TUN TUR	text	native		
+ZOBO00033593			USA	text	native		
+ZOBO00033592			MAR	text	native		
+ZOBO00033598			ESP	text	native		
+ZOBO00033597			E ESP	text	native		
+ZOBO00033594			ESP FRA PRT	text	native		
+ZOBO00033599			GRC	text	native		
+ZOBO00033591			ESP	text	native		
+ZOBO00033578			ESP	text	native		
+ZOBO00033579			MRT	text	native		
+ZOBO00033573			USA	text	native		
+ZOBO00033574			ISR JOR	text	native		
+ZOBO00033549			MEX USA	text	native		
+ZOBO00033662			LBY MAR TUN	text	native		
+ZOBO00033663			ESP	text	native		
+ZOBO00033656			TUN	text	native		
+ZOBO00033673			BGR GR GRC	text	native		
+ZOBO00033674			IRN ISR TUR	text	native		
+ZOBO00033675			MEX USA	text	native		
+ZOBO00033666			IRN KAZ TUR	text	native		
+ZOBO00033668			USA	text	native		
+ZOBO00033639			GRC ITA TUR	text	native		
+ZOBO00033649			BGR HRV ROU	text	native		
+ZOBO00033650			DEU GRC	text	native		
+ZOBO00033651			TUR	text	native		
+ZOBO00033652			MAR	text	native		
+ZOBO00033624			GRC	text	native		
+ZOBO00033629			PRT	text	native		
+ZOBO00033631			TUN	text	native		
+ZOBO00033606			ISR	text	native		
+ZOBO00033618			ISR JOR	text	native		
+ZOBO00033616			ESP	text	native		
+ZOBO00033614			TUN	text	native		
+ZOBO00033711			USA	text	native		
+ZOBO00033710			ESP	text	native		
+ZOBO00033696			ISR	text	native		
+ZOBO00033694			MAR	text	native		
+ZOBO00033704			ISR	text	native		
+ZOBO00033705			MEX	text	native		
+ZOBO00033706			CYP	text	native		
+ZOBO00033740			MEX	text	native		
+ZOBO00033738			MAR	text	native		
+ZOBO00033736			ISR TUN	text	native		
+ZOBO00033737			USA	text	native		
+ZOBO00033726			JOR TUR	text	native		
+ZOBO00033727			CHE FRA ITA	text	native		
+ZOBO00033717			ISR	text	native		
+ZOBO00033686			ISR SYR TUR	text	native		
+ZOBO00033679			LBY TUN	text	native		
+ZOBO00037545			AUT BGR CHE GRC HRV TUR	text	native		
+ZOBO00017517			AUT	text	native		
+ZOBO00032074			ESP	text	native		
+ZOBO00032073			MAR	text	native		
+ZOBO00032080			BWA ETH KEN TZA ZAF ZWE	text	native		
+ZOBO00032079			DEU ESP FRA ITA	text	native		
+ZOBO00032070			ZAF	text	native		
+ZOBO00032089			ISR	text	native		
+ZOBO00032083			ZAF	text	native		
+ZOBO00032114			ZAF	text	native		
+ZOBO00032113			ZAF	text	native		
+ZOBO00032100			ISR	text	native		
+ZOBO00032104			MAR	text	native		
+ZOBO00032106			MAR	text	native		
+ZOBO00032105			JOR SYR TUR	text	native		
+ZOBO00032098			GRC	text	native		
+ZOBO00032124			MAR	text	native		
+ZOBO00032125			ETH KEN TZA ZMB	text	native		
+ZOBO00032126			ZAF	text	native		
+ZOBO00032127			IND	text	native		
+ZOBO00032129			ISR TUR	text	native		
+ZOBO00032121			COD	text	native		
+ZOBO00032085			NAM	text	native		
+ZOBO00125265			ESP	text	native		
+ZOBO00033321			CMR KEN MLI	text	native		
+ZOBO00033322			CMR KEN	text	native		
+ZOBO00033323			TZA	text	native		
+ZOBO00033325			MYS THA	text	native		
+ZOBO00033541			BRA	text	native		
+ZOBO00033098			ZAF	text	native		
+ZOBO00033099			ZAF	text	native		
+ZOBO00032651			GRC TUR	text	native		
+ZOBO00033765			USA	text	native		
+ZOBO00033763			USA	text	native		
+ZOBO00033845			GUF PER	text	native		
+ZOBO00033849			BRA	text	native		
+ZOBO00033847			MEX	text	native		
+ZOBO00034021			TTO	text	native		
+ZOBO00034081			BRA	text	native		
+ZOBO00034083			BRA	text	native		
+ZOBO00034084			CRI	text	native		
+ZOBO00034085			CRI	text	native		
+ZOBO00034089			GUF	text	native		
+ZOBO00034056			CRI	text	native		
+ZOBO00034058			PER	text	native		
+ZOBO00034052			MEX	text	native		
+ZOBO00034044			BRA	text	native		
+ZOBO00034042			PER	text	native		
+ZOBO00034077			ARG	text	native		
+ZOBO00034065			GUF	text	native		
+ZOBO00034064			BRA	text	native		
+ZOBO00034031			COL	text	native		
+ZOBO00034032			PER	text	native		
+ZOBO00034027			BRA	text	native		
+ZOBO00034030			GUF	text	native		
+ZOBO00032618			CHL	text	native		
+ZOBO00032641			ARG BRA PER	text	native		
+ZOBO00032668			MAR	text	native		
+ZOBO00032667			SYR TUR	text	native		
+ZOBO00032681			FRA TUN	text	native		
+ZOBO00032901			ZAF	text	native		
+ZOBO00032879			USA	text	native		
+ZOBO00032742			PER	text	native		
+ZOBO00032711			IDN	text	native		
+ZOBO00032703			THA	text	native		
+ZOBO00032704			THA	text	native		
+ZOBO00034551			KEN ZAF ZMB	text	native		
+ZOBO00034548			ZMB	text	native		
+ZOBO00034563			KAZ	text	native		
+ZOBO00034562			PAK TKM	text	native		
+ZOBO00034561			ISR	text	native		
+ZOBO00035041			ZAF	text	native		
+ZOBO00034165			CHN KOR TWN	text	native		
+ZOBO00035273			PER	text	native		
+ZOBO00035507			YEM	text	native		
+ZOBO00035505			COD TZA	text	native		
+ZOBO00035509			AGO BFA ETH KEN NAM TZA ZAF	text	native		
+ZOBO00035511			ZAF	text	native		
+ZOBO00035513			CIV KEN YEM	text	native		
+ZOBO00035517			TZA	text	native		
+ZOBO00035516			KEN TZA	text	native		
+ZOBO00035518			CMR COD MLI TGO	text	native		
+ZOBO00033320			USA	text	native		
+ZOBO00035032			BRA GUF PER	text	native		
+ZOBO00035034			PER	text	native		
+ZOBO00035035			GUF	text	native		
+ZOBO00034969			MAR	text	native		
+ZOBO00034971			MAR	text	native		
+ZOBO00034963			COD KEN UGA ZAF	text	native		
+ZOBO00034961			GRC TUR	text	native		
+ZOBO00034235			ARG	text	native		
+ZOBO00032697			SYR	text	native		
+ZOBO00032690			ARE TUN	text	native		
+ZOBO00032698			KEN	text	native		
+ZOBO00032700			CYP	text	native		
+ZOBO00032701			CYP GRC TUR	text	native		
+ZOBO00032677			KAZ	text	native		
+ZOBO00032680			EGY ISR MAR MRT SAU TUN	text	native		
+ZOBO00034864			CHN IDN	text	native		
+ZOBO00125524			ISR	text	native		
+ZOBO00034506			GUF	text	native		
+ZOBO00034515			GUF	text	native		
+ZOBO00034519			CRI	text	native		
+ZOBO00034699			COD KEN MWI NAM TZA ZAF ZMB	text	native		
+ZOBO00034694			CIV CMR	text	native		
+ZOBO00034695			CMR COD ETH GHA MLI TGO TZA	text	native		
+ZOBO00034697			KEN MOZ MWI NAM TZA ZAF	text	native		
+ZOBO00034679			BRA	text	native		
+ZOBO00034705			ARG CHL	text	native		
+ZOBO00034768			KEN	text	native		
+ZOBO00034769			ZAF	text	native		
+ZOBO00034785			USA	text	native		
+ZOBO00034792			MAR	text	native		
+ZOBO00034153			CHN	text	native		
+ZOBO00034154			THA	text	native		
+ZOBO00034159			CHN	text	native		
+ZOBO00034160			TWN	text	native		
+ZOBO00034161			TWN	text	native		
+ZOBO00034166			IND THA	text	native		
+ZOBO00010023			AUT CHE ESP ITA	text	native		
+ZOBO00034258			KAZ	text	native		
+ZOBO00034251			GRC TUR	text	native		
+ZOBO00034252			FRA	text	native		
+ZOBO00034255			KAZ	text	native		
+ZOBO00034257			TUR	text	native		
+ZOBO00034238			ETH KEN	text	native		
+ZOBO00035557			ETH	text	native		
+ZOBO00035558			AGO	text	native		
+ZOBO00035554			ZAF	text	native		
+ZOBO00035553			KEN	text	native		
+ZOBO00125820			RUS	text	native		
+ZOBO00125570			AUT ITA	text	native		
+ZOBO00035536			JAM	text	native		
+ZOBO00035539			GUF VEN	text	native		
+ZOBO00035542			ARG	text	native		
+ZOBO00035546			CHL PER	text	native		
+ZOBO00035544			ARG BRA	text	native		
+ZOBO00035550			CUB	text	native		
+ZOBO00035552			ARG	text	native		
+ZOBO00035530			EGY	text	native		
+ZOBO00035535			IND	text	native		
+ZOBO00032046			COD	text	native		
+ZOBO00032047			TZA	text	native		
+ZOBO00032060			ETH TZA ZMB	text	native		
+ZOBO00032062			CMR	text	native		
+ZOBO00032048			AGO BEN CMR COD GIN TGO	text	native		
+ZOBO00032049			TZA	text	native		
+ZOBO00032050			ETH KEN TZA YEM ZAF	text	native		
+ZOBO00032052			CMR TGO TZA	text	native		
+ZOBO00032054			COD GIN	text	native		
+ZOBO00032055			KEN	text	native		
+ZOBO00032056			AGO CIV CMR COD ETH GAB GIN KEN MOZ NAM SEN TGO TUN	text	native		
+ZOBO00032057			COD GIN	text	native		
+ZOBO00033105			BGR GRC	text	native		
+ZOBO00033106			ESP	text	native		
+ZOBO00018086			GRC TUR	text	native		
+ZOBO00035522			THA	text	native		
+ZOBO00035520			ISR MAR	text	native		
+ZOBO00037066			CRI PER	text	native		
+ZOBO00035859			CRI GTM GUF PER	text	native		
+ZOBO00035858			BOL ECU GUF PER	text	native		
+ZOBO00035857			GUF	text	native		
+ZOBO00035856			ARG BOL BRA CRI ECU GTM GUF MEX PAN PER VEN	text	native		
+ZOBO00035855			GUF PER	text	native		
+ZOBO00035854			PER	text	native		
+ZOBO00035853			GUF	text	native		
+ZOBO00035843			BRA ECU GUF PER	text	native		
+ZOBO00035844			BOL PER	text	native		
+ZOBO00035845			ECU	text	native		
+ZOBO00037090			PER	text	native		
+ZOBO00149590			PER	text	native		
+ZOBO00035988			CAN USA	text	native		
+ZOBO00035995			CAN	text	native		
+ZOBO00035996			RUS	text	native		
+ZOBO00035993			NPL	text	native		
+ZOBO00035994			USA	text	native		
+ZOBO00018079			AUT DEU ITA RUS SVN	text	native		
+ZOBO00010010			AUT SVN	text	native		
+ZOBO00010009			AUT DEU ITA KAZ KGZ	text	native		
+ZOBO00035985			USA	text	native		
+ZOBO00010008			AUT AZE CHE DEU ESP FRA GBR GRC IRN ITA KAZ KGZ	text	native		
+ZOBO00010007			AUT BEL DEU ISL ITA KAZ KGZ LIE MNG SVN	text	native		
+ZOBO00010006			AUT DEU HUN ITA KAZ RUS	text	native		
+ZOBO00037030			CHN IDN PAK	text	native		
+ZOBO00037041			THA	text	native		
+ZOBO00037032			IDN	text	native		
+ZOBO00037034			CHN TWN	text	native		
+ZOBO00037038			BTN	text	native		
+ZOBO00037017			CHN	text	native		
+ZOBO00037018			IDN	text	native		
+ZOBO00037025			IDN	text	native		
+ZOBO00037019			PHL	text	native		
+ZOBO00037023			HKG IND PAK THA	text	native		
+ZOBO00037024			IDN MYS	text	native		
+ZOBO00037021			PHL	text	native		
+ZOBO00037042			CHN NPL	text	native		
+ZOBO00036981			CHN IDN IND NPL TWN	text	native		
+ZOBO00036963			BTN	text	native		
+ZOBO00036969			IDN LKA THA	text	native		
+ZOBO00036967			THA	text	native		
+ZOBO00036995			RUS	text	native		
+ZOBO00036992			CHN	text	native		
+ZOBO00036994			TWN	text	native		
+ZOBO00036983			THA	text	native		
+ZOBO00037005			MYS	text	native		
+ZOBO00037001			CHN PAK RUS	text	native		
+ZOBO00037003			IND	text	native		
+ZOBO00037004			TWN	text	native		
+ZOBO00036998			AUT PHL	text	native		
+ZOBO00037014			JPN	text	native		
+ZOBO00037006			IDN MYS	text	native		
+ZOBO00125568			GRC IND	text	native		
+ZOBO00124973			AUT	text	native		
+ZOBO00010005			AUT BGR CHE CHN FRA GRC HRV IRN ITA RUS TUR USA	text	native		
+ZOBO00037009			ARE CYP GRC IRN JOR NPL OMN PAK TUR	text	native		
+ZOBO00037010			YEM	text	native		
+ZOBO00018084			AUT FRA GRC ITA TUR	text	native		
+ZOBO00018085			AUT CHE DEU ESP FRA GRC ITA	text	native		
+ZOBO00033987			GR GRC JOR TUR	text	native		
+ZOBO00033988			CYP	text	native		
+ZOBO00017518			AUT FRA GRC ITA TUR	text	native		
+ZOBO00010022			AUT KAZ TUR	text	native		
+ZOBO00010020			AUT ITA RUS TJK	text	native		
+ZOBO00010021			AUT BGR CHE ESP FRA GRC ITA	text	native		
+ZOBO00010019			AUT CZE DEU FRA ITA KAZ RUS SVK	text	native		
+ZOBO00125046			TUR	text	native		
+ZOBO00125681			NAM ZAF	text	native		
+ZOBO00033996			ZAF	text	native		
+ZOBO00033995			ISR JOR	text	native		
+ZOBO00033985			ISR JOR	text	native		
+ZOBO00033989			DZA ESP FRA	text	native		
+ZOBO00033978			GRC	text	native		
+ZOBO00033975			USA	text	native		
+ZOBO00033977			ESP	text	native		
+ZOBO00033970			USA	text	native		
+ZOBO00033971			MAR TUN	text	native		
+ZOBO00033972			TUN	text	native		
+ZOBO00033973			DZA TUN	text	native		
+ZOBO00033964			MAR	text	native		
+ZOBO00033965			ESP	text	native		
+ZOBO00033968			TUN	text	native		
+ZOBO00033960			BGR FRA GRC ITA JOR TUR UKR	text	native		
+ZOBO00033961			GRC ITA JOR SYR TUR	text	native		
+ZOBO00033963			ISR JOR	text	native		
+ZOBO00034004			KAZ TUR	text	native		
+ZOBO00033999			GRC ITA	text	native		
+ZOBO00034000			ISR	text	native		
+ZOBO00034010			ESP ITA	text	native		
+ZOBO00034006			ZAF	text	native		
+ZOBO00037086			AUT CHE DZA ESP FRA ITA MAR	text	native		
+ZOBO00037368			NPL	text	native		
+ZOBO00018096			AUT CAN CZE DEU GRC ITA KAZ KGZ RUS SVK USA	text	native		
+ZOBO00032200			USA	text	native		
+ZOBO00018097			AUT AZE BGR CHE CZE DEU ESP FRA GR GRC HRV ITA KAZ LBN MAR RUS SCG SVK SVN TUR UKR	text	native		
+ZOBO00018095			AUT AZE BGR CHE CYP CZE DEU ESP FRA GRC HRV IRN ITA MAR NZL PRT SVK TUR	text	native		
+ZOBO00031710			BGR ESP FRA GRC HRV ITA LBN MAR MLT PRT SCG TUR	text	native		
+ZOBO00032269			FRA ITA	text	native		
+ZOBO00010052			AUT CHE CZE DEU FRA GRC ITA LUX RUS SCG SVN TUR	text	native		
+ZOBO00032286			RUS	text	native		
+ZOBO00037140			TUR	text	native		
+ZOBO00010051			AUT FRA IRN KAZ KGZ TUR	text	native		
+ZOBO00010048			AUT DEU ESP FRA RUS SCG	text	native		
+ZOBO00010047			ARM AUT BGR CHE CZE DEU FRA GRC HRV HUN ISR ITA JOR SCG TUR	text	native		
+ZOBO00017516			AUT	text	native		
+ZOBO00010050			AUT BGR CZE DEU FRA ITA PRT	text	native		
+ZOBO00010049			ARM AUT BGR CHE CZE DEU FRA ITA RUS	text	native		
+ZOBO00010046			AUT CHE CHN CZE DEU ESP FRA ITA ROU SCG SVK SVN TUR	text	native		
+ZOBO00010045			AUT CHE CZE DEU ESP FRA IRN ITA LBN LIE MAR TUR	text	native		
+ZOBO00125522			AUT RUS	text	native		
+ZOBO00010053			AUT IRL ITA RUS SVN TUR	text	native		
+ZOBO00032259			ESP	text	native		
+ZOBO00032261			MAR	text	native		
+ZOBO00032266			KEN	text	native		
+ZOBO00032274			P PRT	text	native		
+ZOBO00032267			USA	text	native		
+ZOBO00037183			USA	text	native		
+ZOBO00032275			MAR	text	native		
+ZOBO00032279			CHN	text	native		
+ZOBO00032242			ESP	text	native		
+ZOBO00032243			E ESP	text	native		
+ZOBO00032244			ESP	text	native		
+ZOBO00032203			NPL	text	native		
+ZOBO00032214			ESP ITA MAR PRT TUN	text	native		
+ZOBO00032213			ISR JOR YEM	text	native		
+ZOBO00032210			NPL	text	native		
+ZOBO00032219			USA	text	native		
+ZOBO00032217			USA	text	native		
+ZOBO00032283			KEN UGA	text	native		
+ZOBO00032281			COD	text	native		
+ZOBO00032289			USA	text	native		
+ZOBO00032294			AUT ESP	text	native		
+ZOBO00032303			NPL	text	native		
+ZOBO00032306			USA	text	native		
+ZOBO00032308			ETH	text	native		
+ZOBO00032310			KEN	text	native		
+ZOBO00032316			USA	text	native		
+ZOBO00032317			USA	text	native		
+ZOBO00032319			USA	text	native		
+ZOBO00032322			GRL	text	native		
+ZOBO00032327			NPL	text	native		
+ZOBO00032194			ITA MAR TUN	text	native		
+ZOBO00032196			CAN USA	text	native		
+ZOBO00032197			USA	text	native		
+ZOBO00032221			USA	text	native		
+ZOBO00032222			CAN USA	text	native		
+ZOBO00043891			RUS	text	native		
+ZOBO00031726			BGR CYP ESP FRA GRC HRV ITA JOR LBN PRT SCG TUR	text	native		
+ZOBO00032988			TUR	text	native		
+ZOBO00018101			AUT	text	native		
+ZOBO00018100			AUT CHE CHN CZE DEU ITA KAZ RUS	text	native		
+ZOBO00031727			AUT BGR CHE CYP ESP FRA GRC HRV IRN ITA JOR KAZ KGZ MAR MKD MLT PRT SCG SVK TUR UKR UZB	text	native		
+ZOBO00032963			ESP ITA MAR PRT TUN	text	native		
+ZOBO00033024			IRN	text	native		
+ZOBO00018102			AUT BGR CHE CZE DEU ESP FRA GRC ITA SCG TUR	text	native		
+ZOBO00031764			FRA ITA	text	native		
+ZOBO00125264			BGR CZE HRV	text	native		
+ZOBO00010064			AUT AZE CHE CYP EGY ESP FRA GRC HRV IRN ISR ITA JOR KAZ KGZ MAR MKD MLT PRT RUS SCG SYR TKM TUN TUR	text	native		
+ZOBO00033029			LBY	text	native		
+ZOBO00033031			CHN	text	native		
+ZOBO00010065			ARM AUT KAZ KGZ	text	native		
+ZOBO00033071			AUT CHE COL ESP FRA GRC HUN ITA ROU SCG SVK TUR	text	native		
+ZOBO00010061			AUT BGR CHE CZE DEU ESP GRC HRV HUN ITA PRT SCG SVK	text	native		
+ZOBO00032972			ESP	text	native		
+ZOBO00032970			AUT	text	native		
+ZOBO00032971			IRN TUR	text	native		
+ZOBO00010062			AUT CHE CZE DEU FRA GRC HRV ITA LIE SCG SVK	text	native		
+ZOBO00033045			RUS	text	native		
+ZOBO00010063			AUT BGR CHE CZE DEU ESP FRA GRC HRV HUN IRN ITA JOR MKD PRT SCG TUR	text	native		
+ZOBO00033043			JOR	text	native		
+ZOBO00023971			AUT BGR ESP FRA GRC HRV ITA KAZ KGZ MLT PRT SCG TUN TUR UZB	text	native		
+ZOBO00033055			CHN KOR RUS	text	native		
+ZOBO00033054			IRQ	text	native		
+ZOBO00033050			THA	text	native		
+ZOBO00033044			MAR	text	native		
+ZOBO00033047			ZAF	text	native		
+ZOBO00033039			KGZ RUS	text	native		
+ZOBO00033037			KEN UGA	text	native		
+ZOBO00033036			KEN TZA	text	native		
+ZOBO00033025			IND	text	native		
+ZOBO00033021			KEN TZA ZAF	text	native		
+ZOBO00033018			CHN TWN	text	native		
+ZOBO00033019			CHN	text	native		
+ZOBO00033017			FRA GRC TUR	text	native		
+ZOBO00033016			UKR	text	native		
+ZOBO00033011			IRN KAZ KGZ TUR	text	native		
+ZOBO00033006			CMR	text	native		
+ZOBO00033092			USA	text	native		
+ZOBO00033095			USA	text	native		
+ZOBO00033093			USA	text	native		
+ZOBO00033083			KAZ	text	native		
+ZOBO00033085			TWN	text	native		
+ZOBO00033087			CHN	text	native		
+ZOBO00033081			USA	text	native		
+ZOBO00033076			CHN RUS	text	native		
+ZOBO00033059			CHN	text	native		
+ZOBO00032950			USA	text	native		
+ZOBO00032949			IND MYS SGP THA UZB	text	native		
+ZOBO00032956			USA	text	native		
+ZOBO00032939			AFG KGZ	text	native		
+ZOBO00032945			NAM ZAF	text	native		
+ZOBO00032947			KGZ	text	native		
+ZOBO00151900			KGZ	text	native		
+ZOBO00032968			GTM MEX	text	native		
+ZOBO00032980			CUB	text	native		
+ZOBO00032982			ITA MAR MLT TUN	text	native		
+ZOBO00032974			USA	text	native		
+ZOBO00032977			USA	text	native		
+ZOBO00032995			ETH KEN SDN TZA	text	native		
+ZOBO00032996			CMR GIN TGO	text	native		
+ZOBO00032994			USA	text	native		
+ZOBO00032992			IDN	text	native		
+ZOBO00032990			AUT	text	native		
+ZOBO00033001			ZAF	text	native		
+ZOBO00032999			ETH KEN	text	native		
+ZOBO00032936			IDN	text	native		
+ZOBO00032937			ZAF	text	native		
+ZOBO00032944			IDN	text	native		
+ZOBO00035968			GUF PER	text	native		
+ZOBO00036707			BRA	text	native		
+ZOBO00036705			PER	text	native		
+ZOBO00036703			PER	text	native		
+ZOBO00036700			PER	text	native		
+ZOBO00036694			PER	text	native		
+ZOBO00036695			GUF PER VEN	text	native		
+ZOBO00036698			CRI	text	native		
+ZOBO00036696			PER	text	native		
+ZOBO00036697			COL	text	native		
+ZOBO00036720			PER	text	native		
+ZOBO00036718			BOL BRA GUF PER PRY	text	native		
+ZOBO00036688			CRI PAN PER	text	native		
+ZOBO00036690			PER	text	native		
+ZOBO00036015			PHL PRI	text	native		
+ZOBO00036014			PHL THA	text	native		
+ZOBO00036302			PHL	text	native		
+ZOBO00036307			IDN LAO MYS THA	text	native		
+ZOBO00036308			PHL	text	native		
+ZOBO00035851			PHL	text	native		
+ZOBO00036266			CRI GTM MEX PER	text	native		
+ZOBO00036268			MEX	text	native		
+ZOBO00036269			PER	text	native		
+ZOBO00036265			PER	text	native		
+ZOBO00036277			PER	text	native		
+ZOBO00036270			PER	text	native		
+ZOBO00036271			BRA COL CRI PER	text	native		
+ZOBO00036272			BOL	text	native		
+ZOBO00037077			CRI ECU GTM PER	text	native		
+ZOBO00036000			CRI	text	native		
+ZOBO00036002			PER VEN	text	native		
+ZOBO00043973			COL ECU PAN PER	text	native		
+ZOBO00035813			BOL CRI ECU GUF PER	text	native		
+ZOBO00035814			ARG	text	native		
+ZOBO00035816			COL CRI GTM MEX VEN	text	native		
+ZOBO00035817			ECU	text	native		
+ZOBO00035819			ECU GUF PER	text	native		
+ZOBO00035823			BOL BRA PER	text	native		
+ZOBO00035822			BOL PER	text	native		
+ZOBO00035825			PER	text	native		
+ZOBO00035824			BRA PER	text	native		
+ZOBO00035829			BOL BRA ECU GTM MEX PER VEN	text	native		
+ZOBO00035830			BOL CRI GTM GUF PER VEN	text	native		
+ZOBO00035831			PER	text	native		
+ZOBO00035833			ARG BRA GUF	text	native		
+ZOBO00035834			BOL PER	text	native		
+ZOBO00035836			CRI GTM MEX	text	native		
+ZOBO00035837			BOL PER	text	native		
+ZOBO00035838			BRA	text	native		
+ZOBO00035839			MEX	text	native		
+ZOBO00036920			IDN SGP THA	text	native		
+ZOBO00036922			TWN	text	native		
+ZOBO00036916			IDN IND PHL THA	text	native		
+ZOBO00036918			MYS	text	native		
+ZOBO00036914			NPL THA	text	native		
+ZOBO00036931			NPL	text	native		
+ZOBO00036897			THA	text	native		
+ZOBO00036893			MDG	text	native		
+ZOBO00036882			MDG	text	native		
+ZOBO00036883			PHL	text	native		
+ZOBO00036884			IDN	text	native		
+ZOBO00036863			IDN	text	native		
+ZOBO00036865			PHL	text	native		
+ZOBO00036859			IND	text	native		
+ZOBO00036857			THA	text	native		
+ZOBO00036871			KEN TZA	text	native		
+ZOBO00036751			IND NPL PAK	text	native		
+ZOBO00036743			THA	text	native		
+ZOBO00036746			THA	text	native		
+ZOBO00036735			IDN MYS	text	native		
+ZOBO00036770			THA	text	native		
+ZOBO00036731			MDG	text	native		
+ZOBO00036826			THA	text	native		
+ZOBO00036830			MYS	text	native		
+ZOBO00036806			IDN MYS	text	native		
+ZOBO00036808			PHL	text	native		
+ZOBO00036812			NPL THA	text	native		
+ZOBO00036813			IDN	text	native		
+ZOBO00036814			PHL	text	native		
+ZOBO00036840			IDN	text	native		
+ZOBO00036845			IDN MYS	text	native		
+ZOBO00036850			IDN NPL	text	native		
+ZOBO00036846			MYS THA UZB	text	native		
+ZOBO00036849			IDN THA	text	native		
+ZOBO00036788			PHL	text	native		
+ZOBO00037361			LAO	text	native		
+ZOBO00039758			NPL	text	native		
+ZOBO00036796			IDN MYS THA	text	native		
+ZOBO00036789			CHN IDN LAO	text	native		
+ZOBO00036792			PHL	text	native		
+ZOBO00036793			THA	text	native		
+ZOBO00036798			MDG	text	native		
+ZOBO00036019			MEX	text	native		
+ZOBO00036018			PER	text	native		
+ZOBO00036020			CRI	text	native		
+ZOBO00036027			PER	text	native		
+ZOBO00036023			BRA PER	text	native		
+ZOBO00036022			PER	text	native		
+ZOBO00036024			PER	text	native		
+ZOBO00036211			BRA GUF	text	native		
+ZOBO00036204			PER	text	native		
+ZOBO00036240			PER	text	native		
+ZOBO00036232			RUS	text	native		
+ZOBO00036059			CIV CMR	text	native		
+ZOBO00036062			PER	text	native		
+ZOBO00036047			MEX	text	native		
+ZOBO00036076			MEX	text	native		
+ZOBO00036092			GUF	text	native		
+ZOBO00036095			ARG BRA PER	text	native		
+ZOBO00036097			ARG BOL BRA	text	native		
+ZOBO00036088			GTM	text	native		
+ZOBO00036090			CUB	text	native		
+ZOBO00036106			PER	text	native		
+ZOBO00036110			PER USA	text	native		
+ZOBO00036133			MEX	text	native		
+ZOBO00036121			PER	text	native		
+ZOBO00036122			PER	text	native		
+ZOBO00036145			BOL BRA COL ECU GUF PER	text	native		
+ZOBO00036136			GUF	text	native		
+ZOBO00036167			CUB USA	text	native		
+ZOBO00036168			CUB	text	native		
+ZOBO00036160			MEX	text	native		
+ZOBO00036188			ECU GTM MEX	text	native		
+ZOBO00036040			CRI VEN	text	native		
+ZOBO00037045			MEX USA	text	native		
+ZOBO00037044			USA	text	native		
+ZOBO00037049			GTM MEX USA	text	native		
+ZOBO00036299			CHN NPL	text	native		
+ZOBO00036297			USA	text	native		
+ZOBO00036296			CHN TWN	text	native		
+ZOBO00036294			USA	text	native		
+ZOBO00036293			RUS	text	native		
+ZOBO00036291			KOR NPL RUS	text	native		
+ZOBO00043905			CHN	text	native		
+ZOBO00018081			AUT CHL DEU ESP FRA GRC HRV HUN IRN ITA JOR KAZ KGZ LIE MAR NZL PAK PRT SYR TUN USA	text	native		
+ZOBO00018080			AUT CUB CZE DEU ESP GRC HRV IRE ITA KAZ LIE NZL PAK RUS USA	text	native		
+ZOBO00010012			AUT ITA KAZ USA	text	native		
+ZOBO00010011			AUT DEU FRA GRC HRV ITA KAZ KGZ NPL RUS	text	native		
+ZOBO00036030			PHL	text	native		
+ZOBO00035948			ARG BOL PER	text	native		
+ZOBO00035950			ECU	text	native		
+ZOBO00035949			MEX	text	native		
+ZOBO00035951			TTO	text	native		
+ZOBO00035956			ARG BOL BRA COL CRI GTM GUF MEX PER PRY	text	native		
+ZOBO00035958			BOL GUF	text	native		
+ZOBO00035961			PER	text	native		
+ZOBO00035962			GUF PER	text	native		
+ZOBO00036289			CHN IDN NPL THA TWN	text	native		
+ZOBO00036288			IRN	text	native		
+ZOBO00036287			TWN	text	native		
+ZOBO00036283			CHN JPN KOR TWN	text	native		
+ZOBO00036282			IRN	text	native		
+ZOBO00036258			PER	text	native		
+ZOBO00035980			PER	text	native		
+ZOBO00036687			ARG BRA PRY	text	native		
+ZOBO00036683			CMR COD GIN	text	native		
+ZOBO00036684			IDN	text	native		
+ZOBO00036685			IDN MYS	text	native		
+ZOBO00036686			GAB TGO	text	native		
+ZOBO00036724			IDN MYS	text	native		
+ZOBO00036723			KAZ MMR THA	text	native		
+ZOBO00036722			IDN MMR MYS THA	text	native		
+ZOBO00035972			ECU PER	text	native		
+ZOBO00035974			COL	text	native		
+ZOBO00036957			PER	text	native		
+ZOBO00036958			ARG BRA	text	native		
+ZOBO00036959			CRI ECU MEX PER	text	native		
+ZOBO00036960			BOL BRA COL ECU GUF PAN PER	text	native		
+ZOBO00036961			BRA ECU PER	text	native		
+ZOBO00037164			PHL	text	native		
+ZOBO00036010			PHL	text	native		
+ZOBO00036009			PHL THA	text	native		
+ZOBO00036012			LAO	text	native		
+ZOBO00153988			TGO	text	native		
+ZOBO00154102			NPL	text	native		
