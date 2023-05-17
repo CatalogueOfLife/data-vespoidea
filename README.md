@@ -1,6 +1,9 @@
 # Vespoidea ColDP Archive
 A ColDP archive for the [vespid wasps](https://www.catalogueoflife.org/data/taxon/VP) in [Catalogue of Life](https://www.catalogueoflife.org/data/dataset/1037), originally created by [ZOBODAT](http://www.zobodat.at/).
 
+While under testing the dataset is indexed here:
+https://www.dev.checklistbank.org/dataset/54104
+
 ## Changelog from original ZOBODAT dataset
 
 ### Initial cleanup
