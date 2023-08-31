@@ -13,8 +13,7 @@ References were normalised, taking down the numbers from 2037 to just 113 unique
 
 ## Get involved
 We keep the data as Tab delimited files (TSV) that together represent a [ColDP archive](https://github.com/CatalogueOfLife/coldp/blob/master/README.md).
-Editing of TSV files can be done locally with simple text editors but also spreadsheet applications
-and tools like [OpenRefine](http://openrefine.org) or online editors like [Datablist](https://app.datablist.com/)
+Editing of TSV files can be done locally with simple text editors (e.g. [Sublime](https://www.sublimetext.com) with the [rainbow CSV package](https://packagecontrol.io/packages/rainbow_csv)) but also spreadsheet applications and tools like [OpenRefine](http://openrefine.org) or online editors like [Datablist](https://app.datablist.com/)
 
 ## Postgres editing
 The schema definition in `schema-pg.sql` allows for simple import/export of the TSV files into a local postgres database.
