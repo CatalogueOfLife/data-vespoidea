@@ -1,21 +1,22 @@
----
-key: 1037
-title: Zoological-Botanical Database (Vespoidea)
-alias: ZOBODAT Vespoidea
-description: "ZOBODAT is a digitally organised biogeographical database including\
-  \ facilities for analysis, documentation and communication. Founded in 1972 by Univ.-\
-  \ Prof. Dr. Ernst Rudolf Reichl, ZOBODAT was taken over by the federal county of\
-  \ Upper Austria in 1999. It is located at the Biology Centre of the Museum of Upper\
-  \ Austria. The original database includes information about the temporal and spatial\
-  \ distribution of animal and plant species and various supporting information topics.\
-  \ Most of the data traditionally refer to insects of Austria, but ZOBODAT can be\
-  \ used for all groups of organisms and world-wide. ZOBODAT contributes world vespid\
-  \ wasps to the Catalogue of Life."
-issued: 2011-10-14
-version: "4.0, Oct 2011"
+title: Vespoidea based on Zoological-Botanical Database
+alias: Vespoidea (ZOBODAT+)
+description: |
+  ZOBODAT is a digitally organised biogeographical database including facilities for analysis, documentation and communication. 
+  Founded in 1972 by Univ. Prof. Dr. Ernst Rudolf Reichl, ZOBODAT was taken over by the federal county of Upper Austria in 1999. 
+  It is located at the Biology Centre of the Museum of Upper Austria. 
+  The original database includes information about the temporal and spatial distribution of animal and plant species and various supporting information topics.
+  Most of the data traditionally refer to insects of Austria, but ZOBODAT can be used for all groups of organisms and world-wide.
+
+  Since 2011 the dataset has not been actively managed. In order to apply feedback and other changes received by the Catalogue of Life and GBIF,
+  the data was placed in github for further editing and initially released as version 4.1.
+
+issued: 2025-06-25
+version: 4.1
 contact:
-  given: Josef
-  family: Gusenleitner
+  given: Markus
+  family: Döring
+  country: Germany
+  organisation: Catalogue of Life
 creator:
  -
   given: Josef
@@ -24,12 +25,11 @@ creator:
   country: AT
   address: "Linz, Austria"
   organisation: Oberostereichisches Landesmuseum
-keyword: []
+keyword: 
+  - wasp
 geographicScope: Global
 taxonomicScope: Vespid wasps
-confidence: 4
-completeness: 95
-license: other
-url: http://www.zobodat.at
+license: cc-by
+url: https://github.com/CatalogueOfLife/data-vespoidea
 logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/ZOBODAT_Vespoidea.png
-source: []
+source: 
