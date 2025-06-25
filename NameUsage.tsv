@@ -2537,7 +2537,7 @@ ZOBO00125324	xG		accepted	species	Odynerus madecassus	(de Saussure)		ZOBO0003374
 ZOBO00125301	xG		accepted	species	Odynerus magretti	Gribodo		ZOBO00124977					Gusenleitner J.	2011-11	f			
 ZOBO00125681	ZOBO00163346		accepted	subspecies	Odynerus marginellus sabulosus	(de Saussure)		ZOBO00035389					Gusenleitner J.	2011-11	f			
 ZOBO00154003	xG		accepted	species	Odynerus masariforme	Giordani Soika, 1934		ZOBO00023971					Gusenleitner J.	2011-11	f			
-ZOBO00018085	xG		accepted	species	Odynerus melanocephalus	(Gmeling, 1790)		ZOBO00018085					Gusenleitner J.	2011-11	f			
+ZOBO00018085	xG		accepted	species	Odynerus melanocephalus	(Gmelin, 1790)		ZOBO00018085					Gusenleitner J.	2011-11	f			
 ZOBO00125174	xG		accepted	species	Odynerus mimeticus	Schulthess		ZOBO00031812					Gusenleitner J.	2011-11	f			
 ZOBO00125447	xG		accepted	species	Odynerus miniatus	de Saussure		ZOBO00032124					Gusenleitner J.	2011-11	f			
 ZOBO00125760	ZOBO00125447		accepted	subspecies	Odynerus miniatus mephitis	(Cameron)		ZOBO00032124					Gusenleitner J.	2011-11	f			
@@ -2566,7 +2566,7 @@ ZOBO00125438	xG		accepted	species	Odynerus pratensis	de Saussure		ZOBO00032124		
 ZOBO00125330	xG		accepted	species	Odynerus pretiosus	Dusmet, 1928		ZOBO00023971					Gusenleitner J.	2011-11	f			
 ZOBO00125304	xG		accepted	species	Odynerus prominens	Giordani Soika		ZOBO00124977					Gusenleitner J.	2011-11	f			
 ZOBO00125003	xG		accepted	species	Odynerus puer	Giordani Soika		ZOBO00032748					Gusenleitner J.	2011-11	f			
-ZOBO00010021	xG		accepted	species	Odynerus reniformis	(Gmeling, 1790)		ZOBO00010021					Gusenleitner J.	2011-11	f			
+ZOBO00010021	xG		accepted	species	Odynerus reniformis	(Gmelin, 1790)		ZOBO00010021					Gusenleitner J.	2011-11	f			
 ZOBO00125209	xG		accepted	species	Odynerus rhizophorarum	Bequard		ZOBO00125208					Gusenleitner J.	2011-11	f			
 ZOBO00033999	xG		accepted	species	Odynerus rotundigaster	de Saussure, 1852		ZOBO00010025					Gusenleitner J.	2011-11	f			
 ZOBO00153633	xG		accepted	species	Odynerus roubaudi	Bequaert, 1916		ZOBO00031760					Gusenleitner J.	2011-11	f			
@@ -6402,7 +6402,7 @@ ZOBO00064008	xG		accepted	species	Odynerus hildebrandti	de Saussure, 1891							
 474	ZOBO00032617		synonym	species	Odynerus hokotoensis	Sonan, 1929									f			
 ZOBO00034990	ZOBO00034989		accepted	subspecies	Rhynchium cyanopterum assabense	Giordani Soika, 1987							Gusenleitner J.	2011-11	f			
 ZOBO00034991	ZOBO00034989		accepted	subspecies	Rhynchium cyanopterum somaliense	Giordani Soika, 1987							Gusenleitner J.	2011-11	f			
-1690	ZOBO00031718		synonym	species	Rhynchium dimidiatum	Gmeling, 1834									f			
+1690	ZOBO00031718		synonym	species	Rhynchium dimidiatum	Gmelin, 1834									f			
 1689	ZOBO00031718		synonym	species	Rhynchium dimidiatum	Guerin, 1834									f			
 399	ZOBO00032582		synonym	species	Rhynchium emeryanum	Gribodo, 1895									f			
 425	ZOBO00153802		synonym	species	Rhynchium erythrinum	de Saussure, 1867									f			
@@ -7580,7 +7580,7 @@ ZOBO00149535	x58		accepted	species	Polistes angusticlypeus	Gusenleitner, 2006			
 591	ZOBO00032800		synonym	species	Vespa maxillosa	De Geer, 1774									f			
 2455	ZOBO00037042		synonym	species	Vespa mediozonalis	Pèr., 1911									f			
 ZOBO00064271	x4L		accepted	species	Vespa megei	Perkins, 1910							Gusenleitner J.	2011-11	f			
-1083	ZOBO00010021		synonym	species	Vespa melanochra	Gmeling, 1790									f			
+1083	ZOBO00010021		synonym	species	Vespa melanochra	Gmelin, 1790									f			
 ZOBO00065084	x4L		accepted	species	Vespa menstrua	Licht., 1796							Gusenleitner J.	2011-11	f			
 2447	ZOBO00037014		synonym	species	Vespa micado	Cameron, 1903									f			
 1774	ZOBO00035390		synonym	species	Vespa microrhoea	Christ, 1791									f			
@@ -9788,9 +9788,9 @@ ZOBO00036995	x4L		accepted	species	Vespa dybowskii	André, 1884							Gusenleitn
 ZOBO00036996	ZOBO00036995		accepted	subspecies	Vespa dybowskii mutata	Ma, 1937							Gusenleitner J.	2011-11	f			
 592	ZOBO00032800		synonym	species	Vespa emarginata	Linnaeus, 1758									f			
 95	ZOBO00018095		synonym	species	Vespa emarginata	Linnaeus, 1758: Fabricius, 1793									f			
-ZOBO00065065	x4L		accepted	species	Vespa erythrocephala	Gmeling, 1790							Gusenleitner J.	2011-11	f			
+ZOBO00065065	x4L		accepted	species	Vespa erythrocephala	Gmelin, 1790							Gusenleitner J.	2011-11	f			
 2432	ZOBO00036992		synonym	species	Vespa esakii	Sonan, 1935									f			
-ZOBO00065066	x4L		accepted	species	Vespa exotica	Gmeling, 1790							Gusenleitner J.	2011-11	f			
+ZOBO00065066	x4L		accepted	species	Vespa exotica	Gmelin, 1790							Gusenleitner J.	2011-11	f			
 1994	ZOBO00035988		synonym	species	Vespa fernaldi	Lewis, 1897									f			
 ZOBO00065067	x4L		accepted	species	Vespa ferruginata	Licht., 1796							Gusenleitner J.	2011-11	f			
 2382	ZOBO00036846		ambiguous synonym	species	Vespa ferruginea	Fabricius, 1793									f			
@@ -9808,7 +9808,7 @@ ZOBO00065070	2014-ZOBO00065069		accepted	infraspecific name	Vespa florisequa min
 2420	ZOBO00036963		synonym	species	Vespa formosana	Sonan, 1927									f			
 2029	ZOBO00010008		synonym	species	Vespa frontalis	Latreille, 1802									f			
 2453	ZOBO00037030		synonym	species	Vespa fruhstorferi	Stadelmann, 1894									f			
-ZOBO00065071	x4L		accepted	species	Vespa fulva	Gmeling, 1790							Gusenleitner J.	2011-11	f			
+ZOBO00065071	x4L		accepted	species	Vespa fulva	Gmelin, 1790							Gusenleitner J.	2011-11	f			
 ZOBO00065072	x4L		accepted	species	Vespa fulvipes	Geoffroy, 1785							Gusenleitner J.	2011-11	f			
 2445	ZOBO00037009		synonym	species	Vespa fusca	Christ, 1791									f			
 2014-ZOBO00065074	x4L		accepted	species	Vespa fusus								Gusenleitner J.	2011-11	f			Binomial name created by Species 2000
