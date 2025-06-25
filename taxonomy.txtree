@@ -100,7 +100,7 @@ Animalia [kingdom] {ID=x4}
               Alastor afghanicus Blüthgen, 1956 [species] {ID=ZOBO00032072}
               Alastor algeriensis Blüthgen, 1939 [species] {ID=ZOBO00032073}
               Alastor angulicollis Spinosa [species] {ID=ZOBO00125179 PUB=ZOBO00033346}
-              Alastor anomalus Brethes [species] {ID=ZOBO00125180 PUB=ZOBO00033346}
+              Alastor anomalus Brèthes [species] {ID=ZOBO00125180 PUB=ZOBO00033346}
               Alastor antigae Buysson, 1903 [species] {ID=ZOBO00032074}
                 =Alastor merceti Dusmet, 1904 [species] {ID=23}
                 Alastor antigae uniformis Giordani Soika [subspecies] {ID=ZOBO00125573 PUB=ZOBO00124987}
@@ -160,7 +160,7 @@ Animalia [kingdom] {ID=x4}
               Alastor parallelus Gusenleitner, 2006 [species] {ID=ZOBO00154087}
               Alastor pentheri Kohl, 1905 [species] {ID=ZOBO00032110 PUB=ZOBO00010025}
                 =Alastor korbi Giordani Soika, 1958 [species] {ID=28}
-              ?Alastor persimilis Brethes [species] {ID=ZOBO00125182 PUB=ZOBO00033346}
+              ?Alastor persimilis Brèthes [species] {ID=ZOBO00125182 PUB=ZOBO00033346}
               ?Alastor persimilis Giordani Soika, 1950 [species] {ID=ZOBO00064487 PUB=ZOBO00031760}
               Alastor planicollis Gusenleitner, 2004 [species] {ID=ZOBO00154086}
               Alastor plicatus Giordani Soika, 1991 [species] {ID=ZOBO00032111 PUB=ZOBO00031760}
@@ -296,8 +296,8 @@ Animalia [kingdom] {ID=x4}
               Alphamenes semiplanus Giordani Soika, 1978 [species] {ID=ZOBO00032181}
               Alphamenes usitatus (Fox, 1899) [species] {ID=ZOBO00032182}
             Ancistroceroides [genus] {ID=x4S}
-              ?Ancistroceroides acuminatus (Brethes) [species] {ID=ZOBO00065359}
-                =Crastinocerus acuminatus (Brethes, 1903) [species] {ID=58}
+              ?Ancistroceroides acuminatus (Brèthes) [species] {ID=ZOBO00065359}
+                =Crastinocerus acuminatus (Brèthes, 1903) [species] {ID=58}
               ?Ancistroceroides acuminatus (Brèthes, 1903) [species] {ID=ZOBO00149526}
               Ancistroceroides alasteroides (de Saussure, 1852) [species] {ID=ZOBO00032183}
                 =Odynerus clarazianus de Saussure, 1870 [species] {ID=59}
@@ -318,10 +318,10 @@ Animalia [kingdom] {ID=x4}
               Ancistroceroides distinguendus (Brèthes, 1906 [species] {ID=ZOBO00149589}
               Ancistroceroides domingensis (Bequaert & Salt, 1931) [species] {ID=ZOBO00065366}
                 =Ancistrocerus domingensis Bequard & Salt, 1931 [species] {ID=63}
-              Ancistroceroides erythraeus (Brethes, 1906) [species] {ID=ZOBO00032189}
+              Ancistroceroides erythraeus (Brèthes, 1906) [species] {ID=ZOBO00032189}
               Ancistroceroides evansi Carpenter, 2004 [species] {ID=ZOBO00149600}
-              ?Ancistroceroides fabienii (Brethes) [species] {ID=ZOBO00065361}
-                =Crastinocerus fabieni (Brethes, 1906) [species] {ID=64}
+              ?Ancistroceroides fabienii (Brèthes) [species] {ID=ZOBO00065361}
+                =Crastinocerus fabieni (Brèthes, 1906) [species] {ID=64}
               ?Ancistroceroides fabienii (Brèthes, 1906) [species] {ID=ZOBO00149603}
               Ancistroceroides foxii (Brèthes, 1906) [species] {ID=ZOBO00149609}
               Ancistroceroides fulvimaculatus (Fox, 1902) [species] {ID=ZOBO00032190}
@@ -337,10 +337,10 @@ Animalia [kingdom] {ID=x4}
                 =Crestocranius mearimenes (Zavattari, 1912) [species] {ID=66}
               Ancistroceroides pallidus (Zavattari, 1912) [species] {ID=ZOBO00149714}
               Ancistroceroides rufimaculatus (Fox, 1902) [species] {ID=ZOBO00032191}
-              Ancistroceroides rufus (Brethes, 1906) [species] {ID=ZOBO00032192}
+              Ancistroceroides rufus (Brèthes, 1906) [species] {ID=ZOBO00032192}
               Ancistroceroides schultzi (Zavattari, 1912) [species] {ID=ZOBO00149754}
               Ancistroceroides sylveirae (de Saussure, 1855) [species] {ID=ZOBO00144706}
-              Ancistroceroides venustus (Brethes, 1905) [species] {ID=ZOBO00032193}
+              Ancistroceroides venustus (Brèthes, 1905) [species] {ID=ZOBO00032193}
               ?Ancistroceroides vicinus (Reed) [species] {ID=ZOBO00065362}
                 =Crastinocerus vicinus (Reed) [species] {ID=67}
               ?Ancistroceroides vicinus (Reed, 1893) [species] {ID=ZOBO00149790}
@@ -1267,8 +1267,8 @@ Animalia [kingdom] {ID=x4}
               Brachymenes dyscherus (de Saussure, 1852) [species] {ID=ZOBO00032641}
                 =Eumenes centralis Cameron, 1906 [species] {ID=481}
                 =Eumenes chalicodomae de Saussure, 1875 [species] {ID=480}
-                =Eumenes magna Brethes, 1903 [species] {ID=479}
-                =Eumenes magnus Brethes, 1903 [species] {ID=482}
+                =Eumenes magna Brèthes, 1903 [species] {ID=479}
+                =Eumenes magnus Brèthes, 1903 [species] {ID=482}
                 Brachymenes dyscherus catharinae Giordani Soika, 1990 [subspecies] {ID=ZOBO00032642}
               Brachymenes wagnerianus (de Saussure, 1875) [species] {ID=ZOBO00032643 PUB=ZOBO00018100}
                 =Eumenes flavicornis de Saussure, 1856 [species] {ID=483}
@@ -1432,21 +1432,21 @@ Animalia [kingdom] {ID=x4}
             Crassodynerus [genus] {ID=xD6}
               Crassodynerus brevigaster Vecht i.sch. [species] {ID=ZOBO00037065}
             Crastinocerus [genus] {ID=xM6}
-              Crastinocerus distinguendus (Brethes, 1906) [species] {ID=ZOBO00032716}
-              Crastinocerus idoneiformis (Brethes) [species] {ID=ZOBO00032718}
-              Crastinocerus idoneus (Brethes) [species] {ID=ZOBO00032719}
+              Crastinocerus distinguendus (Brèthes, 1906) [species] {ID=ZOBO00032716}
+              Crastinocerus idoneiformis (Brèthes) [species] {ID=ZOBO00032718}
+              Crastinocerus idoneus (Brèthes) [species] {ID=ZOBO00032719}
             Crestocranius [genus] {ID=xM4}
               Crestocranius cirrifer (Zavattari, 1912) [species] {ID=ZOBO00032721}
               Crestocranius conspicuus (de Saussure, 1857) [species] {ID=ZOBO00032722}
-              Crestocranius foxii (Brethes, 1906) [species] {ID=ZOBO00032723}
+              Crestocranius foxii (Brèthes, 1906) [species] {ID=ZOBO00032723}
             Ctenochilus [genus] {ID=xM2}
-              Ctenochilus argentinus Brethes, 1903 [species] {ID=ZOBO00031725 PUB=ZOBO00031725}
+              Ctenochilus argentinus Brèthes, 1903 [species] {ID=ZOBO00031725 PUB=ZOBO00031725}
               Ctenochilus bimaculatus (Zavattari, 1912) [species] {ID=ZOBO00032726 PUB=ZOBO00031725}
               Ctenochilus chilensis Giordani Soika, 1962 [species] {ID=ZOBO00032727 PUB=ZOBO00031725}
               Ctenochilus maximus Giordani Soika, 1962 [species] {ID=ZOBO00032728 PUB=ZOBO00031725}
               Ctenochilus pilipalpus (Spinosa, 1851) [species] {ID=ZOBO00032729 PUB=ZOBO00031725}
             Cuyodynerus [genus] {ID=x7S}
-              Cuyodynerus cuyanus (Brethes, 1903) [species] {ID=ZOBO00032730}
+              Cuyodynerus cuyanus (Brèthes, 1903) [species] {ID=ZOBO00032730}
               Cuyodynerus pullus Cooper, 2001 [species] {ID=ZOBO00043966}
             Cyphodynerus [genus] {ID=xLY}
               Cyphodynerus bisellatus (Schulthess, 1914) [species] {ID=ZOBO00032731 PUB=ZOBO00031760}
@@ -1470,7 +1470,7 @@ Animalia [kingdom] {ID=x4}
               Cyphodynerus sculpturatus (Dover, 1925) [species] {ID=ZOBO00032740}
                 =Odynerus nigroflammeus Kostylev, 1937 [species] {ID=528}
             Cyphomenes [genus] {ID=xLW}
-              Cyphomenes anisitsii (Brethes, 1906) [species] {ID=ZOBO00032741}
+              Cyphomenes anisitsii (Brèthes, 1906) [species] {ID=ZOBO00032741}
                 =Eumenes consobrinus Fox, 1899 [species] {ID=529}
                 Cyphomenes anisitsii ornatissimus Giordani Soika, 1978 [infraspecific_name] {ID=ZOBO00149536}
               Cyphomenes infernalis (de Saussure, 1875) [species] {ID=ZOBO00032742}
@@ -1756,11 +1756,11 @@ Animalia [kingdom] {ID=x4}
               Diemodynerus saucius (de Saussure, 1856) [species] {ID=ZOBO00032863 PUB=ZOBO00032027}
               Diemodynerus tinypilpus Borsato, 2005 [species] {ID=ZOBO00149778}
             Discoelius [genus] {ID=xB6}
-              Discoelius albonotatus Brethes, 1906 [species] {ID=ZOBO00032864}
-              Discoelius argentinus Brethes, 1905 [species] {ID=ZOBO00032865}
-              Discoelius assimilis Brethes, 1903 [species] {ID=ZOBO00032866}
-              Discoelius auritulus Brethes, 1903 [species] {ID=ZOBO00032867}
-              Discoelius cuyanus Brethes, 1903 [species] {ID=ZOBO00032869}
+              Discoelius albonotatus Brèthes, 1906 [species] {ID=ZOBO00032864}
+              Discoelius argentinus Brèthes, 1905 [species] {ID=ZOBO00032865}
+              Discoelius assimilis Brèthes, 1903 [species] {ID=ZOBO00032866}
+              Discoelius auritulus Brèthes, 1903 [species] {ID=ZOBO00032867}
+              Discoelius cuyanus Brèthes, 1903 [species] {ID=ZOBO00032869}
               Discoelius dimidiatus Ducke, 1904 [species] {ID=ZOBO00032870}
               Discoelius dufourii Lepeletier, 1841 [species] {ID=ZOBO00018103}
                 =Discoelius priesneri Mader, 1936 [species] {ID=635}
@@ -1769,7 +1769,7 @@ Animalia [kingdom] {ID=x4}
               Discoelius longinodus Sk. Yamane, 1997 [species] {ID=ZOBO00037397}
               Discoelius manchurianus Yas., 1934 [species] {ID=ZOBO00032874 PUB=ZOBO00010020}
               Discoelius niger Zavattari, 1911 [species] {ID=ZOBO00032875}
-              Discoelius nitidus Brethes, 1903 [species] {ID=ZOBO00032876}
+              Discoelius nitidus Brèthes, 1903 [species] {ID=ZOBO00032876}
               Discoelius pictus Kostylev, 1940 [species] {ID=ZOBO00031765}
               Discoelius planiventris Giordani Soika, 1971 [species] {ID=ZOBO00032877 PUB=ZOBO00032444}
               Discoelius turneri (Meade-Waldo, 1910) [species] {ID=ZOBO00032878 PUB=ZOBO00031834}
@@ -2023,8 +2023,8 @@ Animalia [kingdom] {ID=x4}
                 Euodynerus foraminatus scutellaris (de Saussure, 1870) [subspecies] {ID=ZOBO00033187}
               Euodynerus formosus (de Saussure, 1870) [species] {ID=ZOBO00033188}
               Euodynerus fouadi (Giordani Soika) [species] {ID=ZOBO00125541 PUB=ZOBO00010025}
-              Euodynerus gaullei (Brethes, 1920) [species] {ID=ZOBO00145735}
-                =Pachodynerus gaullei Brethes, 1920 [species] {ID=760}
+              Euodynerus gaullei (Brèthes, 1920) [species] {ID=ZOBO00145735}
+                =Pachodynerus gaullei Brèthes, 1920 [species] {ID=760}
               Euodynerus geometricus (Giordani Soika, 1940) [species] {ID=ZOBO00033189}
                 Euodynerus geometricus steinkopfi (Giordani Soika, 1940) [subspecies] {ID=ZOBO00033190}
               Euodynerus guerrero (de Saussure, 1857) [species] {ID=ZOBO00033191}
@@ -2303,22 +2303,22 @@ Animalia [kingdom] {ID=x4}
             Hypalastoroides [genus] {ID=x3Y}
               Hypalastoroides abundans Giordani Soika, 1982 [species] {ID=ZOBO00033343}
               Hypalastoroides angulicollis (Spinosa, 1851) [species] {ID=ZOBO00033344}
-              Hypalastoroides anomalus (Brethes, 1903) [species] {ID=ZOBO00033345}
-              Hypalastoroides arcuatus (Brethes, 1903) [species] {ID=ZOBO00033346 PUB=ZOBO00033346}
-              Hypalastoroides argentinus (Brethes, 1903) [species] {ID=ZOBO00033347 PUB=ZOBO00033346}
+              Hypalastoroides anomalus (Brèthes, 1903) [species] {ID=ZOBO00033345}
+              Hypalastoroides arcuatus (Brèthes, 1903) [species] {ID=ZOBO00033346 PUB=ZOBO00033346}
+              Hypalastoroides argentinus (Brèthes, 1903) [species] {ID=ZOBO00033347 PUB=ZOBO00033346}
               Hypalastoroides aztecus Giordani Soika, 1958 [species] {ID=ZOBO00033348 PUB=ZOBO00033346}
               Hypalastoroides bicinctus (Schrottky, 1911) [species] {ID=ZOBO00033349 PUB=ZOBO00033346}
               Hypalastoroides bicingulatus Giordani Soika, 1982 [species] {ID=ZOBO00033350}
               Hypalastoroides brasiliensis (de Saussure, 1856) [species] {ID=ZOBO00033351}
-                =Odynerus schrottkyi Brethes, 1903 [species] {ID=834}
+                =Odynerus schrottkyi Brèthes, 1903 [species] {ID=834}
                 Hypalastoroides brasiliensis festae (Zavattari, 1906) [subspecies] {ID=ZOBO00033352}
                 Hypalastoroides brasiliensis vechti Giordani Soika, 1982 [subspecies] {ID=ZOBO00033353}
-              Hypalastoroides clypeatus (Brethes, 1906) [species] {ID=ZOBO00033354 PUB=ZOBO00033346}
+              Hypalastoroides clypeatus (Brèthes, 1906) [species] {ID=ZOBO00033354 PUB=ZOBO00033346}
               Hypalastoroides colombianus Giordani Soika, 1982 [species] {ID=ZOBO00033355}
               Hypalastoroides costaricensis Giordani Soika, 1958 [species] {ID=ZOBO00033356 PUB=ZOBO00033346}
               Hypalastoroides depressus Giordani Soika, 1969 [species] {ID=ZOBO00064972 PUB=ZOBO00033868}
               Hypalastoroides ecuadoriensis Giordani Soika, 1958 [species] {ID=ZOBO00033357 PUB=ZOBO00033346}
-              Hypalastoroides elongatus (Brethes, 1903) [species] {ID=ZOBO00033358 PUB=ZOBO00033346}
+              Hypalastoroides elongatus (Brèthes, 1903) [species] {ID=ZOBO00033358 PUB=ZOBO00033346}
                 Hypalastoroides elongatus unifasciatus Giordani Soika, 1982 [subspecies] {ID=ZOBO00033359}
               Hypalastoroides funereus Giordani Soika, 1858 [species] {ID=ZOBO00033360 PUB=ZOBO00033346}
               Hypalastoroides heymonsi (Zavattari) [species] {ID=ZOBO00125176 PUB=ZOBO00033346}
@@ -2328,13 +2328,13 @@ Animalia [kingdom] {ID=x4}
                 Hypalastoroides melanosoma bicoloripennis Giordani Soika, 1982 [subspecies] {ID=ZOBO00033364}
               Hypalastoroides mexicanus (de Saussure, 1871) [species] {ID=ZOBO00033365 PUB=ZOBO00033346}
                 =Hypalastoroides reductus Giordani Soika, 1959 [species] {ID=835}
-              Hypalastoroides nitidus (Brethes, 1906) [species] {ID=ZOBO00033366 PUB=ZOBO00033346}
+              Hypalastoroides nitidus (Brèthes, 1906) [species] {ID=ZOBO00033366 PUB=ZOBO00033346}
                 Hypalastoroides nitidus nigricans Giordani Soika, 1982 [subspecies] {ID=ZOBO00033367}
                 Hypalastoroides nitidus pronotalis Giordani Soika, 1958 [subspecies] {ID=ZOBO00033368 PUB=ZOBO00033346}
               Hypalastoroides olivieri (Ruiz, 1933) [species] {ID=ZOBO00033369}
               Hypalastoroides paragiayensis (Zavattari, 1911) [species] {ID=ZOBO00033370}
                 Hypalastoroides paragiayensis singularoides Giordani Soika, 1982 [subspecies] {ID=ZOBO00033371}
-              Hypalastoroides persimilis (Brethes, 1903) [species] {ID=ZOBO00033372}
+              Hypalastoroides persimilis (Brèthes, 1903) [species] {ID=ZOBO00033372}
               Hypalastoroides pulchricolor Giordani Soika, 1982 [species] {ID=ZOBO00033373}
               Hypalastoroides rotundiceps (Schrottky, 1911) [species] {ID=ZOBO00033374}
                 =Alastor heymonsi Zavattari, 1912 [species] {ID=836}
@@ -2355,7 +2355,7 @@ Animalia [kingdom] {ID=x4}
               Hypancistrocerus belizensis (Cameron, 1908) [species] {ID=ZOBO00145748}
                 =Parancistrocerus belizensis Cameron, 1908 [species] {ID=840}
               Hypancistrocerus carnifer (Kirsch, 1878) [species] {ID=ZOBO00033382}
-              Hypancistrocerus catamarcensis Brethes, 1903 [species] {ID=ZOBO00033383}
+              Hypancistrocerus catamarcensis Brèthes, 1903 [species] {ID=ZOBO00033383}
               Hypancistrocerus coxalis (Fox, 1902) [species] {ID=ZOBO00033384}
               ?Hypancistrocerus dallatorrei (Brèthes, 1906) [species] {ID=ZOBO00149582}
               Hypancistrocerus dentiformis (Fox, 1902) [species] {ID=ZOBO00033385}
@@ -2371,11 +2371,11 @@ Animalia [kingdom] {ID=x4}
               Hypodynerus antucensis (de Saussure, 1855) [species] {ID=ZOBO00033394}
               Hypodynerus antuco (de Saussure, 1852) [species] {ID=ZOBO00145764}
                 =Odynerus antuco de Saussure, 1852 [species] {ID=843}
-              Hypodynerus arechavaletae Brethes, 1903 [species] {ID=ZOBO00033395}
+              Hypodynerus arechavaletae Brèthes, 1903 [species] {ID=ZOBO00033395}
               Hypodynerus arequipensis (Buysson, 1912) [species] {ID=ZOBO00149542}
               Hypodynerus brethesi Jörgensen, 1912 [species] {ID=ZOBO00033396}
-                =Odynerus joergenseni Brethes, 1910 [species] {ID=844}
-              Hypodynerus bruchii Brethes, 1903 [species] {ID=ZOBO00033397}
+                =Odynerus joergenseni Brèthes, 1910 [species] {ID=844}
+              Hypodynerus bruchii Brèthes, 1903 [species] {ID=ZOBO00033397}
               Hypodynerus caupolicans (Reed, 1893) [species] {ID=ZOBO00033398}
                 =Odynerus sotoi Reed, 1893 [species] {ID=845}
               Hypodynerus cerberus Bequaert & Ruiz [species] {ID=ZOBO00145758}
@@ -2392,15 +2392,15 @@ Animalia [kingdom] {ID=x4}
                 =Paranortonia duckei Berton, 1918 [species] {ID=849}
               Hypodynerus excipiendus (Spinosa) [species] {ID=ZOBO00033407}
               Hypodynerus foersteri Giordani Soika, 1961 [species] {ID=ZOBO00033408}
-              Hypodynerus fuscipennis Brethes [species] {ID=ZOBO00033409}
+              Hypodynerus fuscipennis Brèthes [species] {ID=ZOBO00033409}
               Hypodynerus guaicuru Pèrez [species] {ID=ZOBO00149620}
-              Hypodynerus heptagonalis Brethes, 1903 [species] {ID=ZOBO00033410}
+              Hypodynerus heptagonalis Brèthes, 1903 [species] {ID=ZOBO00033410}
               Hypodynerus herbsti Bequaert & Ruiz, 1943 [species] {ID=ZOBO00149623}
               Hypodynerus houssayi Willink, 1981 [species] {ID=ZOBO00033411}
               Hypodynerus huancabambae Schrottky, 1911 [species] {ID=ZOBO00033412}
               Hypodynerus humeralis (Haliday, 1837) [species] {ID=ZOBO00033413}
               Hypodynerus joergenseni Schrottky, 1909 [species] {ID=ZOBO00033414}
-                =Odynerus tuberculiventris Brethes [species] {ID=850}
+                =Odynerus tuberculiventris Brèthes [species] {ID=850}
               Hypodynerus labiatus (Haliday, 1837) [species] {ID=ZOBO00033415}
                 =Odynerus rhodopterus Schletterer, 1891 [species] {ID=851}
               Hypodynerus lachensis (Lepeletier, 1841) [species] {ID=ZOBO00033416}
@@ -2409,13 +2409,13 @@ Animalia [kingdom] {ID=x4}
               Hypodynerus maypinus (de Saussure, 1852) [species] {ID=ZOBO00033417}
               Hypodynerus melancholicus Schrottky, 1909 [species] {ID=ZOBO00033419}
               Hypodynerus molinae (de Saussure, 1851) [species] {ID=ZOBO00033420}
-                =Odynerus labiatus Brethes [species] {ID=853}
+                =Odynerus labiatus Brèthes [species] {ID=853}
               Hypodynerus nigricornis Rohwer, 1913 [species] {ID=ZOBO00033421}
               Hypodynerus obscuripennis (Spinosa, 1851) [species] {ID=ZOBO00033422}
                 =Odynerus coquimbensis de Saussure, 1851 [species] {ID=854}
               Hypodynerus oresbios Willink, 1992 [species] {ID=ZOBO00037127}
               Hypodynerus porteri Bequard & Ruiz, 1941 [species] {ID=ZOBO00033423}
-              Hypodynerus punctatus Brethes, 1903 [species] {ID=ZOBO00033424}
+              Hypodynerus punctatus Brèthes, 1903 [species] {ID=ZOBO00033424}
               Hypodynerus ruficollis (Spinosa, 1851) [species] {ID=ZOBO00033425}
               Hypodynerus rufinodis (Buysson, 1913) [species] {ID=ZOBO00033426}
               Hypodynerus rufotegulatus (Zavattari, 1912) [species] {ID=ZOBO00033427}
@@ -2681,7 +2681,7 @@ Animalia [kingdom] {ID=x4}
               Labus sumatrensis Giordani Soika, 1991 [species] {ID=ZOBO00149765}
               Labus vandervechti Giordani Soika, 1958 [species] {ID=ZOBO00033540 PUB=ZOBO00031834}
             Laevimenes [genus] {ID=xL6}
-              Laevimenes laevigatus (Brethes, 1906) [species] {ID=ZOBO00033541}
+              Laevimenes laevigatus (Brèthes, 1906) [species] {ID=ZOBO00033541}
                 =Eumenes maculatus Zavattari, 1911 [species] {ID=913}
               Laevimenes morbillosus Giordani Soika, 1978 [species] {ID=ZOBO00033542}
             Lamellodynerus [genus] {ID=xAL}
@@ -3239,14 +3239,14 @@ Animalia [kingdom] {ID=x4}
                 =Monobia pallidimarginata Cameron, 1912 [species] {ID=997}
               Monobia anomala de Saussure, 1852 [species] {ID=ZOBO00033852}
               Monobia apicalipennis de Saussure, 1852 [species] {ID=ZOBO00033853}
-                =Monobia anisitsii Brethes, 1906 [species] {ID=999}
+                =Monobia anisitsii Brèthes, 1906 [species] {ID=999}
               Monobia atrorubra Ducke, 1904 [species] {ID=ZOBO00033854}
               Monobia biangulata de Saussure, 1875 [species] {ID=ZOBO00033855}
               Monobia californica (de Saussure, 1863) [species] {ID=ZOBO00033856}
               Monobia caliginosa Willink, 1982 [species] {ID=ZOBO00033857}
               Monobia carbonaria Willink, 1982 [species] {ID=ZOBO00033858}
-              Monobia caridei Brethes, 1906 [species] {ID=ZOBO00033859}
-              Monobia cingulata Brethes, 1903 [species] {ID=ZOBO00033860}
+              Monobia caridei Brèthes, 1906 [species] {ID=ZOBO00033859}
+              Monobia cingulata Brèthes, 1903 [species] {ID=ZOBO00033860}
               Monobia curvata Fox, 1899 [species] {ID=ZOBO00033861}
               Monobia cyanipennis (Guerin, 1831) [species] {ID=ZOBO00033862}
               Monobia deplanata Ducke, 1908 [species] {ID=ZOBO00033863}
@@ -3280,7 +3280,7 @@ Animalia [kingdom] {ID=x4}
               Monodynerus insimilis Gusenleitner, 1982 [species] {ID=ZOBO00033882}
             Montezumia [genus] {ID=x5G}
               Montezumia analis de Saussure, 1856 [species] {ID=ZOBO00033883}
-                =Montezumia apicalis Brethes, 1920 [species] {ID=1007}
+                =Montezumia apicalis Brèthes, 1920 [species] {ID=1007}
               Montezumia anceps de Saussure, 1852 [species] {ID=ZOBO00033884}
               Montezumia arizonensis Bequard, 1940 [species] {ID=ZOBO00033885}
                 Montezumia arizonensis badius Willink, 1982 [subspecies] {ID=ZOBO00033886}
@@ -3298,10 +3298,10 @@ Animalia [kingdom] {ID=x4}
               Montezumia bequaerti Willink, 1982 [species] {ID=ZOBO00033890}
               Montezumia bipunctata Meade-Waldo?, 1911 [species] {ID=ZOBO00063602}
               Montezumia brethesi Berton, 1918 [species] {ID=ZOBO00033891}
-              Montezumia bruchii Brethes, 1903 [species] {ID=ZOBO00033892}
-                =Montezumia andina Brethes, 1906 [species] {ID=1016}
-                =Montezumia argentina Brethes, 1906 [species] {ID=1017}
-                =Montezumia vigilii Brethes, 1910 [species] {ID=1015}
+              Montezumia bruchii Brèthes, 1903 [species] {ID=ZOBO00033892}
+                =Montezumia andina Brèthes, 1906 [species] {ID=1016}
+                =Montezumia argentina Brèthes, 1906 [species] {ID=1017}
+                =Montezumia vigilii Brèthes, 1910 [species] {ID=1015}
               Montezumia coeruleorufa Willink, 1982 [species] {ID=ZOBO00033893}
               Montezumia colombiana Willink, 1982 [species] {ID=ZOBO00033894}
               Montezumia cortesia de Saussure, 1852 [species] {ID=ZOBO00033895}
@@ -3320,8 +3320,8 @@ Animalia [kingdom] {ID=x4}
                 Montezumia ferruginea buyssonoides Willink, 1982 [subspecies] {ID=ZOBO00033902}
               Montezumia fritzi Willink, 1982 [species] {ID=ZOBO00033903}
               Montezumia grossa Willink, 1982 [species] {ID=ZOBO00033904}
-              Montezumia holmbergii Brethes, 1906 [species] {ID=ZOBO00033905}
-              Montezumia holmbergi Brethes, 1906 [species] {ID=ZOBO00064015}
+              Montezumia holmbergii Brèthes, 1906 [species] {ID=ZOBO00033905}
+              Montezumia holmbergi Brèthes, 1906 [species] {ID=ZOBO00064015}
               Montezumia huasteca de Saussure, 1857 [species] {ID=ZOBO00033906}
                 =Montezumia centralis Zavattari, 1912 [species] {ID=1024}
               Montezumia ignobiloides Willink, 1982 [species] {ID=ZOBO00033907}
@@ -3354,7 +3354,7 @@ Animalia [kingdom] {ID=x4}
               Montezumia pelagica de Saussure, 1852 [species] {ID=ZOBO00033925}
                 Montezumia pelagica sepulchralis de Saussure, 1856 [subspecies] {ID=ZOBO00033926}
               Montezumia petiolata de Saussure, 1856 [species] {ID=ZOBO00033927}
-                =Montezumia pedunculata Brethes, 1906 [species] {ID=1032}
+                =Montezumia pedunculata Brèthes, 1906 [species] {ID=1032}
               Montezumia platinia de Saussure, 1852 [species] {ID=ZOBO00033928}
                 =Montezumia platensis de Saussure, 1852 [species] {ID=1033}
               Montezumia simulatrix Willink, 1982 [species] {ID=ZOBO00033929}
@@ -3612,7 +3612,7 @@ Animalia [kingdom] {ID=x4}
                 Omicron nanum trinitatis Giordani Soika, 1978 [subspecies] {ID=ZOBO00034061}
               Omicron notabile Giordani Soika, 1978 [species] {ID=ZOBO00034062}
               Omicron nymphale (Zavattari, 1912) [species] {ID=ZOBO00034063}
-              Omicron opifex (Brethes, 1909) [species] {ID=ZOBO00034064}
+              Omicron opifex (Brèthes, 1909) [species] {ID=ZOBO00034064}
               Omicron paranymphum (Zavattari, 1912) [species] {ID=ZOBO00034065}
               Omicron paraspegazzinii Giordani Soika, 1978 [species] {ID=ZOBO00034066}
               Omicron procellosum (Zavattari, 1912) [species] {ID=ZOBO00034067}
@@ -3629,8 +3629,8 @@ Animalia [kingdom] {ID=x4}
                 Omicron ruficolle schunkei Giordani Soika, 1978 [subspecies] {ID=ZOBO00034078}
               Omicron rufiscutum Giordani Soika, 1978 [species] {ID=ZOBO00034079}
               Omicron rusticum Giordani Soika, 1978 [species] {ID=ZOBO00034080}
-              Omicron spegazzinii (Brethes, 1905) [species] {ID=ZOBO00034081}
-                =Eumenes minuscula Brethes, 1906 [species] {ID=1112}
+              Omicron spegazzinii (Brèthes, 1905) [species] {ID=ZOBO00034081}
+                =Eumenes minuscula Brèthes, 1906 [species] {ID=1112}
                 =Eumenes paranaensis Berton, 1934 [species] {ID=1113}
               Omicron splendens Giordani Soika, 1978 [species] {ID=ZOBO00034082}
               Omicron tegulare (Fox, 1899) [species] {ID=ZOBO00034083}
@@ -3775,7 +3775,7 @@ Animalia [kingdom] {ID=x4}
               Pachodynerus anodontus Willink & Roig-Alsina, 1998 [species] {ID=ZOBO00149537}
               Pachodynerus argentinus (de Saussure, 1870) [species] {ID=ZOBO00034177}
                 =Odynerus chapadae Fox, 1902 [species] {ID=1143}
-                Pachodynerus argentinus andinus (Brethes, 1903) [subspecies] {ID=ZOBO00034178}
+                Pachodynerus argentinus andinus (Brèthes, 1903) [subspecies] {ID=ZOBO00034178}
               Pachodynerus argentipilis Willink & Roig-Alsina, 1998 [species] {ID=ZOBO00149543}
               Pachodynerus argyrotrichus Willink & Roig-Alsina, 1998 [species] {ID=ZOBO00149544}
               Pachodynerus atrata (Fabricius, 1798) [species] {ID=ZOBO00034179}
@@ -3806,7 +3806,7 @@ Animalia [kingdom] {ID=x4}
               Pachodynerus jamaicensis Bequard & Salt, 1931 [species] {ID=ZOBO00034192}
               Pachodynerus jujuyensis Willink & Roig-Alsina, 1998 [species] {ID=ZOBO00149647}
               Pachodynerus laplatae (de Saussure, 1870) [species] {ID=ZOBO00034193}
-                =Odynerus punctulatus Brethes, 1920 [species] {ID=1149}
+                =Odynerus punctulatus Brèthes, 1920 [species] {ID=1149}
               Pachodynerus lima Willink & Roig-Alsina, 1998 [species] {ID=ZOBO00149663}
               Pachodynerus linda Menke, 1986 [species] {ID=ZOBO00034194}
               Pachodynerus menkei Willink & Roig-Alsina, 1998 [species] {ID=ZOBO00149681}
@@ -3830,9 +3830,9 @@ Animalia [kingdom] {ID=x4}
                 =Odynerus astraeus Cameron, 1905 [species] {ID=1162}
                 =Odynerus clavilineatus Cameron, 1912 [species] {ID=1161}
                 =Odynerus zonatus de Saussure, 1870 [species] {ID=1159}
-                =Pachodynerus validus Brethes, 1906 [species] {ID=1160}
+                =Pachodynerus validus Brèthes, 1906 [species] {ID=1160}
               Pachodynerus pulverulentus (Viereck, 1908) [species] {ID=ZOBO00149730}
-              Pachodynerus punctulatus Brethes [species] {ID=ZOBO00034200}
+              Pachodynerus punctulatus Brèthes [species] {ID=ZOBO00034200}
               Pachodynerus rhachiphorus (Schlett., 1891) [species] {ID=ZOBO00034201}
               Pachodynerus ruficeps Willink & Roig-Alsina, 1998 [species] {ID=ZOBO00149746}
               Pachodynerus scrupeus (Zavattari, 1912) [species] {ID=ZOBO00034202}
@@ -3865,7 +3865,7 @@ Animalia [kingdom] {ID=x4}
               Pachymenes ghilianii (Spinosa, 1851) [species] {ID=ZOBO00034213}
                 =Eumenes auratus de Saussure, 1875 [species] {ID=1166}
                 =Eumenes brunnea Spinosa, 1851 [species] {ID=1165}
-                =Eumenes flavescens Brethes, 1906 [species] {ID=1164}
+                =Eumenes flavescens Brèthes, 1906 [species] {ID=1164}
                 =Eumenes pallidipes Dalla Torre, 1894 [species] {ID=1163}
                 =Eumenes rufiventris Zavattari, 1912 [species] {ID=1168}
                 =Pachymenes ornatissima Berton, 1925 [species] {ID=1167}
@@ -3883,8 +3883,8 @@ Animalia [kingdom] {ID=x4}
                 Pachymenes orellanae vardyi Giordani Soika, 1990 [subspecies] {ID=ZOBO00034222}
               Pachymenes orellanoides Giordani Soika, 1990 [species] {ID=ZOBO00034220}
               Pachymenes picturatus Fox, 1899 [species] {ID=ZOBO00034223}
-                Pachymenes picturatus intermedius (Brethes, 1906) [subspecies] {ID=ZOBO00034224}
-                Pachymenes picturatus nigromaculatus Brethes, 1906 [subspecies] {ID=ZOBO00034226}
+                Pachymenes picturatus intermedius (Brèthes, 1906) [subspecies] {ID=ZOBO00034224}
+                Pachymenes picturatus nigromaculatus Brèthes, 1906 [subspecies] {ID=ZOBO00034226}
                 Pachymenes picturatus obscuratus (Zavattari, 1912) [subspecies] {ID=ZOBO00034227}
               Pachymenes pseudoneotropicus Giordani Soika [species] {ID=ZOBO00125007 PUB=ZOBO00124995}
               Pachymenes pulchellus (de Saussure, 1856) [species] {ID=ZOBO00034228}
@@ -3894,13 +3894,13 @@ Animalia [kingdom] {ID=x4}
               Pachymenes sericeus (de Saussure, 1852) [species] {ID=ZOBO00034229 PUB=ZOBO00018100}
                 =Pachymenes chrysothorax de Saussure, 1856 [species] {ID=1171}
               Pachymenes tasmaniae Giordani Soika [species] {ID=ZOBO00125006 PUB=ZOBO00124995}
-              Pachymenes unicinctus (Brethes, 1906) [species] {ID=ZOBO00034230}
+              Pachymenes unicinctus (Brèthes, 1906) [species] {ID=ZOBO00034230}
               Pachymenes violaceus Schulthess [species] {ID=ZOBO00125015 PUB=ZOBO00124995}
               Pachymenes viridipes (Cameron) [species] {ID=ZOBO00125013 PUB=ZOBO00124995}
               Pachymenes viridis Smith [species] {ID=ZOBO00125012 PUB=ZOBO00124995}
               Pachymenes vorticosus Giordani Soika [species] {ID=ZOBO00125004 PUB=ZOBO00124995}
             Pachyminixi [genus] {ID=xG6}
-              Pachyminixi arechavaletae (Brethes, 1903) [species] {ID=ZOBO00034231}
+              Pachyminixi arechavaletae (Brèthes, 1903) [species] {ID=ZOBO00034231}
               Pachyminixi bifasciatum (Schulthess, 1904) [species] {ID=ZOBO00034232}
               Pachyminixi brethesi (Bertoni, 1927) [species] {ID=ZOBO00149557}
               Pachyminixi joergenseni (Schrottky, 1909) [species] {ID=ZOBO00034233}
@@ -4100,10 +4100,10 @@ Animalia [kingdom] {ID=x4}
                 Parancistrocerus androcles sulawensis Giordani Soika, 1993 [subspecies] {ID=ZOBO00037124}
                 Parancistrocerus androcles sumbanus Giordani Soika, 1995 [subspecies] {ID=ZOBO00037276}
               Parancistrocerus areatus (Fox, 1902) [species] {ID=ZOBO00034400}
-                =Odynerus subtropicalis Brethes, 1906 [species] {ID=1186}
+                =Odynerus subtropicalis Brèthes, 1906 [species] {ID=1186}
                 Parancistrocerus areatus scutellatus (Zavattari, 1912) [subspecies] {ID=ZOBO00034401}
               Parancistrocerus assamensis (Meade-Waldo, 1910) [species] {ID=ZOBO00034402}
-              Parancistrocerus assumptionis (Brethes, 1906) [species] {ID=ZOBO00034403}
+              Parancistrocerus assumptionis (Brèthes, 1906) [species] {ID=ZOBO00034403}
               Parancistrocerus atkinsi Bequard & Salt, 1931 [species] {ID=ZOBO00034404}
               Parancistrocerus austrinus (Cresson, 1872) [species] {ID=ZOBO00034405}
                 =Odynerus excentralis Viereck, 1906 [species] {ID=1187}
@@ -4114,13 +4114,13 @@ Animalia [kingdom] {ID=x4}
                 Parancistrocerus bicornis ceanothi (Rohwer, 1912) [subspecies] {ID=ZOBO00034409}
                 Parancistrocerus bicornis cushmani (Bohart, 1949) [subspecies] {ID=ZOBO00034410}
               Parancistrocerus binotatus (Fabricius, 1804) [species] {ID=ZOBO00034411}
-              Parancistrocerus bonariensis (Brethes, 1906) [species] {ID=ZOBO00145767}
-                =Stenodynerus bonariensis (Brethes, 1906) [species] {ID=1189}
+              Parancistrocerus bonariensis (Brèthes, 1906) [species] {ID=ZOBO00145767}
+                =Stenodynerus bonariensis (Brèthes, 1906) [species] {ID=1189}
               Parancistrocerus bravo (de Saussure, 1857) [species] {ID=ZOBO00034412}
               Parancistrocerus capocacciai Giordani Soika, 1995 [species] {ID=ZOBO00037255}
               Parancistrocerus chiricahuae (Bohart, 1949) [species] {ID=ZOBO00034413}
               Parancistrocerus citropictus Giordani Soika, 1995 [species] {ID=ZOBO00037259}
-              Parancistrocerus concavus (Brethes, 1906) [species] {ID=ZOBO00034414}
+              Parancistrocerus concavus (Brèthes, 1906) [species] {ID=ZOBO00034414}
               Parancistrocerus coronado (Bohart, 1949) [species] {ID=ZOBO00034415}
               Parancistrocerus cotti (Bohart, 1952) [species] {ID=ZOBO00034416}
               Parancistrocerus cucullatus (Zavattari, 1912) [species] {ID=ZOBO00145768}
@@ -4128,7 +4128,7 @@ Animalia [kingdom] {ID=x4}
               Parancistrocerus cylindricus (de Saussure, 1862) [species] {ID=ZOBO00034417}
               Parancistrocerus cylindroides Giordani Soika, 1995 [species] {ID=ZOBO00037258}
               Parancistrocerus declivatus (Bohart, 1948) [species] {ID=ZOBO00034418}
-              Parancistrocerus declivus (Brethes, 1903) [species] {ID=ZOBO00034419}
+              Parancistrocerus declivus (Brèthes, 1903) [species] {ID=ZOBO00034419}
               Parancistrocerus decollatus (Zavattari, 1912) [species] {ID=ZOBO00034420}
               Parancistrocerus dejectus (Cresson, 1865) [species] {ID=ZOBO00034421}
               Parancistrocerus difformis Giordani Soika, 1995 [species] {ID=ZOBO00037271}
@@ -4138,8 +4138,8 @@ Animalia [kingdom] {ID=x4}
               Parancistrocerus enyo (Lepeletier, 1841) [species] {ID=ZOBO00034424}
               Parancistrocerus farias (de Saussure, 1857) [species] {ID=ZOBO00034425}
               Parancistrocerus feai Giordani Soika, 1995 [species] {ID=ZOBO00037268}
-              Parancistrocerus foveolatus (Brethes, 1906) [species] {ID=ZOBO00034426}
-                =Odynerus mendozanus Brethes, 1906 [species] {ID=1191}
+              Parancistrocerus foveolatus (Brèthes, 1906) [species] {ID=ZOBO00034426}
+                =Odynerus mendozanus Brèthes, 1906 [species] {ID=1191}
               Parancistrocerus fulvipes (de Saussure, 1856) [species] {ID=ZOBO00034427}
                 =Odynerus flavipes Lepeletier, 1841 [species] {ID=1192}
                 Parancistrocerus fulvipes rufovestis Bohart, 1948 [subspecies] {ID=ZOBO00034428}
@@ -4149,7 +4149,7 @@ Animalia [kingdom] {ID=x4}
                 Parancistrocerus herbertii terebrator Berton, 1918 [subspecies] {ID=ZOBO00035802}
               Parancistrocerus histrio (Lepeletier, 1841) [species] {ID=ZOBO00034430}
               Parancistrocerus holmbergii (Brèthes, 1906) [species] {ID=ZOBO00149629}
-              Parancistrocerus holmbergi (Brethes, 1906) [species] {ID=ZOBO00034431}
+              Parancistrocerus holmbergi (Brèthes, 1906) [species] {ID=ZOBO00034431}
               Parancistrocerus holzschuhi Gusenleitner, 1987 [species] {ID=ZOBO00034432}
               Parancistrocerus hongkongensis Gusenleitner, 2002 [species] {ID=ZOBO00043936}
               Parancistrocerus ignotus Giordani Soika, 1995 [species] {ID=ZOBO00037248}
@@ -4173,7 +4173,7 @@ Animalia [kingdom] {ID=x4}
               Parancistrocerus lutzi Bequard & Salt, 1931 [species] {ID=ZOBO00034442}
               Parancistrocerus luzonicola Vecht, 1981 [species] {ID=ZOBO00034443}
                 =Hypancistrocerus luzonensis Schulthess, 1934 [species] {ID=1194}
-              Parancistrocerus lynchii (Brethes, 1903) [species] {ID=ZOBO00034444}
+              Parancistrocerus lynchii (Brèthes, 1903) [species] {ID=ZOBO00034444}
               Parancistrocerus macfarlandi (Cameron, 1909) [species] {ID=ZOBO00034445}
                 =Stenodynerus chiricahua Bohart, 1949 [species] {ID=1195}
               Parancistrocerus makilingi Giordani Soika, 1995 [species] {ID=ZOBO00037269}
@@ -4222,7 +4222,7 @@ Animalia [kingdom] {ID=x4}
               Parancistrocerus saecularis (de Saussure, 1852) [species] {ID=ZOBO00034469}
                 =Ancistrocerus leensis Cameron, 1908 [species] {ID=1209}
                 Parancistrocerus saecularis rufulus (Bohart, 1948) [subspecies] {ID=ZOBO00034470}
-              Parancistrocerus saltensis (Brethes, 1906) [species] {ID=ZOBO00034471}
+              Parancistrocerus saltensis (Brèthes, 1906) [species] {ID=ZOBO00034471}
               Parancistrocerus samarensis (Schulthess, 1934) [species] {ID=ZOBO00034472}
                 =Ancistrocerus intermediatus Sonan, 1939 [species] {ID=1211}
                 =Ancistrocerus kuraruensis Sonan, 1939 [species] {ID=1210}
@@ -4230,7 +4230,7 @@ Animalia [kingdom] {ID=x4}
               Parancistrocerus siamensis Gusenleitner, 2003 [species] {ID=ZOBO00043900}
               Parancistrocerus siccus (Bohart, 1952) [species] {ID=ZOBO00034475}
               Parancistrocerus striatus (Fox, 1902) [species] {ID=ZOBO00034476}
-              Parancistrocerus subcyaneus (Brethes, 1909) [species] {ID=ZOBO00034477}
+              Parancistrocerus subcyaneus (Brèthes, 1909) [species] {ID=ZOBO00034477}
               Parancistrocerus subtoltecus (Viereck, 1906) [species] {ID=ZOBO00034478}
               Parancistrocerus sulcatus Giordani Soika, 1995 [species] {ID=ZOBO00037262}
               Parancistrocerus sumichrasti (de Saussure, 1857) [species] {ID=ZOBO00034479}
@@ -4256,10 +4256,10 @@ Animalia [kingdom] {ID=x4}
                 Parancistrocerus yachowensis konkunensis Giordani Soika, 1995 [subspecies] {ID=ZOBO00037254}
               Parancistrocerus yamanei Gusenleitner, 2000 [species] {ID=ZOBO00037505}
             Paranortonia [genus] {ID=x3L}
-              Paranortonia alegrensis Brethes, 1924 [species] {ID=ZOBO00034489}
+              Paranortonia alegrensis Brèthes, 1924 [species] {ID=ZOBO00034489}
               Paranortonia arequipensis (Buysson, 1912) [species] {ID=ZOBO00034490}
-              Paranortonia bertoni Brethes, 1924 [species] {ID=ZOBO00034491}
-              Paranortonia bicincta (Brethes, 1920) [species] {ID=ZOBO00034492}
+              Paranortonia bertoni Brèthes, 1924 [species] {ID=ZOBO00034491}
+              Paranortonia bicincta (Brèthes, 1920) [species] {ID=ZOBO00034492}
               Paranortonia difficilis Berton, 1918 [species] {ID=ZOBO00034493}
               Paranortonia flavotestacea Giordani Soika [species] {ID=ZOBO00125296 PUB=ZOBO00125296}
               Paranortonia giacomelli Berton, 1918 [species] {ID=ZOBO00034495}
@@ -4283,7 +4283,7 @@ Animalia [kingdom] {ID=x4}
                 =Eumenes fulvior Giordani Soika, 1941 [species] {ID=1218}
               Pararaphidoglossa fulvoides Giordani Soika, 1978 [species] {ID=ZOBO00034511}
               Pararaphidoglossa gibbiventris Giordani Soika, 1978 [species] {ID=ZOBO00034512}
-                =Eumenes bertonii Brethes, 1909 [species] {ID=1219}
+                =Eumenes bertonii Brèthes, 1909 [species] {ID=1219}
               Pararaphidoglossa gribodoi (Zavattari, 1912) [species] {ID=ZOBO00034513}
               Pararaphidoglossa imitatrix Giordani Soika, 1978 [species] {ID=ZOBO00034514}
               Pararaphidoglossa invenusta (Fox, 1899) [species] {ID=ZOBO00034515}
@@ -4594,8 +4594,8 @@ Animalia [kingdom] {ID=x4}
                 =Eumenes mondaiensis Berton, 1934 [species] {ID=1311}
                 Pirhosigma superficiale impurum Giordani Soika, 1978 [subspecies] {ID=ZOBO00034680}
             Plagiolabra [genus] {ID=xHU}
-              Plagiolabra andina Brethes, 1906 [species] {ID=ZOBO00034681}
-              Plagiolabra argentina (Brethes, 1903) [species] {ID=ZOBO00034682}
+              Plagiolabra andina Brèthes, 1906 [species] {ID=ZOBO00034681}
+              Plagiolabra argentina (Brèthes, 1903) [species] {ID=ZOBO00034682}
               Plagiolabra nigra Schulthess, 1903 [species] {ID=ZOBO00034683}
             Plocancistrocerus [genus] {ID=xHS}
               Plocancistrocerus cooperi Vecht i.sch. [species] {ID=ZOBO00034684}
@@ -4694,7 +4694,7 @@ Animalia [kingdom] {ID=x4}
               Polistes boharti Snelling, 1983 [species] {ID=ZOBO00036348}
               Polistes brevifissus Richards, 1978 [species] {ID=ZOBO00036349}
               Polistes buruensis Peterson, 1990 [species] {ID=ZOBO00036350}
-              Polistes buyssoni Brethes, 1909 [species] {ID=ZOBO00036351}
+              Polistes buyssoni Brèthes, 1909 [species] {ID=ZOBO00036351}
                 =Polistes thoracica Buysson, 1906 [species] {ID=2159}
                 =Polistes thoracica Buysson, 1913 [species] {ID=2158}
               Polistes californicus Bohart, 1949 [species] {ID=ZOBO00063571}
@@ -4924,7 +4924,7 @@ Animalia [kingdom] {ID=x4}
                 Polistes myersi curassavicus Richards, 1978 [subspecies] {ID=ZOBO00036468}
               Polistes mysteriosus Bequard, 1938 [species] {ID=ZOBO00036469}
               Polistes nigerrimus Gusenleitner, 2006 [species] {ID=ZOBO00149703}
-              Polistes niger Brethes, 1903 [species] {ID=ZOBO00036470}
+              Polistes niger Brèthes, 1903 [species] {ID=ZOBO00036470}
               Polistes nigrifrons Smith, 1859 [species] {ID=ZOBO00036471}
               Polistes nigritarsis Cameron, 1900 [species] {ID=ZOBO00036472}
               Polistes nimpha (Christ, 1791) [species] {ID=ZOBO00023966 PUB=ZOBO00010028}
@@ -5175,7 +5175,7 @@ Animalia [kingdom] {ID=x4}
                 =Polybia weyrauchi Bequard, 1942 [species] {ID=2286}
               Polybia invertita Giordani Soika, 1965 [species] {ID=ZOBO00064099}
               Polybia jurinei de Saussure, 1854 [species] {ID=ZOBO00036635}
-                =Polybia bonaerensis Brethes, 1903 [species] {ID=2287}
+                =Polybia bonaerensis Brèthes, 1903 [species] {ID=2287}
               Polybia juruana Ihering, 1904 [species] {ID=ZOBO00036636}
               Polybia laboriosa de Saussure, 1853 [species] {ID=ZOBO00064152}
               Polybia liliacea (Fabricius, 1804) [species] {ID=ZOBO00036637}
@@ -5499,14 +5499,14 @@ Animalia [kingdom] {ID=x4}
               Pseudodontodynerus schwarzi Gusenleitner, 2009 [species] {ID=ZOBO00154070 PUB=ZOBO00023971}
             Pseudodynerus [genus] {ID=xHC}
               Pseudodynerus auratoides (Berton, 1918) [species] {ID=ZOBO00034775}
-              Pseudodynerus griseolus (Brethes, 1909) [species] {ID=ZOBO00034776}
+              Pseudodynerus griseolus (Brèthes, 1909) [species] {ID=ZOBO00034776}
               Pseudodynerus griseus (Fox, 1902) [species] {ID=ZOBO00034777}
               Pseudodynerus hallinani Bequard, 1941 [species] {ID=ZOBO00034778}
               Pseudodynerus luctuosus (de Saussure, 1856) [species] {ID=ZOBO00034779}
                 Pseudodynerus luctuosus beelzebub (Zavattari, 1912) [subspecies] {ID=ZOBO00034780}
                 Pseudodynerus luctuosus minapalumboi (Gribodo, 1891) [subspecies] {ID=ZOBO00034781}
               Pseudodynerus maxillaris (de Saussure, 1875) [species] {ID=ZOBO00034782}
-                =Odynerus anisitsii Brethes, 1906 [species] {ID=1354}
+                =Odynerus anisitsii Brèthes, 1906 [species] {ID=1354}
                 Pseudodynerus maxillaris garleppi (Schrottky, 1911) [subspecies] {ID=ZOBO00034783}
               Pseudodynerus migonei (Berton, 1926) [species] {ID=ZOBO00034784}
               Pseudodynerus quadrisectus (Say, 1837) [species] {ID=ZOBO00034785}
@@ -5871,8 +5871,8 @@ Animalia [kingdom] {ID=x4}
                 Rhynchagris vicaria luteopicta (Maidl) [subspecies] {ID=ZOBO00035385}
               Rhynchagris zebra Gusenleitner, 2000 [species] {ID=ZOBO00037494}
             Rhynchalastor [genus] {ID=xEQ}
-              Rhynchalastor abactus (Brethes, 1909) [species] {ID=ZOBO00153320}
-                =Stenodynerus abactus (Brethes, 1909) [species] {ID=1410}
+              Rhynchalastor abactus (Brèthes, 1909) [species] {ID=ZOBO00153320}
+                =Stenodynerus abactus (Brèthes, 1909) [species] {ID=1410}
               Rhynchalastor accinctus (Bohart, 1980) [species] {ID=ZOBO00153321}
                 =Stenodynerus accinctus Bohart, 1980 [species] {ID=1411}
               Rhynchalastor aequisculptus (Kostylev, 1940) [species] {ID=ZOBO00153323}
@@ -5885,8 +5885,8 @@ Animalia [kingdom] {ID=x4}
                   =Stenodynerus aequisculptus (Kostylev, 1940) [species] {ID=1413}
                 Rhynchalastor aequisculptus taurus (Gusenleitner, 1965) [subspecies] {ID=ZOBO00153322}
                   =Stenodynerus aequisculptus (Kostylev, 1940) [species] {ID=1414}
-              Rhynchalastor ameghinoi (Brethes, 1903) [species] {ID=ZOBO00153326}
-                =Stenodynerus ameghinoi Brethes, 1903 [species] {ID=1418}
+              Rhynchalastor ameghinoi (Brèthes, 1903) [species] {ID=ZOBO00153326}
+                =Stenodynerus ameghinoi Brèthes, 1903 [species] {ID=1418}
               Rhynchalastor ammonia (de Saussure, 1853) [species] {ID=ZOBO00153328}
                 =Odynerus floridanus (Roberts, 1901) [species] {ID=1421}
                 =Stenodynerus ammonia (de Saussure, 1853) [species] {ID=1420}
@@ -6075,8 +6075,8 @@ Animalia [kingdom] {ID=x4}
                   =Stenodynerus mafiensis Schulthess, 1914 [species] {ID=1528}
                 Rhynchalastor fuscipennis indotatoides (Giordani Soika, 1944) [subspecies] {ID=ZOBO00034979}
                   =Odynerus fuscipennis (Meade-Waldo) [species] {ID=1529}
-              Rhynchalastor gemellus (Brethes, 1906) [species] {ID=ZOBO00153384}
-                =Stenodynerus gemellus (Brethes, 1906) [species] {ID=1530}
+              Rhynchalastor gemellus (Brèthes, 1906) [species] {ID=ZOBO00153384}
+                =Stenodynerus gemellus (Brèthes, 1906) [species] {ID=1530}
               Rhynchalastor gusenleitneri (Giordani Soika, 1986) [species] {ID=ZOBO00153385}
                 =Stenodynerus gusenleitneri Giordani Soika, 1986 [species] {ID=1531}
               Rhynchalastor haladaorum (Gusenleitner, 1999) [species] {ID=ZOBO00153386}
@@ -6171,16 +6171,16 @@ Animalia [kingdom] {ID=x4}
                 =Stenodynerus maculicornis Bohart, 1980 [species] {ID=1578}
               Rhynchalastor malayanus (Giordani Soika, 1995) [species] {ID=ZOBO00153425}
                 =Stenodynerus malayanus Giordani Soika, 1995 [species] {ID=1579}
-              Rhynchalastor marii (Brethes, 1924) [species] {ID=ZOBO00153426}
-                =Stenodynerus marii Brethes, 1924 [species] {ID=1580}
+              Rhynchalastor marii (Brèthes, 1924) [species] {ID=ZOBO00153426}
+                =Stenodynerus marii Brèthes, 1924 [species] {ID=1580}
               Rhynchalastor maximus (Schrottky, 1909) [species] {ID=ZOBO00153427}
                 =Stenodynerus maximus (Schrottky, 1909) [species] {ID=1581}
               Rhynchalastor mayorum (Bohart, 1980) [species] {ID=ZOBO00153428}
                 =Stenodynerus mayorum Bohart, 1980 [species] {ID=1582}
               Rhynchalastor mayus (de Saussure, 1857) [species] {ID=ZOBO00153429}
                 =Stenodynerus mayus (de Saussure, 1857) [species] {ID=1583}
-              Rhynchalastor mendicus (Brethes, 1910) [species] {ID=ZOBO00153430}
-                =Stenodynerus mendicus Brethes, 1910 [species] {ID=1584}
+              Rhynchalastor mendicus (Brèthes, 1910) [species] {ID=ZOBO00153430}
+                =Stenodynerus mendicus Brèthes, 1910 [species] {ID=1584}
               Rhynchalastor microstictus (Viereck, 1906) [species] {ID=ZOBO00153431}
                 =Ancistrocerus phoenixensis Cameron, 1908 [species] {ID=1586}
                 =Odynerus gulielmi Viereck, 1908 [species] {ID=1587}
@@ -6191,8 +6191,8 @@ Animalia [kingdom] {ID=x4}
                 =Stenodynerus mimulus (Zavattari, 1912) [species] {ID=1589}
               Rhynchalastor monotuberculatus (Giordani Soika, 1972) [species] {ID=ZOBO00153434}
                 =Stenodynerus monotuberculatus Giordani Soika, 1972 [species] {ID=1590}
-              Rhynchalastor montevidensis (Brethes, 1903) [species] {ID=ZOBO00153435}
-                =Stenodynerus montevidensis (Brethes, 1903) [species] {ID=1591}
+              Rhynchalastor montevidensis (Brèthes, 1903) [species] {ID=ZOBO00153435}
+                =Stenodynerus montevidensis (Brèthes, 1903) [species] {ID=1591}
               Rhynchalastor morawitzi (Kurzenko, 1977) [species] {ID=ZOBO00153436}
                 =Stenodynerus morawitzi Kurzenko, 1977 [species] {ID=1592}
               Rhynchalastor morbillosus (Giordani Soika, 1979) [species] {ID=ZOBO00153437}
@@ -6249,8 +6249,8 @@ Animalia [kingdom] {ID=x4}
                 =Stenodynerus pappi Giordani Soika, 1976 [species] {ID=1619}
               Rhynchalastor patagoniensis (Bohart, 1949) [species] {ID=ZOBO00153461}
                 =Stenodynerus patagoniensis Bohart, 1949 [species] {ID=1620}
-              Rhynchalastor patagonus (Brethes, 1903) [species] {ID=ZOBO00153462}
-                =Stenodynerus patagonus Brethes, 1903 [species] {ID=1621}
+              Rhynchalastor patagonus (Brèthes, 1903) [species] {ID=ZOBO00153462}
+                =Stenodynerus patagonus Brèthes, 1903 [species] {ID=1621}
               Rhynchalastor pavidus (Kohl, 1905) [species] {ID=ZOBO00153463}
                 =Stenodynerus pavidus (Kohl, 1905) [species] {ID=1622}
               Rhynchalastor peninsularis (Giordani Soika, 1995) [species] {ID=ZOBO00153464}
@@ -6267,8 +6267,8 @@ Animalia [kingdom] {ID=x4}
                 =Stenodynerus peyroti (de Saussure, 1857) [species] {ID=1630}
               Rhynchalastor picticrus (Thomson, 1874) [species] {ID=ZOBO00153468}
                 =Stenodynerus picticrus (Thomson, 1874) [species] {ID=1631}
-              Rhynchalastor platensis (Brethes, 1906) [species] {ID=ZOBO00153469}
-                =Stenodynerus platensis (Brethes, 1906) [species] {ID=1632}
+              Rhynchalastor platensis (Brèthes, 1906) [species] {ID=ZOBO00153469}
+                =Stenodynerus platensis (Brèthes, 1906) [species] {ID=1632}
               Rhynchalastor politiclypeus (Schulthess, 1914) [species] {ID=ZOBO00153123}
                 =Stenodyneroides politiclypeus (Schulthess, 1914) [species] {ID=1633}
               Rhynchalastor proquinquus (de Saussure, 1870) [species] {ID=ZOBO00153470}
@@ -6298,9 +6298,9 @@ Animalia [kingdom] {ID=x4}
               Rhynchalastor scabriusculus (Spinola, 1851) [species] {ID=ZOBO00153480}
                 =Parancistrocerus scabriusculus (Spinosa, 1851) [species] {ID=1647}
                 =Stenodynerus scabriusculus (Spinola, 1851) [species] {ID=1648}
-              Rhynchalastor schrottkyi (Brethes, 1903) [species] {ID=ZOBO00153481}
-                =Stenodynerus schrottkyi (Brethes, 1903) [species] {ID=1649}
-                =Stenodynerus schrottkyi Brethes, 1903 [species] {ID=1650}
+              Rhynchalastor schrottkyi (Brèthes, 1903) [species] {ID=ZOBO00153481}
+                =Stenodynerus schrottkyi (Brèthes, 1903) [species] {ID=1649}
+                =Stenodynerus schrottkyi Brèthes, 1903 [species] {ID=1650}
               Rhynchalastor similis (Smith, 1857) [species] {ID=ZOBO00153483}
                 =Stenodynerus similis (Smith, 1857) [species] {ID=1651}
               Rhynchalastor similoides (Bohart, 1980) [species] {ID=ZOBO00153484}
@@ -6584,7 +6584,7 @@ Animalia [kingdom] {ID=x4}
               Stenodynerus securus Gusenleitner, 2004 [species] {ID=ZOBO00154119}
             Stenonartonia [genus] {ID=xFS}
               Stenonartonia apicipennis (Fox, 1902) [species] {ID=ZOBO00035269}
-                =Eumenes paraguayensis Brethes, 1906 [species] {ID=1719}
+                =Eumenes paraguayensis Brèthes, 1906 [species] {ID=1719}
                 =Nortonia lugens Schulthess, 1904 [species] {ID=1720}
                 =Nortonia paraguayensis Berton, 1909 [species] {ID=1721}
               Stenonartonia flavotestacea (Giordani Soika, 1941) [species] {ID=ZOBO00035270}
@@ -7028,16 +7028,16 @@ Animalia [kingdom] {ID=x4}
               Zethus alvarengai Bohart & Stange, 1965 [species] {ID=ZOBO00035566}
               Zethus analis Zavattari, 1913 [species] {ID=ZOBO00035567}
               Zethus andesae Bohart & Stange, 1965 [species] {ID=ZOBO00035568}
-              Zethus andinus Brethes, 1903 [species] {ID=ZOBO00035569}
+              Zethus andinus Brèthes, 1903 [species] {ID=ZOBO00035569}
               Zethus angustior Bohart & Stange, 1965 [species] {ID=ZOBO00035570}
-              Zethus anisitsii (Brethes, 1906) [species] {ID=ZOBO00035571}
+              Zethus anisitsii (Brèthes, 1906) [species] {ID=ZOBO00035571}
               Zethus anomalus Cooper, 1999 [species] {ID=ZOBO00043958}
               Zethus apicalipennis Zavattari, 1912 [species] {ID=ZOBO00035572}
               Zethus arabicus (Meade-Waldo) [species] {ID=ZOBO00125293 PUB=ZOBO00035339}
               Zethus arietis (Fabricius, 1775) [species] {ID=ZOBO00035573}
               Zethus arotus Bohart & Stange, 1965 [species] {ID=ZOBO00035574}
               Zethus assimilis (Brèthes, 1903) [species] {ID=ZOBO00149548}
-              Zethus ater (Brethes, 1903) [species] {ID=ZOBO00035575}
+              Zethus ater (Brèthes, 1903) [species] {ID=ZOBO00035575}
               Zethus attenuatus Bohart & Stange, 1965 [species] {ID=ZOBO00035576}
               Zethus aztecus de Saussure, 1857 [species] {ID=ZOBO00035577}
                 =Zethus campestris Zavattari, 1913 [species] {ID=1814}
@@ -7065,7 +7065,7 @@ Animalia [kingdom] {ID=x4}
               Zethus caracis Bohart & Stange, 1965 [species] {ID=ZOBO00035596}
               Zethus carbonarius Smith, 1857 [species] {ID=ZOBO00035597}
                 =Zethus spiniventris Ducke, 1905 [species] {ID=1817}
-              Zethus caridei (Brethes, 1906) [species] {ID=ZOBO00035598}
+              Zethus caridei (Brèthes, 1906) [species] {ID=ZOBO00035598}
                 =Zethus indistictus Zavattari, 1912 [species] {ID=1818}
               Zethus carinatus Smith, 1857 [species] {ID=ZOBO00035599}
               Zethus carpenteri Stange, 1997 [species] {ID=ZOBO00037491}
@@ -7105,7 +7105,7 @@ Animalia [kingdom] {ID=x4}
               Zethus demissus Zavattari, 1912 [species] {ID=ZOBO00035628}
               Zethus dentostipes Bohart & Stange, 1965 [species] {ID=ZOBO00035629}
               Zethus dicomboda (Spinosa, 1851) [species] {ID=ZOBO00035630}
-                Zethus dicomboda prixii (Brethes, 1903) [subspecies] {ID=ZOBO00035631}
+                Zethus dicomboda prixii (Brèthes, 1903) [subspecies] {ID=ZOBO00035631}
               Zethus didymogaster Spinosa, 1841 [species] {ID=ZOBO00063766}
               Zethus diminutus Fox, 1899 [species] {ID=ZOBO00035632}
                 Zethus diminutus santaremae Bohart & Stange, 1965 [subspecies] {ID=ZOBO00035633}
@@ -7127,12 +7127,12 @@ Animalia [kingdom] {ID=x4}
               Zethus fergusoni Bohart & Stange, 1965 [species] {ID=ZOBO00035646}
               Zethus flavidulus Bohart & Stange, 1965 [species] {ID=ZOBO00035647}
               Zethus flavipons Bohart & Stange, 1965 [species] {ID=ZOBO00035649}
-              Zethus fluminensis (Brethes, 1903) [species] {ID=ZOBO00035650}
+              Zethus fluminensis (Brèthes, 1903) [species] {ID=ZOBO00035650}
                 =Zethus cruzi Zavattari, 1913 [species] {ID=1823}
                 =Zethus ventricosus Zavattari, 1912 [species] {ID=1824}
               Zethus fraternus de Saussure, 1852 [species] {ID=ZOBO00035651}
-                =Zethus chacoensis Brethes, 1905 [species] {ID=1826}
-                =Zethus holmbergii Brethes, 1906 [species] {ID=1825}
+                =Zethus chacoensis Brèthes, 1905 [species] {ID=1826}
+                =Zethus holmbergii Brèthes, 1906 [species] {ID=1825}
                 =Zethus permutatus Zavattari, 1912 [species] {ID=1827}
               ?Zethus frederickorum Garcete-Barrett, 2002 [species] {ID=ZOBO00043952}
               ?Zethus frederickorum Garcette-Barrett, 2003 [species] {ID=ZOBO00149611}
@@ -7180,7 +7180,7 @@ Animalia [kingdom] {ID=x4}
               Zethus jurinei de Saussure, 1852 [species] {ID=ZOBO00035681}
               Zethus laevinodus Smith, 1857 [species] {ID=ZOBO00035682}
                 =Zethus nitidinodus Cameron, 1907 [species] {ID=1837}
-              Zethus lignicola Brethes, 1906 [species] {ID=ZOBO00035683}
+              Zethus lignicola Brèthes, 1906 [species] {ID=ZOBO00035683}
               Zethus lobulatus de Saussure, 1856 [species] {ID=ZOBO00035684}
                 =Zethus hamatus Zavattari, 1912 [species] {ID=1838}
               Zethus longistylus Zavattari, 1913 [species] {ID=ZOBO00035685}
@@ -7197,8 +7197,8 @@ Animalia [kingdom] {ID=x4}
               Zethus mandibularis Giordani Soika, 1995 [species] {ID=ZOBO00037339}
               Zethus mapiriensis Bohart & Stange, 1965 [species] {ID=ZOBO00035694}
               Zethus matzicatzin de Saussure, 1857 [species] {ID=ZOBO00035695}
-              ?Zethus medius Brethes, 1906 [species] {ID=ZOBO00035696}
-              ?Zethus medius Brethes, 1908 [species] {ID=ZOBO00064270}
+              ?Zethus medius Brèthes, 1906 [species] {ID=ZOBO00035696}
+              ?Zethus medius Brèthes, 1908 [species] {ID=ZOBO00064270}
               Zethus melanis Bohart & Stange, 1965 [species] {ID=ZOBO00035697}
               Zethus menkei Bohart & Stange, 1965 [species] {ID=ZOBO00035698}
               Zethus mexicanus (Linnaeus, 1767) [species] {ID=ZOBO00035699}
@@ -7242,9 +7242,9 @@ Animalia [kingdom] {ID=x4}
               Zethus otomitus de Saussure, 1875 [species] {ID=ZOBO00035721}
               Zethus pallidus Smith, 1857 [species] {ID=ZOBO00035722}
               Zethus pamparum Berg, 1881 [species] {ID=ZOBO00035723}
-                =Zethus pampicola Brethes, 1906 [species] {ID=1852}
-              Zethus paranensis Brethes, 1903 [species] {ID=ZOBO00035724}
-                =Zethus lynchi Brethes, 1906 [species] {ID=1853}
+                =Zethus pampicola Brèthes, 1906 [species] {ID=1852}
+              Zethus paranensis Brèthes, 1903 [species] {ID=ZOBO00035724}
+                =Zethus lynchi Brèthes, 1906 [species] {ID=1853}
               Zethus parkeri Bohart & Stange, 1965 [species] {ID=ZOBO00034725}
               Zethus parvulus de Saussure, 1856 [species] {ID=ZOBO00035726}
               Zethus peculiaris Fox, 1899 [species] {ID=ZOBO00035727}
@@ -7273,7 +7273,7 @@ Animalia [kingdom] {ID=x4}
               Zethus rodhaini Bequard, 1918 [species] {ID=ZOBO00035748 PUB=ZOBO00035560}
               Zethus romandinus de Saussure, 1852 [species] {ID=ZOBO00035749}
                 =Zethus inermis Ducke, 1905 [species] {ID=1857}
-                =Zethus missionus Brethes, 1906 [species] {ID=1856}
+                =Zethus missionus Brèthes, 1906 [species] {ID=1856}
               Zethus roridus Zavattari, 1912 [species] {ID=ZOBO00035750}
               Zethus rossi Bohart & Stange, 1965 [species] {ID=ZOBO00035751}
               Zethus rothschildanus (Buysson, 1906) [species] {ID=ZOBO00035752 PUB=ZOBO00035560}
@@ -7306,8 +7306,8 @@ Animalia [kingdom] {ID=x4}
                 =Zethus punctatus Fox, 1899 [species] {ID=1862}
                 =Zethus simillimus Fox, 1899 [species] {ID=1861}
                 =Zethus yucatanensis Zavattari, 1913 [species] {ID=1863}
-              Zethus spegazzinii (Brethes, 1906) [species] {ID=ZOBO00035773}
-                =Discoelius foxii Brethes, 1906 [species] {ID=1864}
+              Zethus spegazzinii (Brèthes, 1906) [species] {ID=ZOBO00035773}
+                =Discoelius foxii Brèthes, 1906 [species] {ID=1864}
               Zethus spinipes Say, 1837 [species] {ID=ZOBO00035774}
                 =Eumenes pensilvanica Haldeman, 1853 [species] {ID=1866}
                 =Eumenes substricta Haldeman, 1844 [species] {ID=1865}
@@ -7768,7 +7768,7 @@ Animalia [kingdom] {ID=x4}
               Trimeria atacama (Fritz, 1968) [species] {ID=ZOBO00031867}
               Trimeria atakama Fritz [species] {ID=ZOBO00043912}
               Trimeria bequaerti Willink, 1951 [species] {ID=ZOBO00032007}
-              Trimeria buyssoni Brethes, 1904 [species] {ID=ZOBO00063105}
+              Trimeria buyssoni Brèthes, 1904 [species] {ID=ZOBO00063105}
               Trimeria cockerelli Bequard, 1928 [species] {ID=ZOBO00031866}
               Trimeria howardi Berton, 1911 [species] {ID=ZOBO00032008}
               Trimeria joergenseni Schrottky, 1909 [species] {ID=ZOBO00032009}
@@ -7992,7 +7992,7 @@ Animalia [kingdom] {ID=x4}
                 Ancistrocerus fasciaticollis flavocaudatus Giordani Soika, 1974 [subspecies] {ID=ZOBO00032234 PUB=ZOBO00031760}
               Ancistrocerus ferghanicus Blüthgen, 1955 [species] {ID=ZOBO00032235}
               Ancistrocerus ferrugineoclypeatus Giordani Soika, 1960 [species] {ID=ZOBO00032236 PUB=ZOBO00031760}
-              Ancistrocerus flavomarginatus (Brethes, 1906) [species] {ID=ZOBO00035800}
+              Ancistrocerus flavomarginatus (Brèthes, 1906) [species] {ID=ZOBO00035800}
               Ancistrocerus fluvialis (de Saussure, 1856) [species] {ID=ZOBO00032238 PUB=ZOBO00032027}
               Ancistrocerus fortunatus Blüthgen, 1954 [species] {ID=ZOBO00032239}
               Ancistrocerus frigidus Giordani Soika, 1977 [species] {ID=ZOBO00032240}
@@ -8383,7 +8383,7 @@ Animalia [kingdom] {ID=x4}
             Epipona [genus] {ID=x7U}
               Epipona guerini (de Saussure, 1854) [species] {ID=ZOBO00036000}
               Epipona media Cooper, 2002 [species] {ID=ZOBO00043965}
-              Epipona niger (Brethes, 1926) [species] {ID=ZOBO00037077}
+              Epipona niger (Brèthes, 1926) [species] {ID=ZOBO00037077}
               Epipona quadrituberculata (Gribodo, 1892) [species] {ID=ZOBO00145762}
                 =Tatua quadrituberculata Gribodo, 1891 [species] {ID=2030}
               Epipona tatua (Cuv., 1797) [species] {ID=ZOBO00036002}
@@ -8430,7 +8430,7 @@ Animalia [kingdom] {ID=x4}
                 =Eumenes compressus de Saussure, 1854 [species] {ID=657}
               Eumenes aureoniger Giordani Soika [species] {ID=ZOBO00125193 PUB=ZOBO00031834}
               Eumenes aureus Isely, 1917 [species] {ID=ZOBO00032950}
-              Eumenes autrani Brethes, 1903 [species] {ID=ZOBO00032951}
+              Eumenes autrani Brèthes, 1903 [species] {ID=ZOBO00032951}
               Eumenes belfragei Cresson, 1872 [species] {ID=ZOBO00063476}
               Eumenes belli Giordani Soika, 1973 [species] {ID=ZOBO00032952}
               Eumenes bequaerti Giordani Soika [species] {ID=ZOBO00125200 PUB=ZOBO00125200}
@@ -8442,7 +8442,7 @@ Animalia [kingdom] {ID=x4}
               Eumenes bollii Cresson, 1872 [species] {ID=ZOBO00032956}
                 Eumenes bollii ehrenbergi (Zavattari, 1912) [subspecies] {ID=ZOBO00032957}
                 Eumenes bollii oregonensis Bequard, 1938 [subspecies] {ID=ZOBO00032958}
-              Eumenes bonariensis Brethes, 1905 [species] {ID=ZOBO00032959}
+              Eumenes bonariensis Brèthes, 1905 [species] {ID=ZOBO00032959}
               Eumenes brunneus Isely, 1917 [species] {ID=ZOBO00063554}
               Eumenes buddha Cameron, 1898 [species] {ID=ZOBO00032961 PUB=ZOBO00032939}
               Eumenes campaniformis Fabricius [species] {ID=ZOBO00125201}
@@ -8940,7 +8940,7 @@ Animalia [kingdom] {ID=x4}
               Mischocyttarus fisheri Snelling, 1970 [species] {ID=ZOBO00036104}
               Mischocyttarus fitzgeraldi Bequard, 1938 [species] {ID=ZOBO00036105}
               Mischocyttarus flavicans (Fabricius, 1804) [species] {ID=ZOBO00036106}
-                =Clypeopolybia duckei Brethes, 1923 [species] {ID=2068}
+                =Clypeopolybia duckei Brèthes, 1923 [species] {ID=2068}
                 =Megacanthopus goeldii Ducke, 1906 [species] {ID=2067}
                 Mischocyttarus flavicans coroico Richards, 1945 [subspecies] {ID=ZOBO00036107}
               Mischocyttarus flavicornis Zikan, 1935 [species] {ID=ZOBO00036108}
