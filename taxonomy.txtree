@@ -315,7 +315,7 @@ Animalia [kingdom] {ID=x4}
               Ancistroceroides cordatus (Fox, 1902) [species] {ID=ZOBO00032187}
                 =Ancistroceroides cruentus (de Saussure, 1856) [species] {ID=62}
               Ancistroceroides cordovae Carpenter, 2004 [species] {ID=ZOBO00149575}
-              Ancistroceroides distinguendus (Brèthes, 1906 [species] {ID=ZOBO00149589}
+              Ancistroceroides distinguendus (Brèthes, 1906) [species] {ID=ZOBO00149589}
               Ancistroceroides domingensis (Bequaert & Salt, 1931) [species] {ID=ZOBO00065366}
                 =Ancistrocerus domingensis Bequard & Salt, 1931 [species] {ID=63}
               Ancistroceroides erythraeus (Brèthes, 1906) [species] {ID=ZOBO00032189}
@@ -3435,7 +3435,7 @@ Animalia [kingdom] {ID=x4}
                 =Nesodynerus perkinsi (Giffard, 1913) [species] {ID=1040}
               Nesodynerus molokaiensis (Perkins, 1899) [species] {ID=ZOBO00149686}
                 =Pterocheilus phaleratus Castro, 2003 [species] {ID=1041}
-              Nesodynerus monas (Perkins, 1906 [species] {ID=ZOBO00149688}
+              Nesodynerus monas (Perkins, 1906) [species] {ID=ZOBO00149688}
                 =Nesodynerus potamophilus (Perkins, 1899) [species] {ID=1043}
                 Nesodynerus monas aenus [subspecies] {ID=ZOBO00149687}
                   =Mischocyttarus piceus Zikán, 1949 [species] {ID=1042}
