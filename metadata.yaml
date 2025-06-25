@@ -15,8 +15,10 @@ version: 4.1
 contact:
   given: Markus
   family: Döring
-  country: Germany
-  organisation: Catalogue of Life
+  city: Berlin
+  country: DE
+  email: mdoering@gbif.org
+  organisation: Global Biodiversity Information Facility (GBIF)
 creator:
  -
   given: Josef
@@ -31,5 +33,4 @@ geographicScope: Global
 taxonomicScope: Vespid wasps
 license: cc-by
 url: https://github.com/CatalogueOfLife/data-vespoidea
-logo: https://github.com/Sp2000/colplus-repo/raw/master/logos/ZOBODAT_Vespoidea.png
 source: 
