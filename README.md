@@ -25,10 +25,9 @@ It contains information about the name, authorship, classification, synonyms (=)
 You can use any plain text editor to modify the file, but we provide syntax highlighting for the [Sublime](https://gbif.github.io/text-tree/#sublime-syntax-highlighting) and the [VS Code editor](https://gbif.github.io/text-tree/#visual-studio-code-extension).
 
 ### References
-We curate a list of references in a tab delimtied file [reference.tsv](reference.tsv). 
-References from this list can then be [cited in the taxonomy file](https://github.com/CatalogueOfLife/coldp/blob/master/docs/publishing-guide-txtree.md).
+We curate a list of references in a [BibTex file](reference.bib). 
+References from this bibliography can then be [cited in the taxonomy file](https://github.com/CatalogueOfLife/coldp/blob/master/docs/publishing-guide-txtree.md).
 
-Soon we would like to convert this to [BibTex](reference.bib).
 BibTex content can be retrieved from CrossRef for most DOIs when known.
 For example by using curl on the terminal like this:
 > curl --location --silent --header "Accept: application/x-bibtex" https://doi.org/10.1080/11035890601282097 
