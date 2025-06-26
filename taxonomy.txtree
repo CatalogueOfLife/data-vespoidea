@@ -7778,10 +7778,6 @@ Animalia [kingdom] {ID=x4}
                 Polybia uruguayensis Giordani Soika, 1965 [species] {ID=ZOBO00064886}
                 Polybia velutina Ducke, 1907 [species] {ID=ZOBO00036680}
                   =Polybia lugubris Ducke, 1905 [species] {ID=2307}
-            Agalaia [genus] {ID=xD4}
-              Agalaia centralis (Cameron, 1907) [species] {ID=ZOBO00037066}
-                =Stelopolybia fulvanceps (Bequaert, 1944) [species] {ID=1913}
-                =Stelopolybia mexicana Ducke, 1910 [species] {ID=1912}
             Agelaia [genus] {ID=x7Q}
               Agelaia acreana Silveira & Carpenter, 1995 [species] {ID=ZOBO00037384}
               Agelaia angulata (Fabricius, 1804) [species] {ID=ZOBO00035813}
@@ -7796,6 +7792,8 @@ Animalia [kingdom] {ID=x4}
               Agelaia cajennensis (Fabricius, 1798) [species] {ID=ZOBO00035819}
                 =Polybia lignicola Ducke, 1904 [species] {ID=1917}
               Agelaia centralis (Cameron, 1907) [species] {ID=ZOBO00043973}
+                =Stelopolybia fulvanceps (Bequaert, 1944) [species] {ID=1913}
+                =Stelopolybia mexicana Ducke, 1910 [species] {ID=1912}
               Agelaia constructa (de Saussure, 1854) [species] {ID=ZOBO00035820}
                 =Polybia constructrix de Saussure, 1854 [species] {ID=1918}
               Agelaia cornelliana (Richards, 1943) [species] {ID=ZOBO00035821}
