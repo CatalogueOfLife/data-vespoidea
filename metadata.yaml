@@ -30,6 +30,12 @@ creator:
   country: AT
   address: "Linz, Austria"
   organisation: Oberostereichisches Landesmuseum
+contributor:
+  -
+    given: Brian 
+    family: Dagley
+    country: US
+
 keyword: 
   - wasp
 geographicScope: Global
