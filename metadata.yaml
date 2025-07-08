@@ -30,11 +30,28 @@ creator:
   country: AT
   address: "Linz, Austria"
   organisation: Oberostereichisches Landesmuseum
-contributor:
-  -
-    given: Brian 
-    family: Dagley
-    country: US
+ -
+  orcid: 0000-0001-7757-1889
+  given: Markus
+  family: Döring
+  rorid: 05fjyn938
+  city: Berlin
+  country: DE
+  address: "Berlin, Germany"
+  organisation: GBIF
+ -
+  orcid: 0000-0003-2137-2690
+  given: Yury
+  family: Roskov
+  city: Champaign
+  state: IL
+  country: US
+  address: "Champaign, IL, United States of America"
+  organisation: Illinois Natural History Survey
+ - 
+  given: Brian 
+  family: Dagley
+  country: US
 
 keyword: 
   - wasp
