@@ -2004,15 +2004,6 @@ Animalia [kingdom] {ID=Animalia}
                 Cephalodynerus russipes (Bohart, 1942) [species] {ID=ZOBO00032672}
                 Cephalodynerus sculleni Parker, 1964 [species] {ID=ZOBO00032673}
                 Cephalodynerus unicornis Parker, 1964 [species] {ID=ZOBO00032674}
-              Chartergus [genus] {ID=G-5W}
-                Chartergus acutiscutis Cameron, 1907 [species] {ID=ZOBO00063342}
-                Chartergus artifex Christ, 1791 [species] {ID=ZOBO00037447}
-                  =Vespa chartarius (Olivier, 1791) [species] {ID=1989}
-                  =Vespa nidulans Fabricius, 1793 [species] {ID=1988}
-                  =Vespa surinamensis Christ, 1791 [species] {ID=1987}
-                Chartergus globiventris de Saussure, 1854 [species] {ID=ZOBO00035976}
-                Chartergus metanotalis Richards, 1978 [species] {ID=ZOBO00035977}
-                Chartergus tuberculatus Cameron, 1907 [species] {ID=ZOBO00064861}
               Chelodynerus [genus] {ID=G-ME}
                 Chelodynerus chelifer Perkins, 1899 [species] {ID=ZOBO00032675}
               Chlorodynerus [genus] {ID=G-FY}
@@ -2247,6 +2238,7 @@ Animalia [kingdom] {ID=Animalia}
                   =Eumenes caffra (Linnaeus, 1767) [species] {ID=564}
                   =Katamenes caffer (Linnaeus, 1767) [species] {ID=566}
                   =Vespa caffra Linnaeus, 1767 [species] {ID=567}
+                  =Sphex cruciata Christ, 1791 [species] {ID=ZOBO00063715} # synonym of Eumenes caffra (Dalla Torre, K. W. (1894). Catalogus hymenopterorum: Vespidae (Diploptera). 1894 (Vol. 9). G. Engelmann.; however, need to check whether E. caffra is currently valid; Sphex is otherwise currently used as a genus name for a different family, Sphecidae)
                 Delta campaniforme (Fabricius, 1775) [species] {ID=ZOBO00032783}
                   =Eumenes tricolor Cameron, 1906 [species] {ID=578}
                   Delta campaniforme assatus (Giordani Soika, 1934) [subspecies] {ID=ZOBO00032784}
@@ -2475,6 +2467,11 @@ Animalia [kingdom] {ID=Animalia}
               Elisella [genus] {ID=G-LN}
                 Elisella linae Giordani Soika, 1974 [species] {ID=ZOBO00032901 PUB=ZOBO00023971}
                   =Estiella pretiosa Giordani Soika, 1992 [species] {ID=639}
+              Emeryrhynchium [genus] {ID=G-KW} # Carpenter, J. M., Gusenleitner, J., & Madl, M. (2010). A catalogue of the Eumeninae (Hymenoptera: Vespidae) of the Ethiopian Region excluding Malagasy Subregion. Part III: Classification, Additions, Corrections and Index. Linzer Biologische Beiträge, 42(2), 919-1004.
+                Emeryrhynchium emeryanus (Gribodo, 1892) [species] {ID=ZOBO00153988 PUB=ZOBO00023971}
+                  =Emeryrhynchium emaryanum (Gribodo, 1892) [species] {ID=640}
+                  =Odynerus emeryanum Gribodo, 1892 [species] {ID=641}
+                  =Odynerus emeryanus Gribodo, 1892 [species] {ID=642}
               Epiodynerus [genus] {ID=G-3G}
                 Epiodynerus alecto (Lepeletier) [species] {ID=ZOBO00125335 PUB=ZOBO00032850}
                   Epiodynerus alecto lalepi (Giordani Soika) [subspecies] {ID=ZOBO00125785 PUB=ZOBO00032850}
@@ -3245,6 +3242,8 @@ Animalia [kingdom] {ID=Animalia}
                 Eustenancistrocerus transitorius (Moravitz) [species] {ID=ZOBO00125516 PUB=ZOBO00010025}
                   Eustenancistrocerus transitorius hoberlandti Giordani Soika [subspecies] {ID=ZOBO00125600 PUB=ZOBO00010045}
                   Eustenancistrocerus transitorius mauritaniensis Giordani Soika [subspecies] {ID=ZOBO00125616 PUB=ZOBO00010062}
+              Extreuodynerus [genus] {ID=G-KS} # Carpenter, J. M., Gusenleitner, J., & Madl, M. (2010). A catalogue of the Eumeninae (Hymenoptera: Vespidae) of the Ethiopian Region excluding Malagasy Subregion. Part III: Classification, Additions, Corrections and Index. Linzer Biologische Beiträge, 42(2), 919-1004.
+                Extreuodynerus mirificus Gusenleitner, 2007 [species] {ID=ZOBO00154001 PUB=ZOBO00023971}
               Flammodynerus [genus] {ID=G-LJ}
                 Flammodynerus flammiger (de Saussure, 1856) [species] {ID=ZOBO00033307 PUB=ZOBO00032027}
                   Flammodynerus flammiger nigroflammeus Giordani Soika, 1961 [subspecies] {ID=ZOBO00033308 PUB=ZOBO00032027}
@@ -3471,6 +3470,8 @@ Animalia [kingdom] {ID=Animalia}
                 Incodynerus urubambae (Schrottky, 1911) [species] {ID=ZOBO00039875}
                   =Hypodynerus urubambae Schrottky [species] {ID=858}
                 Incodynerus vilcanotae (Zavattari, 1912) [species] {ID=ZOBO00033444}
+              Indodynerus [genus] {ID=G-KN}
+                Indodynerus capitatus Gusenleitner, 2008 [species] {ID=ZOBO00154102}
               Intereuodynerus [genus] {ID=G-BA}
                 Intereuodynerus fritzi Gusenleitner, 1997 [species] {ID=ZOBO00037381}
                 Intereuodynerus siamesicus (Gusenleitner, 1996) [species] {ID=ZOBO00037367}
@@ -4260,6 +4261,10 @@ Animalia [kingdom] {ID=Animalia}
                 Minixi tricoloratum (Zavattari, 1911) [species] {ID=ZOBO00033849}
               Mitrodynerus [genus] {ID=G-JW}
                 Mitrodynerus vitripennis Vecht, 1981 [species] {ID=ZOBO00033850}
+              Monerebia [genus] {ID=G-GY}
+                Monerebia eximia (Smith) [species] {ID=ZOBO00125453 PUB=ZOBO00032124}
+                Monerebia splendida (Cameron) [species] {ID=ZOBO00163334}
+                  Monerebia splendida maculicollis (Cameron) [subspecies] {ID=ZOBO00125762 PUB=ZOBO00032124}
               Monobia [genus] {ID=G-66}
                 Monobia angulosa de Saussure, 1852 [species] {ID=ZOBO00033851}
                   =Monobia insularis Ashmead, 1900 [species] {ID=998}
@@ -7237,6 +7242,8 @@ Animalia [kingdom] {ID=Animalia}
                 Santamenes santanna (de Saussure, 1867) [species] {ID=ZOBO00035035}
                   =Eumenes cingulatus de Saussure, 1856 [species] {ID=1701}
                   =Eumenes laevis de Saussure, 1875 [species] {ID=1702}
+              Simplepipona [genus] {ID=G-KL} # GUSENLEITNER, F. (2009). Dr. Josef GUSENLEITNER zum 80er–ein Leben den Vespiden gewidmet. Linzer biol. Beitr, 41(2), 1001-1057.
+                Simplepipona andreanicolor Gusenleitner, 2004 [species] {ID=ZOBO00154115}
               Smeringodynerus [genus] {ID=G-G4}
                 Smeringodynerus byroni Rodriguez-Palafox, 1999 [species] {ID=ZOBO00149561}
                 Smeringodynerus morelios (de Saussure, 1857) [species] {ID=ZOBO00035036}
@@ -8112,6 +8119,14 @@ Animalia [kingdom] {ID=Animalia}
                 Zethus yarrowi Giordani Soika, 1979 [species] {ID=ZOBO00035796}
                 Zethus yepezi Stange, 1997 [species] {ID=ZOBO00037488}
                 Zethus yucatanae Bohart & Stange, 1965 [species] {ID=ZOBO00035797}
+
+            Euparagiinae Ashmead, 1902 [subfamily] {ID=SF6 VERN=de:Echte_Wespen}
+              †Curiosivespa [genus] {ID=G-9Y}
+                †Curiosivespa orapa Brothers, 1992 [species] {ID=ZOBO00037526}
+              Curiosavespa [genus] {ID=G-CE} # seems to be a misspelling of Curiosivespa
+                Curiosavespa curiosa Rasnitsyn, 1977 [species] {ID=ZOBO00037191}
+                Curiosavespa magna Rasnitsyn, 1977 [species] {ID=ZOBO00037192}
+              Euparagia [genus] {ID=G-100 EST=10 REF=Carpenter2009}
             Vespinae [subfamily] {ID=SF1 VERN=de:Echte_Wespen}
               Dolichovespula Rohwer, 1916 [genus] {ID=G-4J TYPE=Vespa_maculata}
                 Dolichovespula adulterina (Buysson, 1905) [species] {ID=ZOBO00010009 PUB=ZOBO00010009}
@@ -8591,6 +8606,11 @@ Animalia [kingdom] {ID=Animalia}
                 Apoica pallida (Olivier, 1791) [species] {ID=ZOBO00035857}
                 Apoica strigata Richards, 1978 [species] {ID=ZOBO00035858}
                 Apoica thoracica Buysson, 1906 [species] {ID=ZOBO00035859}
+              Asteloeca [genus] {ID=G-DY}
+                Asteloeca lutea Carpenter, 2004 [species] {ID=ZOBO00149670}
+                Asteloeca traili (Cameron, 1906) [species] {ID=ZOBO00036258}
+                  =Polybia obscura Ducke, 1909 [species] {ID=1937}
+                Asteloeca ujhelyii (Ducke, 1909) [species] {ID=ZOBO00149787}
               Belonogaster [genus] {ID=G-98}
                 Belonogaster abyssinicus Buysson, 1906 [species] {ID=ZOBO00035860 PUB=ZOBO00031720}
                   Belonogaster abyssinicus adenensis Giordani Soika [subspecies] {ID=ZOBO00125638 PUB=ZOBO00031812}
@@ -8747,6 +8767,15 @@ Animalia [kingdom] {ID=Animalia}
                   =Nectarinia gribodoi Buysson, 1905 [species] {ID=1980}
                   =Nectarinia rufiventris de Saussure, 1853 [species] {ID=1979}
                 Brachygastra smithii de Saussure, 1853 [species] {ID=ZOBO00035963}
+              Chartergus [genus] {ID=G-5W}
+                Chartergus acutiscutis Cameron, 1907 [species] {ID=ZOBO00063342}
+                Chartergus artifex Christ, 1791 [species] {ID=ZOBO00037447}
+                  =Vespa chartarius (Olivier, 1791) [species] {ID=1989}
+                  =Vespa nidulans Fabricius, 1793 [species] {ID=1988}
+                  =Vespa surinamensis Christ, 1791 [species] {ID=1987}
+                Chartergus globiventris de Saussure, 1854 [species] {ID=ZOBO00035976}
+                Chartergus metanotalis Richards, 1978 [species] {ID=ZOBO00035977}
+                Chartergus tuberculatus Cameron, 1907 [species] {ID=ZOBO00064861}
               Chartergellus [genus] {ID=G-BQ}
                 Chartergellus afoveatus Cooper, 1993 [species] {ID=ZOBO00037347}
                 Chartergellus amazonicus Richards, 1978 [species] {ID=ZOBO00149532}
@@ -8759,6 +8788,23 @@ Animalia [kingdom] {ID=Animalia}
                 Chartergellus punctatior Richards, 1978 [species] {ID=ZOBO00035968}
                 Chartergellus sanctus Richards, 1978 [species] {ID=ZOBO00035969}
                 Chartergellus zonatus (Spinosa, 1851) [species] {ID=ZOBO00035970}
+              Clypearia [genus] {ID=G-E2}
+                Clypearia angustior Ducke, 1906 [species] {ID=ZOBO00035978}
+                Clypearia apicipennis (Spinosa, 1851) [species] {ID=ZOBO00035979}
+                Clypearia duckei Richards, 1978 [species] {ID=ZOBO00035980}
+                Clypearia humeralis Richards, 1978 [species] {ID=ZOBO00035981}
+                Clypearia naumanni Richards, 1978 [species] {ID=ZOBO00035982}
+                Clypearia nigrior Richards, 1978 [species] {ID=ZOBO00035983}
+                Clypearia sulcata (de Saussure, 1853) [species] {ID=ZOBO00036257}
+                Clypearia weyrauchi Richards, 1978 [species] {ID=ZOBO00035984}
+              Epipona [genus] {ID=G-7U}
+                Epipona guerini (de Saussure, 1854) [species] {ID=ZOBO00036000}
+                Epipona media Cooper, 2002 [species] {ID=ZOBO00043965}
+                Epipona niger (Brèthes, 1926) [species] {ID=ZOBO00037077}
+                Epipona quadrituberculata (Gribodo, 1892) [species] {ID=ZOBO00145762}
+                  =Tatua quadrituberculata Gribodo, 1891 [species] {ID=2030}
+                Epipona tatua (Cuvier, 1797) [species] {ID=ZOBO00036002}
+                  =Vespa morio Fabricius, 1798 [species] {ID=2031}
               Icaria [genus] {ID=G-5A} # synonymized to Ropalidia Guérin-Méneville
                 Icaria africana (Cameron, 1910) [species] {ID=ZOBO00063279}
                 Icaria cariniscutis Cameron, 1910 [species] {ID=ZOBO00065017}
@@ -8767,6 +8813,36 @@ Animalia [kingdom] {ID=Animalia}
                 Icaria kohni Buysson, 1909 [species] {ID=ZOBO00064138}
                 Icaria pruinosa Cameron, 1906 [species] {ID=ZOBO00064532}
                 Icaria xanthopoda Cameron, 1902 [species] {ID=ZOBO00064942}
+              Leipomeles [genus] {ID=G-4U}
+                Leipomeles albogrisea (Richards, 1978) [species] {ID=ZOBO00065357}
+                  =Marimbonda albogrisea Richards, 1978 [species] {ID=2033}
+                Leipomeles dorsata (Fabricius, 1804) [species] {ID=ZOBO00149590}
+                Leipomeles lamellaria Moebius, 1856 [species] {ID=ZOBO00064158}
+                Leipomeles pusilla (Ducke, 1904) [species] {ID=ZOBO00065358}
+                  =Marimbonda pusilla (Ducke, 1904) [species] {ID=2034}
+                Leipomeles spilogastra Cameron, 1912 [species] {ID=ZOBO00037090}
+                  =Polistes dorsata (Fabricius, 1804) [species] {ID=2036}
+                  =Polybia nana (de Saussure, 1864) [species] {ID=2035}
+              Megacanthopus [genus] {ID=G-74} # subgenus of genus Mischocyttarus. Megacanthopus and Monacanthocnemis: synonymns of Mischocyttarus, see: Silveira, O. T. (2013). Social wasp species of Mischocyttarus (Phi) related to M. alfkenii (Ducke) and M. paraguayensis Zikán (Hymenoptera, Vespidae, Polistinae). Revista Brasileira de Entomologia, 57, 173-196.
+                Megacanthopus alfkeni Ducke, 1904 [species] {ID=ZOBO00063367}
+              Metapolybia [genus] {ID=G-6C}
+                Metapolybia acincta Richards, 1978 [species] {ID=ZOBO00036018}
+                Metapolybia azteca Araujo, 1945 [species] {ID=ZOBO00036019}
+                Metapolybia aztecoides Richards, 1978 [species] {ID=ZOBO00036020}
+                Metapolybia bromelicola Araujo, 1945 [species] {ID=ZOBO00036021}
+                Metapolybia cingulata (Fabricius, 1804) [species] {ID=ZOBO00036022}
+                  =Polybia pediculata de Saussure, 1853 [species] {ID=2038}
+                Metapolybia decorata (Gribodo, 1896) [species] {ID=ZOBO00036023}
+                Metapolybia docilis Richards, 1978 [species] {ID=ZOBO00036024}
+                Metapolybia encantata Cooper, 1999 [species] {ID=ZOBO00043961}
+                Metapolybia mesoamerica Smethrust & Carpenter, 1997 [species] {ID=ZOBO00037446}
+                Metapolybia nigra Richards, 1978 [species] {ID=ZOBO00036025}
+                Metapolybia rufata Richards, 1978 [species] {ID=ZOBO00036026}
+                Metapolybia rufopicta Ducke, 1910 [species] {ID=ZOBO00064631}
+                Metapolybia servilis Cooper, 1999 [species] {ID=ZOBO00043963}
+                Metapolybia silvicola Cooper, 1999 [species] {ID=ZOBO00043962}
+                Metapolybia suffusa (Fox, 1899) [species] {ID=ZOBO00036027}
+                Metapolybia unilineata (Ihering, 1904) [species] {ID=ZOBO00036028}
               Mischocyttarus Saussure, 1853 [genus] {ID=G-5Q}
                 Mischocyttarus acunai Alayo, 1972 [species] {ID=ZOBO00036031}
                 Mischocyttarus adjectus Zikan, 1935 [species] {ID=ZOBO00036032}
@@ -9097,6 +9173,9 @@ Animalia [kingdom] {ID=Animalia}
                 Mischocyttarus xanthocerus Richards, 1945 [species] {ID=ZOBO00036252}
                 Mischocyttarus ypiranguensis Fonseca, 1926 [species] {ID=ZOBO00036253}
                 Mischocyttarus zikaninus Richards, 1978 [species] {ID=ZOBO00036254}
+              Nectarinella [genus] {ID=G-9W}
+                Nectarinella championi (Dover, 1925) [species] {ID=ZOBO00036256}
+                Nectarinella xavantinensis Mateus & Noll, 1998 [species] {ID=ZOBO00037527}
               Parachartergus Ihering, 1904 [genus] {ID=G-7W}
                 Parachartergus amazonensis (Ducke, 1907) [species] {ID=ZOBO00036265}
                 Parachartergus apicalis (Fabricius, 1804) [species] {ID=ZOBO00036266}
@@ -9133,6 +9212,8 @@ Animalia [kingdom] {ID=Animalia}
                 Parachartergus wagneri Buysson, 1904 [species] {ID=ZOBO00036279}
                 Parachartergus weyrauchi Willink, 1959 [species] {ID=ZOBO00036280}
                   Parachartergus weyrauchi decipiens Willink, 1959 [subspecies] {ID=ZOBO00036281}
+              Paraicaria [genus] {ID=G-6Y} # subgenus of genus Ropalidia: Kojima, J. I., & Carpenter, J. M. (1997). Catalog of species in the polistine tribe Ropalidiini (Hymenoptera, Vespidae). American Museum novitates; no. 3199.: "While his subgeneric division is now widely accepted, all six subgenera except Paraicaria are so ill-defined that one can hardly decide the subgeneric affiliation of a given species
+                Paraicaria bicolor Gribodo, 1892 [species] {ID=ZOBO00063490}
               Parapolybia Saussure, 1854 [genus] {ID=G-DU}
                 Parapolybia escalerae (Meade-Waldo, 1911) [species] {ID=ZOBO00036282}
                 Parapolybia indica (de Saussure, 1854) [species] {ID=ZOBO00036283}
@@ -9814,6 +9895,55 @@ Animalia [kingdom] {ID=Animalia}
                 Polybioides tabidus (Fabricius, 1781) [species] {ID=ZOBO00036686}
                   =Polybia bucula Buysson, 1902 [species] {ID=2313}
                   =Polybia isabellina Schulthess, 1913 [species] {ID=2314}
+              Protonectarina [genus] {ID=G-DN}
+                Protonectarina sylveirae (de Saussure, 1854) [species] {ID=ZOBO00036687}
+                  =Polybia enxuy Smith, 1863 [species] {ID=2315}
+              Protopolybia [genus] {ID=G-B8}
+                Protopolybia acutiscutis (Cameron, 1906) [species] {ID=ZOBO00036688}
+                Protopolybia aliciae Silveira, 2004 [species] {ID=ZOBO00149531}
+                Protopolybia alvarengai Richards, 1978 [species] {ID=ZOBO00036689}
+                Protopolybia amarella Bequard, 1944 [species] {ID=ZOBO00036690}
+                Protopolybia bella (Ihering, 1903) [species] {ID=ZOBO00036691}
+                Protopolybia biguttata Bequard, 1944 [species] {ID=ZOBO00036692}
+                Protopolybia bituberculata Silveira & Carpenter, 1995 [species] {ID=ZOBO00037385}
+                Protopolybia cameranii (Zavattari, 1906) [species] {ID=ZOBO00036693}
+                Protopolybia chanchamayensis Bequard, 1944 [species] {ID=ZOBO00036694}
+                Protopolybia chartergoides (Gribodo, 1891) [species] {ID=ZOBO00036695}
+                  Protopolybia chartergoides boshelli Bequard, 1938 [subspecies] {ID=ZOBO00036696}
+                  Protopolybia chartergoides cinctella (Fox, 1898) [subspecies] {ID=ZOBO00036697}
+                  Protopolybia chartergoides isthmensis Richards, 1978 [subspecies] {ID=ZOBO00036698}
+                Protopolybia duckeiana Richards, 1978 [species] {ID=ZOBO00036699}
+                Protopolybia duckei (Buysson, 1905) [species] {ID=ZOBO00149593}
+                Protopolybia emortualis (de Saussure, 1855) [species] {ID=ZOBO00036700}
+                  =Charterginus duckei Buysson, 1905 [species] {ID=2318}
+                  =Charterginus rufoornata Cameron, 1912 [species] {ID=2317}
+                  =Chartergus rufiventris Ducke, 1904 [species] {ID=2316}
+                Protopolybia exigua (de Saussure, 1906) [species] {ID=ZOBO00036701}
+                  =Polybia diligens Smith, 1857 [species] {ID=2320}
+                  =Polybia nana Cameron, 1912 [species] {ID=2319}
+                  Protopolybia exigua binominata (Schulz) [subspecies] {ID=ZOBO00036702}
+                Protopolybia fuscata (Fox, 1898) [species] {ID=ZOBO00036703}
+                Protopolybia holoxantha (Ducke, 1904) [species] {ID=ZOBO00036704}
+                Protopolybia iheringi Ducke, 1910 [species] {ID=ZOBO00036705}
+                Protopolybia laboriosa (de Saussure, 1854) [species] {ID=ZOBO00036706}
+                Protopolybia minutissima (Spinosa, 1851) [species] {ID=ZOBO00036707}
+                Protopolybia nitida (Ducke, 1904) [species] {ID=ZOBO00036708}
+                  =Chartergus polybianitida Ducke, 1905 [species] {ID=2321}
+                Protopolybia pallidibalteata (Cameron, 1912) [species] {ID=ZOBO00036709}
+                Protopolybia panamensis (Zavattari, 1906) [species] {ID=ZOBO00036710}
+                Protopolybia perfulvula Bequard, 1944 [species] {ID=ZOBO00036711}
+                Protopolybia picteti (de Saussure, 1854) [species] {ID=ZOBO00036712}
+                  Protopolybia picteti fulvotincta (Cameron, 1907) [subspecies] {ID=ZOBO00036713}
+                Protopolybia rotundata Ducke, 1910 [species] {ID=ZOBO00036714}
+                Protopolybia rubrithorax Bequard, 1944 [species] {ID=ZOBO00036715}
+                Protopolybia rugulosa Ducke, 1907 [species] {ID=ZOBO00036716}
+                Protopolybia scutellaris Bequard, 1944 [species] {ID=ZOBO00036717}
+                Protopolybia sedula (de Saussure, 1854) [species] {ID=ZOBO00036718}
+                  =Polybia pumila de Saussure, 1863 [species] {ID=2323}
+                  =Protopolybia punctulata Ducke, 1909 [species] {ID=2322}
+                Protopolybia steinbachi Richards, 1978 [species] {ID=ZOBO00036719}
+                Protopolybia weyrauchi Bequard, 1944 [species] {ID=ZOBO00036720}
+                Protopolybia wheeleri Bequard, 1944 [species] {ID=ZOBO00036721}
               Ropalidia Guérin-Méneville 1831 [genus] {ID=G-6J}
                 Ropalidia aethiopica (Buysson, 1906) [species] {ID=ZOBO00036729 PUB=ZOBO00031812}
                   Ropalidia aethiopica bimaculata Giordani Soika, 1981 [subspecies] {ID=ZOBO00036730}
@@ -10144,6 +10274,12 @@ Animalia [kingdom] {ID=Animalia}
                 Anischnogaster loriai (Buysson, 1909) [species] {ID=ZOBO00035848}
                   Anischnogaster loriai maculata Vecht, 1972 [subspecies] {ID=ZOBO00035849}
                 Anischnogaster spilaspis (Cameron, 1913) [species] {ID=ZOBO00035850}
+              Chalogaster [genus] {ID=G-9N}
+                Chalogaster spatulata Carpenter & Starr, 2000 [species] {ID=ZOBO00037557}
+              Cochlischnogaster [genus] {ID=G-FQ}
+                Cochlischnogaster daduoganensis Dong & Otsuka, 1997 [species] {ID=ZOBO00149581}
+                Cochlischnogaster menglunensis Dong & Otsuka, 1997 [species] {ID=ZOBO00149680}
+                Cochlischnogaster spatulata (Carpenter & Starr, 2000) [species] {ID=ZOBO00149759}
               Eustenogaster Vecht, 1969 [genus] {ID=G-CL}
                 Eustenogaster agilis (Smith, 1861) [species] {ID=ZOBO00036003}
                 Eustenogaster bicarinatus Dover & Rao, 1922 [species] {ID=ZOBO00036952}
@@ -10213,13 +10349,6 @@ Animalia [kingdom] {ID=Animalia}
                   =Ischnogaster foveatus Buysson, 1907 [species] {ID=2129}
                 Parischnogaster timida (Williams, 1928) [species] {ID=ZOBO00035851}
                 Parischnogaster unicuspata Reyes, 1988 [species] {ID=ZOBO00037165}
-            Asteloeca [genus] {ID=G-DY}
-              Asteloeca lutea Carpenter, 2004 [species] {ID=ZOBO00149670}
-              Asteloeca traili (Cameron, 1906) [species] {ID=ZOBO00036258}
-                =Polybia obscura Ducke, 1909 [species] {ID=1937}
-              Asteloeca ujhelyii (Ducke, 1909) [species] {ID=ZOBO00149787}
-            Chalogaster [genus] {ID=G-9N}
-              Chalogaster spatulata Carpenter & Starr, 2000 [species] {ID=ZOBO00037557}
             Charterginus [genus] {ID=G-DJ}
               Charterginus carinatus Zavattari, 1906 [species] {ID=ZOBO00035971}
               Charterginus fulvus Fox, 1904 [species] {ID=ZOBO00035972}
@@ -10231,74 +10360,13 @@ Animalia [kingdom] {ID=Animalia}
               Charterginus zavattari Richards, 1978 [species] {ID=ZOBO00035975}
             Chatergellus [genus] {ID=G-C8}
               Chatergellus afoveatus Cooper, 1993 [species] {ID=ZOBO00037206}
-            Clypearia [genus] {ID=G-E2}
-              Clypearia angustior Ducke, 1906 [species] {ID=ZOBO00035978}
-              Clypearia apicipennis (Spinosa, 1851) [species] {ID=ZOBO00035979}
-              Clypearia duckei Richards, 1978 [species] {ID=ZOBO00035980}
-              Clypearia humeralis Richards, 1978 [species] {ID=ZOBO00035981}
-              Clypearia naumanni Richards, 1978 [species] {ID=ZOBO00035982}
-              Clypearia nigrior Richards, 1978 [species] {ID=ZOBO00035983}
-              Clypearia sulcata (de Saussure, 1853) [species] {ID=ZOBO00036257}
-              Clypearia weyrauchi Richards, 1978 [species] {ID=ZOBO00035984}
-            Curiosavespa [genus] {ID=G-CE}
-              Curiosavespa curiosa Rasnitsyn, 1977 [species] {ID=ZOBO00037191}
-              Curiosavespa magna Rasnitsyn, 1977 [species] {ID=ZOBO00037192}
-            Curiosivespa [genus] {ID=G-9Y}
-              Curiosivespa orapa Brothers, 1992 [species] {ID=ZOBO00037526}
             Dolchivespula [genus] {ID=G-8N}
               Dolchivespula intermedia Birula [species] {ID=ZOBO00039873}
                 =Dolichovespula asiatica Archer, 1981 [species] {ID=1990}
-            Epipona [genus] {ID=G-7U}
-              Epipona guerini (de Saussure, 1854) [species] {ID=ZOBO00036000}
-              Epipona media Cooper, 2002 [species] {ID=ZOBO00043965}
-              Epipona niger (Brèthes, 1926) [species] {ID=ZOBO00037077}
-              Epipona quadrituberculata (Gribodo, 1892) [species] {ID=ZOBO00145762}
-                =Tatua quadrituberculata Gribodo, 1891 [species] {ID=2030}
-              Epipona tatua (Cuvier, 1797) [species] {ID=ZOBO00036002}
-                =Vespa morio Fabricius, 1798 [species] {ID=2031}
-            Leipomeles [genus] {ID=G-4U}
-              Leipomeles albogrisea (Richards, 1978) [species] {ID=ZOBO00065357}
-                =Marimbonda albogrisea Richards, 1978 [species] {ID=2033}
-              Leipomeles dorsata (Fabricius, 1804) [species] {ID=ZOBO00149590}
-              Leipomeles lamellaria Moebius, 1856 [species] {ID=ZOBO00064158}
-              Leipomeles pusilla (Ducke, 1904) [species] {ID=ZOBO00065358}
-                =Marimbonda pusilla (Ducke, 1904) [species] {ID=2034}
-              Leipomeles spilogastra Cameron, 1912 [species] {ID=ZOBO00037090}
-                =Polistes dorsata (Fabricius, 1804) [species] {ID=2036}
-                =Polybia nana (de Saussure, 1864) [species] {ID=2035}
-            Megacanthopus [genus] {ID=G-74}
-              Megacanthopus alfkeni Ducke, 1904 [species] {ID=ZOBO00063367}
-            Metapolybia [genus] {ID=G-6C}
-              Metapolybia acincta Richards, 1978 [species] {ID=ZOBO00036018}
-              Metapolybia azteca Araujo, 1945 [species] {ID=ZOBO00036019}
-              Metapolybia aztecoides Richards, 1978 [species] {ID=ZOBO00036020}
-              Metapolybia bromelicola Araujo, 1945 [species] {ID=ZOBO00036021}
-              Metapolybia cingulata (Fabricius, 1804) [species] {ID=ZOBO00036022}
-                =Polybia pediculata de Saussure, 1853 [species] {ID=2038}
-              Metapolybia decorata (Gribodo, 1896) [species] {ID=ZOBO00036023}
-              Metapolybia docilis Richards, 1978 [species] {ID=ZOBO00036024}
-              Metapolybia encantata Cooper, 1999 [species] {ID=ZOBO00043961}
-              Metapolybia mesoamerica Smethrust & Carpenter, 1997 [species] {ID=ZOBO00037446}
-              Metapolybia nigra Richards, 1978 [species] {ID=ZOBO00036025}
-              Metapolybia rufata Richards, 1978 [species] {ID=ZOBO00036026}
-              Metapolybia rufopicta Ducke, 1910 [species] {ID=ZOBO00064631}
-              Metapolybia servilis Cooper, 1999 [species] {ID=ZOBO00043963}
-              Metapolybia silvicola Cooper, 1999 [species] {ID=ZOBO00043962}
-              Metapolybia suffusa (Fox, 1899) [species] {ID=ZOBO00036027}
-              Metapolybia unilineata (Ihering, 1904) [species] {ID=ZOBO00036028}
             Monacanthocnemis [genus] {ID=G-E4}
               Monacanthocnemis buyssoni Ducke, 1906 [species] {ID=ZOBO00036255}
-            Monerebia [genus] {ID=G-GY}
-              Monerebia eximia (Smith) [species] {ID=ZOBO00125453 PUB=ZOBO00032124}
-              Monerebia splendida (Cameron) [species] {ID=ZOBO00163334}
-                Monerebia splendida maculicollis (Cameron) [subspecies] {ID=ZOBO00125762 PUB=ZOBO00032124}
             Myraptera [genus] {ID=G-6Q}
               Myraptera elegans Curtis, 1844 [species] {ID=ZOBO00063808}
-            Nectarinella [genus] {ID=G-9W}
-              Nectarinella championi (Dover, 1925) [species] {ID=ZOBO00036256}
-              Nectarinella xavantinensis Mateus & Noll, 1998 [species] {ID=ZOBO00037527}
-            Paraicaria [genus] {ID=G-6Y}
-              Paraicaria bicolor Gribodo, 1892 [species] {ID=ZOBO00063490}
             Priorvespa [genus] {ID=G-CG}
               Priorvespa bullata Carpenter, 1990 [species] {ID=ZOBO00037175}
               Priorvespa directa Carpenter, 1990 [species] {ID=ZOBO00037176}
@@ -10306,73 +10374,7 @@ Animalia [kingdom] {ID=Animalia}
               Priorvespa minuta Carpenter, 1990 [species] {ID=ZOBO00037177}
               Priorvespa quadrata Carpenter, 1990 [species] {ID=ZOBO00037178}
               Priorvespa recidiva Carpenter, 1990 [species] {ID=ZOBO00037179}
-            Protonectarina [genus] {ID=G-DN}
-              Protonectarina sylveirae (de Saussure, 1854) [species] {ID=ZOBO00036687}
-                =Polybia enxuy Smith, 1863 [species] {ID=2315}
-            Protopolybia [genus] {ID=G-B8}
-              Protopolybia acutiscutis (Cameron, 1906) [species] {ID=ZOBO00036688}
-              Protopolybia aliciae Silveira, 2004 [species] {ID=ZOBO00149531}
-              Protopolybia alvarengai Richards, 1978 [species] {ID=ZOBO00036689}
-              Protopolybia amarella Bequard, 1944 [species] {ID=ZOBO00036690}
-              Protopolybia bella (Ihering, 1903) [species] {ID=ZOBO00036691}
-              Protopolybia biguttata Bequard, 1944 [species] {ID=ZOBO00036692}
-              Protopolybia bituberculata Silveira & Carpenter, 1995 [species] {ID=ZOBO00037385}
-              Protopolybia cameranii (Zavattari, 1906) [species] {ID=ZOBO00036693}
-              Protopolybia chanchamayensis Bequard, 1944 [species] {ID=ZOBO00036694}
-              Protopolybia chartergoides (Gribodo, 1891) [species] {ID=ZOBO00036695}
-                Protopolybia chartergoides boshelli Bequard, 1938 [subspecies] {ID=ZOBO00036696}
-                Protopolybia chartergoides cinctella (Fox, 1898) [subspecies] {ID=ZOBO00036697}
-                Protopolybia chartergoides isthmensis Richards, 1978 [subspecies] {ID=ZOBO00036698}
-              Protopolybia duckeiana Richards, 1978 [species] {ID=ZOBO00036699}
-              Protopolybia duckei (Buysson, 1905) [species] {ID=ZOBO00149593}
-              Protopolybia emortualis (de Saussure, 1855) [species] {ID=ZOBO00036700}
-                =Charterginus duckei Buysson, 1905 [species] {ID=2318}
-                =Charterginus rufoornata Cameron, 1912 [species] {ID=2317}
-                =Chartergus rufiventris Ducke, 1904 [species] {ID=2316}
-              Protopolybia exigua (de Saussure, 1906) [species] {ID=ZOBO00036701}
-                =Polybia diligens Smith, 1857 [species] {ID=2320}
-                =Polybia nana Cameron, 1912 [species] {ID=2319}
-                Protopolybia exigua binominata (Schulz) [subspecies] {ID=ZOBO00036702}
-              Protopolybia fuscata (Fox, 1898) [species] {ID=ZOBO00036703}
-              Protopolybia holoxantha (Ducke, 1904) [species] {ID=ZOBO00036704}
-              Protopolybia iheringi Ducke, 1910 [species] {ID=ZOBO00036705}
-              Protopolybia laboriosa (de Saussure, 1854) [species] {ID=ZOBO00036706}
-              Protopolybia minutissima (Spinosa, 1851) [species] {ID=ZOBO00036707}
-              Protopolybia nitida (Ducke, 1904) [species] {ID=ZOBO00036708}
-                =Chartergus polybianitida Ducke, 1905 [species] {ID=2321}
-              Protopolybia pallidibalteata (Cameron, 1912) [species] {ID=ZOBO00036709}
-              Protopolybia panamensis (Zavattari, 1906) [species] {ID=ZOBO00036710}
-              Protopolybia perfulvula Bequard, 1944 [species] {ID=ZOBO00036711}
-              Protopolybia picteti (de Saussure, 1854) [species] {ID=ZOBO00036712}
-                Protopolybia picteti fulvotincta (Cameron, 1907) [subspecies] {ID=ZOBO00036713}
-              Protopolybia rotundata Ducke, 1910 [species] {ID=ZOBO00036714}
-              Protopolybia rubrithorax Bequard, 1944 [species] {ID=ZOBO00036715}
-              Protopolybia rugulosa Ducke, 1907 [species] {ID=ZOBO00036716}
-              Protopolybia scutellaris Bequard, 1944 [species] {ID=ZOBO00036717}
-              Protopolybia sedula (de Saussure, 1854) [species] {ID=ZOBO00036718}
-                =Polybia pumila de Saussure, 1863 [species] {ID=2323}
-                =Protopolybia punctulata Ducke, 1909 [species] {ID=2322}
-              Protopolybia steinbachi Richards, 1978 [species] {ID=ZOBO00036719}
-              Protopolybia weyrauchi Bequard, 1944 [species] {ID=ZOBO00036720}
-              Protopolybia wheeleri Bequard, 1944 [species] {ID=ZOBO00036721}
-            Sphex [genus] {ID=G-6W}
-              Sphex cruciata Christ, 1791 [species] {ID=ZOBO00063715}
             Sybillina [genus] {ID=G-DE}
               Sybillina aenigmatica Westwood, 1868 [species] {ID=ZOBO00036956}
           Allorhyncium [genus] {ID=G-G2}
             Allorhyncium clypeatum (Cameron, 1900) [species] {ID=ZOBO00149574}
-          Cochlischnogaster [genus] {ID=G-FQ}
-            Cochlischnogaster daduoganensis Dong & Otsuka, 1997 [species] {ID=ZOBO00149581}
-            Cochlischnogaster menglunensis Dong & Otsuka, 1997 [species] {ID=ZOBO00149680}
-            Cochlischnogaster spatulata (Carpenter & Starr, 2000) [species] {ID=ZOBO00149759}
-          Emeryrhynchium [genus] {ID=G-KW}
-            Emeryrhynchium emeryanus (Gribodo, 1892) [species] {ID=ZOBO00153988 PUB=ZOBO00023971}
-              =Emeryrhynchium emaryanum (Gribodo, 1892) [species] {ID=640}
-              =Odynerus emeryanum Gribodo, 1892 [species] {ID=641}
-              =Odynerus emeryanus Gribodo, 1892 [species] {ID=642}
-          Extreuodynerus [genus] {ID=G-KS}
-            Extreuodynerus mirificus Gusenleitner, 2007 [species] {ID=ZOBO00154001 PUB=ZOBO00023971}
-          Indodynerus [genus] {ID=G-KN}
-            Indodynerus capitatus Gusenleitner, 2008 [species] {ID=ZOBO00154102}
-          Simplepipona [genus] {ID=G-KL}
-            Simplepipona andreanicolor Gusenleitner, 2004 [species] {ID=ZOBO00154115}

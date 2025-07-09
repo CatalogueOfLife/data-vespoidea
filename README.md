@@ -49,6 +49,9 @@ There are also online editors, e.g. https://truben.no/latex/bibtex/#
 
 In the future we consider to use Mendeley or Zotero to collaboratively manage references and export them to a BibTex file to be used in the repository.
 
+### PDFs
+We keep open access publications in a refs subfolder, named after the exact same ID used in the reference.bib BibTeX file.
+
 
 ### Github webhooks
 Github webhooks are used to automatically update the copy in [ChecklistBank](https://www.checklistbank.org/dataset/1037) 
