@@ -2243,7 +2243,6 @@ Animalia [kingdom] {ID=Animalia}
                   =Eumenes tricolor Cameron, 1906 [species] {ID=578}
                   Delta campaniforme assatus (Giordani Soika, 1934) [subspecies] {ID=ZOBO00032784}
                   Delta campaniforme cameroni (Bequaert, 1907) [subspecies] {ID=ZOBO00032785}
-                  Delta campaniforme esuriens (de Saussure) [subspecies] {ID=ZOBO00125792 PUB=ZOBO00010025}
                   Delta campaniforme gracilior Giordani Soika, 1986 [subspecies] {ID=ZOBO00032786}
                   Delta campaniforme keyensis Giordani Soika, 1972 [subspecies] {ID=ZOBO00032788 PUB=ZOBO00032148}
                   Delta campaniforme nigriculum Giordani Soika, 1986 [subspecies] {ID=ZOBO00032789}
@@ -2290,6 +2289,9 @@ Animalia [kingdom] {ID=Animalia}
                   =Zethus guineensis Fabricius, 1804 [species] {ID=595}
                   Delta emarginatum savignyi (Guerin, 1835) [subspecies] {ID=ZOBO00032801}
                 Delta esuriens (Fabricius, 1787) [species] {ID=ZOBO00032802}
+                  Delta esuriens esuriens (Fabricius, 1787) [subspecies] {ID=2504}
+                    =Delta campaniforme esuriens (Fabricius, 1787) [subspecies] {ID=ZOBO00125792 PUB=ZOBO00010025}
+                    =Eumenes campaniformis esuriens Fabricius, 1787 [subspecies] {ID=ZOBO00125655 PUB=ZOBO00031812}
                   Delta esuriens gracile (de Saussure, 1852) [subspecies] {ID=ZOBO00032803 PUB=ZOBO00023971}
                     =Delta campaniformis (Fabricius, 1775) [species] {ID=599}
                     =Eumenes campaniformis Fabricius, 1775 [species] {ID=598}
@@ -2588,7 +2590,6 @@ Animalia [kingdom] {ID=Animalia}
                   Eumenes campaniformis asinus de Saussure [subspecies] {ID=ZOBO00125660 PUB=ZOBO00125660}
                   Eumenes campaniformis assatus Giordani Soika [subspecies] {ID=ZOBO00125649 PUB=ZOBO00032120}
                   Eumenes campaniformis cameroni Bequard [subspecies] {ID=ZOBO00125656 PUB=ZOBO00031812}
-                  Eumenes campaniformis esuriens Fabricius [subspecies] {ID=ZOBO00125655 PUB=ZOBO00031812}
                   Eumenes campaniformis guerini de Saussure [subspecies] {ID=ZOBO00125664 PUB=ZOBO00125200}
                   Eumenes campaniformis pensilis de Saussure [subspecies] {ID=ZOBO00125663 PUB=ZOBO00125200}
                   Eumenes campaniformis stuhlmanni Schulthess [subspecies] {ID=ZOBO00125662 PUB=ZOBO00125200}
