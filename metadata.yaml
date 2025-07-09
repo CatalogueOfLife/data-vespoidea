@@ -30,6 +30,12 @@ creator:
   country: AT
   address: "Linz, Austria"
   organisation: Oberostereichisches Landesmuseum
+ - 
+  orcid: 0009-0002-9660-242X
+  given: Brian 
+  family: Dagley
+  country: US
+  url: https://www.inaturalist.org/people/3069707
  -
   orcid: 0000-0001-7757-1889
   given: Markus
@@ -48,10 +54,6 @@ creator:
   country: US
   address: "Champaign, IL, United States of America"
   organisation: Illinois Natural History Survey
- - 
-  given: Brian 
-  family: Dagley
-  country: US
 
 keyword: 
   - wasp
